@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Cross-Document Messaging Example</title>
+	</head>
+
+	<body>
+		<iframe src="http://www.eecs.tufts.edu/~mchow/defcon19/examples/cdm_receiver.html" id="iframe"></iframe>
+		<form id="form">
+			<p><input type="text" id="msg" value="Message to send"/> <input type="submit"/></p>
+		</form>
+		<script>
+			console.log("The sender loaded...");
+			window.onload = function() {
+				var win = document.getElementById("iframe").contentWindow;
+				document.getElementById("form").onsubmit = function(e) {
+					win.postMessage(document.getElementById("msg").value, "http://www.eecs.tufts.edu/");
+
+					// Cancels the event if it is cancelable, without stopping further propagation of the event.
+					// See https://developer.mozilla.org/en/DOM/event.preventDefault
+					e.preventDefault();
+				};
+			};
+		</script>
+	</body>
+</html>
+
