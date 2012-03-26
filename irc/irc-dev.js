@@ -21,7 +21,6 @@ function reload()
 {
 	$.getJSON('http://lecturer.heroku.com/posts.json', function(data) {
 		for (i = counter; i < data.length; i++) {
-			console.log(data[i]);
 			$("div#log").append('<p><span class="username">' + HtmlEncode(data[i].username) + '</span> <span class="datetime">' + data[i].created_at + '</span>: <span class="msg">' + HtmlEncode(data[i].content) + '</span></p>')
 		}
 		counter = data.length;
