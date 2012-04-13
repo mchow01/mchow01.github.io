@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>Git</title>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=1024" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" />
+<link href="css/impress-demo.css" rel="stylesheet" />
+<link rel="shortcut icon" href="favicon.png" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+</head>
+
+<body class="impress-not-supported">
+	<div class="fallback-message">
+    	<p>Your browser <strong>doesn't support the features required</strong> by impress.js, so you are presented with a simplified version of this presentation.  For the best experience please use the latest <strong>Chrome</strong>, <strong>Safari</strong> or <strong>Firefox</strong> browser.</p>
+	</div>
+	<div id="impress">
+		<div id="slide1" class="step slide" data-x="-1000" data-y="-1500">
+			<q>What is Git?</q>
+			<br/>
+			<p>Software version control system</p>
+			<br/>
+			<p>Source code management</p>
+			<br/>
+			<p><strong>Distributed</strong> - many developers can work on a given project from different locations and networks</p>
+		</div>
+		<div id="slide2" class="step slide" data-x="0" data-y="-1500">
+			<q>Why Git?</q>
+			<br/>
+			<p>Extremely fast and efficient</p>
+			<br/>
+			<p>Lightweight</p>
+			<br/>
+			<p>Largely local-based, not dependent on a remote network</p>
+			<br/>
+			<p>Easy to learn</p>
+		</div>
+		<div id="slide3" class="step slide" data-x="1000" data-y="-1500">
+			<q>&#0133;And Then There is GitHub</q>
+			<br/>
+			<p><a href="https://github.com/">https://github.com/</a></p>
+			<br/>
+			<p>Web-based hosting of Git projects</p>
+			<br/>
+			<p>Fosters even greater collaboration!</p>
+			<br/>
+			<p>Social</p>
+		</div>
+		<div id="slide4" class="step slide" data-x="2000" data-y="-1500">
+			<q>Getting Started</q>
+			<br/>
+			<p>RTFM @ <a href="http://help.github.com/">http://help.github.com/</a> (you will need to download and install Git first)</p>
+		</div>
+		<div id="slide5" class="step slide" data-x="3000" data-y="-1500">
+			<q>The Most Important Commands</q>
+			<br/>
+			<p><strong>git clone</strong> - Download a copy of a repository</p>
+			<br/>
+			<p><strong>git pull</strong> - Update your repository with latest changes from remote</p>
+			<br/>
+			<p><strong>git add</strong> - Add file(s) to your staging area</p>
+			<br/>
+			<p><strong>git commit</strong> - Record your snapshot into your history; "bless" your work</p>
+			<br/>
+			<p><strong>git push</strong> - Upload your changes to the remote repository (e.g., GitHub)</p>
+		</div>
+		<div id="slide6" class="step slide" data-x="4000" data-y="-1500">
+			<q>The Road Ahead, Happy Hacking!</q>
+			<br/>
+			<p><em>web n00b</em> - <strong>git clone https://github.com/tuftswebdev/starter.git</strong></p>
+			<br/>
+			<p><em>game n00b</em> - <strong>git clone https://github.com/mchow01/GameLabs.git</strong></p>
+			<br/>
+			<p><em>Hacker 1</em> - <strong>git clone https://github.com/twitter/bootstrap.git</strong></p>
+			<br/>
+			<p><em>Hacker 2</em> - <strong>git clone https://github.com/h5bp/html5-boilerplate.git</strong></p>
+		</div>
+	</div>
+	<div class="hint">
+		<p>Use a spacebar or arrow keys to navigate</p>
+	</div>
+	<script>
+		if ("ontouchstart" in document.documentElement) {
+			document.querySelector(".hint").innerHTML = "<p>Tap on the left or right to navigate</p>";
+		}
+	</script>
+	<script src="js/impress.js"></script>
+	<script>impress().init();</script>
+</body>   
+</html>
