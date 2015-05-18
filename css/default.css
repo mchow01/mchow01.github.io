@@ -1,7 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
 body {
-  padding: 25px;
+  padding: 10px;
   font: 16px Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #000;
+}
+
+#nav {
+	text-align: center;
 }
