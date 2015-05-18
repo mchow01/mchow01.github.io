@@ -6,6 +6,6 @@ body {
   color: #000;
 }
 
-#nav {
+#header, #nav {
 	text-align: center;
 }
