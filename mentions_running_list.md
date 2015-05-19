@@ -22,14 +22,15 @@ http://www.sourceconference.com/boston/speakers_2013.html
 http://www.meetup.com/boston-security-meetup/events/70273852/
 http://defcon.org/html/defcon-21/dc-21-speakers.html#Chow
 http://www.tuftsdaily.com/news/department-of-computer-science-struggles-with-course-over-enrollment-1.2853148#.UufXWhAo6Um
-http://www.cigital.com/silver-bullet/show-094/
 http://www.tuftsdaily.com/news/over-100-students-participate-in-tufts-latest-hackathon-1.2854646#.UvQ1qkIigU4
 http://sites.tufts.edu/trva/2014-winners/software2014/
 http://searchsecurity.techtarget.com/news/2240223436/Harassment-claims-call-OWASP-leadership-governance-into-question
-http://securityweekly.com/2014/11/07/check-out-episode-394-interview-with-ming-chow/
-http://now.tufts.edu/articles/engineering-reality
 http://www.fredkschott.com/post/50510962864/introducing-covim-collaborative-editing-for-vim
 http://secanalysis.com/youd-have-to-know-dark-tangent/
+http://www.cigital.com/silver-bullet/show-094/
+http://securityweekly.com/2014/11/07/check-out-episode-394-interview-with-ming-chow/
+http://now.tufts.edu/articles/engineering-reality
+https://now.tufts.edu/articles/art-game-design
 
 #Videos
 http://vimeo.com/51075826 (InfoSec World 2012)
@@ -38,3 +39,4 @@ https://www.youtube.com/watch?v=lcO1BTNh8r8 (DEF CON 21)
 https://www.youtube.com/watch?v=2pvwQ1Och9o (DEF CON 19, official) http://www.youtube.com/watch?v=4T6_CxvKITI
 https://www.youtube.com/watch?v=JsGUiGXlNnc (BSides Boston Talk)
 https://www.youtube.com/watch?v=GTt3qvdTexM (BSides Boston Panel)
+https://www.youtube.com/watch?v=eGMfR3NfnWg (Security Weekly Episode 394)
