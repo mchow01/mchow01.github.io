@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ming Y. Chow</title>
+    <description>Ming Chow&#39;s website
+</description>
+    <link>https://mchow01.github.io/</link>
+    <atom:link href="https://mchow01.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 12 Jun 2015 15:48:28 -0400</pubDate>
+    <lastBuildDate>Fri, 12 Jun 2015 15:48:28 -0400</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+  </channel>
+</rss>
