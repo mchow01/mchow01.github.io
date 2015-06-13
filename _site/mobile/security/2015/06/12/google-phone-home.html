@@ -6,12 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Ming Y. Chow</title>
-  <meta name="description" content="Ming Chow's website
-">
+  <title>How often does a *Google* Android device phones home?</title>
+  <meta name="description" content="“We don’t love Google so much any more, mainly because we trust it less and less. More and more people have realized that the Google search engine is hugely ...">
 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="https://mchow01.github.io/">
+  <link rel="canonical" href="https://mchow01.github.io/mobile/security/2015/06/12/google-phone-home.html">
   <link rel="alternate" type="application/rss+xml" title="Ming Y. Chow" href="https://mchow01.github.io/feed.xml" />
 </head>
 
@@ -67,31 +66,33 @@
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="home">
+        <div class="post">
 
-  <h1 class="page-heading">Posts</h1>
+  <header class="post-header">
+    <h1 class="post-title">How often does a *Google* Android device phones home?</h1>
+    <p class="post-meta">Jun 12, 2015</p>
+  </header>
 
-  <ul class="post-list">
-    
-      <li>
-        <span class="post-meta">Jun 12, 2015</span>
+  <article class="post-content">
+    <p><a href="http://www.infoworld.com/article/2610866/techology-business/too-big-to-trust--google-s-growing-credibility-gap.html" target="_blank"><em>“We don’t love Google so much any more, mainly because we trust it less and less. More and more people have realized that the Google search engine is hugely biased in favor of advertisers, and the results are increasingly manipulated by Google for inscrutable purposes. Google seems to track anything and everything we do – it peruses our emails, our files stored on its servers, our locations, and our chats.”</em></a></p>
 
-        <h2>
-          <a class="post-link" href="/mobile/security/2015/06/12/google-phone-home.html">How often does a *Google* Android device phones home?</a>
-        </h2>
-      </li>
-    
-      <li>
-        <span class="post-meta">Jun 12, 2015</span>
+<p>So what about a Google Android device?  Notice that I specifically added the word “Google” preceding Android as there are non-Google versions Android available (e.g., Cyanogenmod).  I took a Nexus 5 and flashed it with <a href="https://developers.google.com/android/nexus/images" target="_blank">Google’s factory Android image, version 5.1.1 (a.k.a., “stock” Android)</a>. Next I <a href="https://mitmproxy.org/doc/certinstall/android.html" target="_blank">installed a mitmproxy certificate onto the phone</a>, and captured all the HTTP and HTTPS traffic on the phone to <code>mitmproxy</code> running on my laptop.  I left the phone stationery for one hour in another room.  The result: 10 requests, 9 HTTP post requests.</p>
 
-        <h2>
-          <a class="post-link" href="/mobile/security/2015/06/12/espn-ios.html">What really happens when you open up ESPN app on your iPhone</a>
-        </h2>
-      </li>
-    
-  </ul>
+<p><img src="/images/mitmproxy-android.png" alt="Android phones home" /></p>
 
-  <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
+<p>Hmmm, seems like two of the requests were ad-related and two related to voice search?</p>
+
+<p>The data sent back to Google is interesting.  I posted the flow of all HTTP and HTTPS traffic from the Nexus running Android 5.1.1 for your analysis and interest: <a href="/docs/android.flow"><code>android.flow</code></a>.  You can open the file from <code>mitmproxy</code>.</p>
+
+<p>People are getting worried about all of this creepiness, nonsense.  So what can you do?  The extreme option: don’t use a cell phone.  Dan Geer doesn’t use one:</p>
+
+<p><a href="http://www.wired.com/2015/06/cia-cybersecurity-guru-dan-geer-doesnt-use-cell-phone/" target="_blank"><em>“I am, as a rule, skeptical of coming to rely upon things that I don’t know how they work. If there’s anything that I’ve come to be relatively adamant about is that, as humans, we have repeatedly demonstrated that we can quite clearly build things more complex than we can then manage, our friends in finance and flash crashes being a fine example of that.  Given what I know in the cyber security arena, the number of things that, in effect, nobody understands how they work causes me to say, well, then why do I want to depend on it?”</em></a></p>
+
+<p>Another option: go back to a “flip phone.”</p>
+
+<p>If you have an Android device, you can change the operating system to a non-Google Android such as <a href="http://www.cyanogenmod.org/" target="_blank">Cyanogenmod</a>.  It is still Android, but without the bloat (hardly anything Google), and even features such as built-in root support.</p>
+
+  </article>
 
 </div>
 

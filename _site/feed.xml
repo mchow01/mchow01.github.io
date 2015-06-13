@@ -6,9 +6,40 @@
 </description>
     <link>https://mchow01.github.io/</link>
     <atom:link href="https://mchow01.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 Jun 2015 20:06:01 -0400</pubDate>
-    <lastBuildDate>Fri, 12 Jun 2015 20:06:01 -0400</lastBuildDate>
+    <pubDate>Sat, 13 Jun 2015 00:03:39 -0400</pubDate>
+    <lastBuildDate>Sat, 13 Jun 2015 00:03:39 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>How often does a *Google* Android device phones home?</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://www.infoworld.com/article/2610866/techology-business/too-big-to-trust--google-s-growing-credibility-gap.html&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;“We don’t love Google so much any more, mainly because we trust it less and less. More and more people have realized that the Google search engine is hugely biased in favor of advertisers, and the results are increasingly manipulated by Google for inscrutable purposes. Google seems to track anything and everything we do – it peruses our emails, our files stored on its servers, our locations, and our chats.”&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;So what about a Google Android device?  Notice that I specifically added the word “Google” preceding Android as there are non-Google versions Android available (e.g., Cyanogenmod).  I took a Nexus 5 and flashed it with &lt;a href=&quot;https://developers.google.com/android/nexus/images&quot; target=&quot;_blank&quot;&gt;Google’s factory Android image, version 5.1.1 (a.k.a., “stock” Android)&lt;/a&gt;. Next I &lt;a href=&quot;https://mitmproxy.org/doc/certinstall/android.html&quot; target=&quot;_blank&quot;&gt;installed a mitmproxy certificate onto the phone&lt;/a&gt;, and captured all the HTTP and HTTPS traffic on the phone to &lt;code&gt;mitmproxy&lt;/code&gt; running on my laptop.  I left the phone stationery for one hour in another room.  The result: 10 requests, 9 HTTP post requests.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/mitmproxy-android.png&quot; alt=&quot;Android phones home&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Hmmm, seems like two of the requests were ad-related and two related to voice search?&lt;/p&gt;
+
+&lt;p&gt;The data sent back to Google is interesting.  I posted the flow of all HTTP and HTTPS traffic from the Nexus running Android 5.1.1 for your analysis and interest: &lt;a href=&quot;/docs/android.flow&quot;&gt;&lt;code&gt;android.flow&lt;/code&gt;&lt;/a&gt;.  You can open the file from &lt;code&gt;mitmproxy&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;People are getting worried about all of this creepiness, nonsense.  So what can you do?  The extreme option: don’t use a cell phone.  Dan Geer doesn’t use one:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.wired.com/2015/06/cia-cybersecurity-guru-dan-geer-doesnt-use-cell-phone/&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;“I am, as a rule, skeptical of coming to rely upon things that I don’t know how they work. If there’s anything that I’ve come to be relatively adamant about is that, as humans, we have repeatedly demonstrated that we can quite clearly build things more complex than we can then manage, our friends in finance and flash crashes being a fine example of that.  Given what I know in the cyber security arena, the number of things that, in effect, nobody understands how they work causes me to say, well, then why do I want to depend on it?”&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Another option: go back to a “flip phone.”&lt;/p&gt;
+
+&lt;p&gt;If you have an Android device, you can change the operating system to a non-Google Android such as &lt;a href=&quot;http://www.cyanogenmod.org/&quot; target=&quot;_blank&quot;&gt;Cyanogenmod&lt;/a&gt;.  It is still Android, but without the bloat (hardly anything Google), and even features such as built-in root support.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 12 Jun 2015 19:19:00 -0400</pubDate>
+        <link>https://mchow01.github.io/mobile/security/2015/06/12/google-phone-home.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/mobile/security/2015/06/12/google-phone-home.html</guid>
+        
+        
+        <category>mobile</category>
+        
+        <category>security</category>
+        
+      </item>
     
       <item>
         <title>What really happens when you open up ESPN app on your iPhone</title>
@@ -16,7 +47,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/mitmproxy-espn.png&quot; alt=&quot;Snippet of HTTP and HTTPS traffic from ESPN iOS app on mitmproxy&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;With all HTTP and HTTPS traffic from my iPhone going to my laptop that has &lt;code&gt;mitmproxy&lt;/code&gt; running, I opened the ESPN app on my iPhone.  Between 04:19:58 GMT and 04:20:44 GMT on Wednesday, June 10th (that is less than a minute), the ESPN app made 90 requests.  See list all requests made by the ESPN iOS app below (incomplete URIs); requests that have an asterisk are ad-related, Facebook included.  So what kind of requests were made?  Some for static content from ESPN’s content delivery network, some for app analytics, and many were ad related.  Of the 90 requests, 60 were ad related.  That’s ~66% of all requests when you just open up the app.  This was enough for me to delete the ESPN iOS app from my phone.&lt;/p&gt;
+&lt;p&gt;With all HTTP and HTTPS traffic from my iPhone going to my laptop that has &lt;code&gt;mitmproxy&lt;/code&gt; running, I opened the ESPN app on my iPhone.  Between 04:19:58 GMT and 04:20:44 GMT on Wednesday, June 10th (that is less than a minute), the ESPN app made 90 requests.  See list all requests made by the ESPN iOS app below (incomplete URIs); requests that have an asterisk are ad-related, Facebook included.  So what kind of requests were made?  Some for static content from ESPN’s content delivery network, some for app analytics, and many were ad related.  Of the 90 requests, 60 were ad related.  That’s ~66% of all requests when you just open up the app.  Most mobile apps are just as bad, especially the freemiums.  This was enough for me to delete the ESPN iOS app from my phone.&lt;/p&gt;
 
 &lt;p&gt;I posted the flow of all HTTP and HTTPS traffic from the ESPN iOS app for your analysis and interest: &lt;a href=&quot;/docs/espn-ios.flow&quot;&gt;&lt;code&gt;espn-ios.flow&lt;/code&gt;&lt;/a&gt;.  This file has all the requests including complete URIs, HTTP and HTTPS requests and responses.  You can open the file from &lt;code&gt;mitmproxy&lt;/code&gt;.&lt;/p&gt;
 
