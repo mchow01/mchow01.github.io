@@ -14,4 +14,4 @@ Ming Chow is a Lecturer at the Tufts University Department of Computer Science. 
 I have a deep passion for sports.  I love playing golf and bowling.  I enjoy listening to music.  I particularly like U2, Metallica, and good rock and metal.  I also listen to old and new Asian/Hong Kong tunes.  I love playing video games when I have free time.  I do not often read literary books, but I enjoy reading technical journals and periodicals to keep up with what is going on in the world.
 
 ###Favorite Sport Teams
-I have been following Manchester United F.C. since I was in high school (1995).  Ditto for the Miami Hurricanes and the Fighting Irish of Notre Dame in college football.  I also follow the New England Patriots and the Boston Celtics closely.
+I have been a Manchester United F.C. supporter since I was in high school, 1995.  Ditto for the Miami Hurricanes and the Fighting Irish of Notre Dame in college football.  I also follow the New England Patriots and the Boston Celtics closely.
