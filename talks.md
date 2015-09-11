@@ -4,6 +4,8 @@ title: Talks
 permalink: /talks/
 ---
 
+[So What is Being Exposed From IoT Devices?](/docs/securityofthings2015.pdf). The Security of Things Forum, Sheraton Commander Hotel, Cambridge, MA, September 10, 2015.
+
 [Swift and Security](/docs/SwiftAndSecurity.pdf). OWASP Boston Chapter Monthly Meeting, Akamai Technologies, 8 Cambridge Center, Cambridge, MA, December 3, 2014.
 
 [Security Weekly, Episode 394](http://securityweekly.com/2014/11/07/check-out-episode-394-interview-with-ming-chow/){:target="_blank"}.
