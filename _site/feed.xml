@@ -6,13 +6,13 @@
 </description>
     <link>https://mchow01.github.io/</link>
     <atom:link href="https://mchow01.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Sep 2015 00:34:00 -0400</pubDate>
-    <lastBuildDate>Mon, 14 Sep 2015 00:34:00 -0400</lastBuildDate>
+    <pubDate>Mon, 14 Sep 2015 00:39:11 -0400</pubDate>
+    <lastBuildDate>Mon, 14 Sep 2015 00:39:11 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>On Learning More About Information Security</title>
-        <description>&lt;p&gt;In my &lt;a href=&quot;http://www.cs.tufts.edu/comp/20/&quot; target=&quot;_blank&quot;&gt;Web Programming&lt;/a&gt; class at Tufts, students are exposed to web security near the end of the semester.  For the last assignment in the class, each student performs a security audit of the another student’s web application (the previous assignment in the class).  The deliverable is a report that must contain at least three security and privacy findings.  For many students, this is their first exposure to information security, and many find the topic fascinating.  Over the years, I have received many emails from former students asking how to learn more about information security.  A few anedotes:&lt;/p&gt;
+        <description>&lt;p&gt;In my &lt;a href=&quot;http://www.cs.tufts.edu/comp/20/&quot; target=&quot;_blank&quot;&gt;Web Programming&lt;/a&gt; class at Tufts, students are exposed to web security near the end of the semester.  For the last assignment in the class, each student performs a security audit of the another student’s web application (the previous assignment in the class).  The deliverable is a report that must contain at least three security and privacy findings.  Here is an example report: &lt;a href=&quot;https://tuftsdev.github.com/WebProgramming/assignments/security-gjoseph/report.html&quot; target=&quot;_blank&quot;&gt;https://tuftsdev.github.com/WebProgramming/assignments/security-gjoseph/report.html&lt;/a&gt;.  For many students, this is their first exposure to information security, and many find the topic fascinating.  Over the years, I have received many emails from former students asking how to learn more about information security.  A few anedotes:&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;“As you may know, I am a senior. That means that I will not be able to take your security course before I graduate. What resources do you recommend using to learn security then? Are there ways that I could direct my hacking efforts so that my learning takes on some sort of coherent structure?&lt;/em&gt;&lt;/p&gt;
 
@@ -32,9 +32,9 @@
 
 &lt;p&gt;I hope this is a good roadmap for those who are interested on learning more about information security.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 13 Sep 2015 14:30:00 -0400</pubDate>
-        <link>https://mchow01.github.io/security/2015/09/13/learning-more-about-security.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/security/2015/09/13/learning-more-about-security.html</guid>
+        <pubDate>Mon, 14 Sep 2015 06:00:00 -0400</pubDate>
+        <link>https://mchow01.github.io/security/2015/09/14/learning-more-about-security.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/security/2015/09/14/learning-more-about-security.html</guid>
         
         
         <category>security</category>

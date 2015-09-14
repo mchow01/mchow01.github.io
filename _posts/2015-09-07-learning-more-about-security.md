@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "On Learning More About Information Security"
-date:   2015-09-13 18:30:00
+date:   2015-09-14 10:00:00
 categories: security
 ---
 
-In my [Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"} class at Tufts, students are exposed to web security near the end of the semester.  For the last assignment in the class, each student performs a security audit of the another student's web application (the previous assignment in the class).  The deliverable is a report that must contain at least three security and privacy findings.  For many students, this is their first exposure to information security, and many find the topic fascinating.  Over the years, I have received many emails from former students asking how to learn more about information security.  A few anedotes:
+In my [Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"} class at Tufts, students are exposed to web security near the end of the semester.  For the last assignment in the class, each student performs a security audit of the another student's web application (the previous assignment in the class).  The deliverable is a report that must contain at least three security and privacy findings.  Here is an example report: [https://tuftsdev.github.com/WebProgramming/assignments/security-gjoseph/report.html](https://tuftsdev.github.com/WebProgramming/assignments/security-gjoseph/report.html){:target="_blank"}.  For many students, this is their first exposure to information security, and many find the topic fascinating.  Over the years, I have received many emails from former students asking how to learn more about information security.  A few anedotes:
 
 _"As you may know, I am a senior. That means that I will not be able to take your security course before I graduate. What resources do you recommend using to learn security then? Are there ways that I could direct my hacking efforts so that my learning takes on some sort of coherent structure?_
 
