@@ -4,6 +4,23 @@ title: Courses @ Tufts
 permalink: /courses/
 ---
 
+###Fall 2015
+* [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
+	* Enrollment (number of students): ?
+	* Overall Course Rating (of ? responses): ? / 5.0
+	* Overall Performance of Instructor (of ? responses): ? / 5.0
+
+* [COMP 23: Introduction to Game Development](http://www.cs.tufts.edu/comp/23/){:target="_blank"}
+	* Enrollment (number of students): ?
+	* Overall Course Rating (of ? responses):  ? / 5.0
+	* Overall Performance of Instructor (of ? responses): ? / 5.0
+	
+* [COMP 116: Introduction to Computer Security](http://www.cs.tufts.edu/comp/116/){:target="_blank"}
+	* Enrollment (number of students): ?
+	* Overall Course Rating (of ? responses): ? / 5.0
+	* Overall Performance of Instructor (of ? responses): ? / 5.0
+	
+	
 ###Spring 2015
 * [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
 	* Enrollment (number of students): 109
