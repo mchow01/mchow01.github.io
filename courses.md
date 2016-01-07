@@ -4,23 +4,38 @@ title: Courses @ Tufts
 permalink: /courses/
 ---
 
-###Fall 2015
+###Spring 2016
 * [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
 	* Enrollment (number of students): ?
-	* Overall Course Rating (of ? responses): ? / 5.0
-	* Overall Performance of Instructor (of ? responses): ? / 5.0
+	* Overall Course Rating (of ? responses): ? / 5.0 [question 5]:
+	* Overall Performance of Instructor (of ? responses): ? / 5.0 [question 15]:
 
-* [COMP 23: Introduction to Game Development](http://www.cs.tufts.edu/comp/23/){:target="_blank"}
+* [COMP 120: Web Engineering](http://www.cs.tufts.edu/comp/120/){:target="_blank"}
 	* Enrollment (number of students): ?
 	* Overall Course Rating (of ? responses):  ? / 5.0
 	* Overall Performance of Instructor (of ? responses): ? / 5.0
 	
-* [COMP 116: Introduction to Computer Security](http://www.cs.tufts.edu/comp/116/){:target="_blank"}
+* [COMP 150-MMD: Mobile Medical Devices (cross-listed with Electrical Engineering)](http://www.cs.tufts.edu/comp/150MMD/){:target="_blank"}
 	* Enrollment (number of students): ?
 	* Overall Course Rating (of ? responses): ? / 5.0
 	* Overall Performance of Instructor (of ? responses): ? / 5.0
+
+###Fall 2015
+* [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
+	* Enrollment (number of students): 76
+	* Overall Course Rating (of 69 responses): 4.23 / 5.0 [question 5]:
+	* Overall Performance of Instructor (of 69 responses): 4.45 / 5.0 [question 15]:
+
+* [COMP 23: Introduction to Game Development](http://www.cs.tufts.edu/comp/23/){:target="_blank"}
+	* Enrollment (number of students): 37
+	* Overall Course Rating (of 22 responses):  3.95 / 5.0
+	* Overall Performance of Instructor (of 22 responses): 4.14 / 5.0
 	
-	
+* [COMP 116: Introduction to Computer Security](http://www.cs.tufts.edu/comp/116/){:target="_blank"}
+	* Enrollment (number of students): 66
+	* Overall Course Rating (of 27 responses): 4.33 / 5.0
+	* Overall Performance of Instructor (of 27 responses): 4.44 / 5.0
+
 ###Spring 2015
 * [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
 	* Enrollment (number of students): 109
@@ -43,15 +58,15 @@ permalink: /courses/
 	* Overall Course Rating (of 33 responses): 4.39 / 5.0
 	* Overall Performance of Instructor (of 33 responses): 4.48 / 5.0
 
-* [COMP 50-MMD: Mobile Medical Devices (cross-listed with Electrical Engineering)](http://www.cs.tufts.edu/comp/150MMD/){:target="_blank"}
-	* Enrollment (number of students): 20
-	* Overall Course Rating (of 4 responses): 4.25 / 5.0
-	* Overall Performance of Instructor (of 4 responses): 4.25 / 5.0
-
 * [COMP 116: Introduction to Computer Security](http://www.cs.tufts.edu/comp/116/){:target="_blank"}
 	* Enrollment (number of students): 48
 	* Overall Course Rating (of 25 responses): 4.20 / 5.0
 	* Overall Performance of Instructor (of 25 responses): 4.44 / 5.0
+
+* [COMP 150-MMD: Mobile Medical Devices (cross-listed with Electrical Engineering)](http://www.cs.tufts.edu/comp/150MMD/){:target="_blank"}
+	* Enrollment (number of students): 20
+	* Overall Course Rating (of 4 responses): 4.25 / 5.0
+	* Overall Performance of Instructor (of 4 responses): 4.25 / 5.0
 	
 ###Spring 2014
 

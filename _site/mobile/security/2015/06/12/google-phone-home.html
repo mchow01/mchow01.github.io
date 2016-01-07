@@ -76,13 +76,13 @@
   <article class="post-content">
     <p><a href="http://www.infoworld.com/article/2610866/techology-business/too-big-to-trust--google-s-growing-credibility-gap.html" target="_blank"><em>“We don’t love Google so much any more, mainly because we trust it less and less. More and more people have realized that the Google search engine is hugely biased in favor of advertisers, and the results are increasingly manipulated by Google for inscrutable purposes. Google seems to track anything and everything we do – it peruses our emails, our files stored on its servers, our locations, and our chats.”</em></a></p>
 
-<p>So what about a Google Android device?  Notice that I specifically added the word “Google” preceding Android as there are non-Google versions Android available (e.g., Cyanogenmod).  I took a Nexus 5 and flashed it with <a href="https://developers.google.com/android/nexus/images" target="_blank">Google’s factory Android image, version 5.1.1 (a.k.a., “stock” Android)</a>. Next I <a href="https://mitmproxy.org/doc/certinstall/android.html" target="_blank">installed a mitmproxy certificate onto the phone</a>, and captured all the HTTP and HTTPS traffic on the phone to <code>mitmproxy</code> running on my laptop.  I left the phone stationery for one hour in another room.  The result: 10 requests, 9 HTTP post requests.</p>
+<p>So what about a Google Android device?  Notice that I specifically added the word “Google” preceding Android as there are non-Google versions Android available (e.g., Cyanogenmod).  I took a Nexus 5 and flashed it with <a href="https://developers.google.com/android/nexus/images" target="_blank">Google’s factory Android image, version 5.1.1 (a.k.a., “stock” Android)</a>. Next I <a href="https://mitmproxy.org/doc/certinstall/android.html" target="_blank">installed a mitmproxy certificate onto the phone</a>, and captured all the HTTP and HTTPS traffic on the phone to <code class="highlighter-rouge">mitmproxy</code> running on my laptop.  I left the phone stationery for one hour in another room.  The result: 10 requests, 9 HTTP post requests.</p>
 
 <p><img src="/images/mitmproxy-android.png" alt="Android phones home" /></p>
 
 <p>Hmmm, seems like two of the requests were ad-related and two related to voice search?</p>
 
-<p>The data sent back to Google is interesting.  I posted the flow of all HTTP and HTTPS traffic from the Nexus running Android 5.1.1 for your analysis and interest: <a href="/docs/android.flow"><code>android.flow</code></a>.  You can open the file from <code>mitmproxy</code>.</p>
+<p>The data sent back to Google is interesting.  I posted the flow of all HTTP and HTTPS traffic from the Nexus running Android 5.1.1 for your analysis and interest: <a href="/docs/android.flow"><code class="highlighter-rouge">android.flow</code></a>.  You can open the file from <code class="highlighter-rouge">mitmproxy</code>.</p>
 
 <p>People are getting worried about all of this creepiness, nonsense.  So what can you do?  The extreme option: don’t use a cell phone.  Dan Geer doesn’t use one:</p>
 
