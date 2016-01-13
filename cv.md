@@ -149,9 +149,9 @@ _Summer Intern for the Lycos Quality Assurance Team, Summer 1999_
 
 ##Skills
 
-* _Languages_: C, C++, C#, HTML5, Java, JavaScript, Objective-C, PHP, Perl, Python, Ruby, Swift
+* _Languages_: C, C++, C#, Go, HTML5, Java, JavaScript, Objective-C, PHP, Perl, Python, Ruby, Swift
 * _Databases_: CouchDB, MongoDB, MySQL, Oracle, PostgreSQL, SQLite
-* _Technologies_: Android SDK, Apache Struts, Cascading Style Sheets (CSS), Git, Google App Engine, Google Web Toolkit, Heroku, iOS SDK, JavaServer Pages (JSP), jQuery, JavaScript Object Notation (JSON), Jekyll, Node.js, Ruby on Rails, Socket.io, Subversion, Windows Phone SDK, XML
+* _Technologies_: Android SDK, Apache Struts, Cascading Style Sheets (CSS), Git, Google App Engine, Google Web Toolkit, Heroku, iOS SDK, JavaServer Pages (JSP), jQuery, JavaScript Object Notation (JSON), Jekyll, Node.js, Redis, Ruby on Rails, Socket.io, Subversion, Windows Phone SDK, XML
 
 ##Education
 
