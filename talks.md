@@ -67,3 +67,4 @@ Use of the Internet in Fraud Investigations
 * [http://bostinno.com/2012/04/12/tufts-hosts-their-first-hackathon-with-the-help-of-evernote-offering-winners-a-trip-to-silicon-valley/](http://bostinno.com/2012/04/12/tufts-hosts-their-first-hackathon-with-the-help-of-evernote-offering-winners-a-trip-to-silicon-valley/){:target="_blank"}
 * [https://now.tufts.edu/articles/engineering-reality](https://now.tufts.edu/articles/engineering-reality){:target="_blank"}
 * [https://now.tufts.edu/articles/art-game-design](https://now.tufts.edu/articles/art-game-design){:target="_blank"}
+* ["Congress puts terrorism and tech in the spotlight"](http://money.cnn.com/2015/12/08/technology/encryption-congress-commission/)
