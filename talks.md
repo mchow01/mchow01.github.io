@@ -59,7 +59,7 @@ Use of the Internet in Fraud Investigations
 * John Hancock, Boston, MA, October 24, 2007.
 * Greater Boston Chapter of the Association of Certified Fraud Examiners (ACFE), Boston, MA, September 21, 2007.
 
-##Additional Media and Press
+## Additional Media and Press
 * [http://www.prism-magazine.org/summer11/feature_01.cfm](http://www.prism-magazine.org/summer11/feature_01.cfm){:target="_blank"}
 * [http://venturebeat.com/2011/08/11/old-hacking-tricks-work-too-easily-in-attacks-on-html5-security-expert-says/](http://venturebeat.com/2011/08/11/old-hacking-tricks-work-too-easily-in-attacks-on-html5-security-expert-says/){:target="_blank"}
 * [http://www.veracode.com/blog/2012/03/demystifying-binary-static-analysis/](http://www.veracode.com/blog/2012/03/demystifying-binary-static-analysis/){:target="_blank"}

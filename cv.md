@@ -4,11 +4,11 @@ title: CV
 permalink: /cv/
 ---
 
-##Areas of Interest
+## Areas of Interest
 * Web and Mobile Development
 * Web and Mobile Security
 
-##Teaching Experience
+## Teaching Experience
 
 **Tufts University Department of Computer Science, Medford, MA 02155**
 
@@ -60,7 +60,7 @@ _Lecturer_
 	* Assigned two debates and two expert panel sessions. 
 	* Hosted a colloquium entitled "Building Privacy-Aware Applications" with guest speaker JC Cannon from Microsoft for the Tufts Department of Computer Science.
 
-##Presentations and Publications
+## Presentations and Publications
 
 * _Swift and Security_. OWASP Boston Chapter Monthly Meeting, Akamai Technologies, 8 Cambridge Center, Cambridge, MA, December 3, 2014.
 * _Security Weekly, Episode 394_. [http://securityweekly.com/2014/11/07/check-out-episode-394-interview-with-ming-chow/](http://securityweekly.com/2014/11/07/check-out-episode-394-interview-with-ming-chow/){:target="_blank"}
@@ -99,7 +99,7 @@ _Lecturer_
 * _Teaching Computer Security, Privacy and Politics to the Masses_, ;login: The Magazine of USENIX & Sage, vol. 30, no. 6, pp. 62-63, December 2005. 
 * _What is Outstanding in Your Security and Compliance Practice?_ Northeast Regional Computing Program (NERCOMP) Workshop: Achieving Optimal Security and Compliance in Higher Education, University of Massachusetts Amherst, November 14, 2005.
 
-##Professional Experience
+## Professional Experience
 
 **Harvard University Department of Environmental Health & Safety (EH&S), Cambridge, MA 02139**
 
@@ -147,13 +147,13 @@ _Summer Intern for the Lycos Quality Assurance Team, Summer 1999_
 * Compared the website against competing sites on usability, layout and design, and consistency of information.
 * Designed test plans for Lycos' gaming portal and safe search engine.
 
-##Skills
+## Skills
 
 * _Languages_: C, C++, C#, Go, HTML5, Java, JavaScript, Objective-C, PHP, Perl, Python, Ruby, Swift
 * _Databases_: CouchDB, MongoDB, MySQL, Oracle, PostgreSQL, SQLite
 * _Technologies_: Android SDK, Apache Struts, Cascading Style Sheets (CSS), Git, Google App Engine, Google Web Toolkit, Heroku, iOS SDK, JavaServer Pages (JSP), jQuery, JavaScript Object Notation (JSON), Jekyll, Node.js, Redis, Ruby on Rails, Socket.io, Subversion, Windows Phone SDK, XML
 
-##Education
+## Education
 
 **Tufts University, Graduate School of Engineering, Medford, MA 02155**
 

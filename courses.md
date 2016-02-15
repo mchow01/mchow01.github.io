@@ -4,7 +4,7 @@ title: Courses @ Tufts
 permalink: /courses/
 ---
 
-###Spring 2016
+### Spring 2016
 * [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
 	* Enrollment (number of students): ?
 	* Overall Course Rating (of ? responses): ? / 5.0 [question 5]:
@@ -20,7 +20,7 @@ permalink: /courses/
 	* Overall Course Rating (of ? responses): ? / 5.0
 	* Overall Performance of Instructor (of ? responses): ? / 5.0
 
-###Fall 2015
+### Fall 2015
 * [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
 	* Enrollment (number of students): 76
 	* Overall Course Rating (of 69 responses): 4.23 / 5.0 [question 5]:
@@ -36,7 +36,7 @@ permalink: /courses/
 	* Overall Course Rating (of 27 responses): 4.33 / 5.0
 	* Overall Performance of Instructor (of 27 responses): 4.44 / 5.0
 
-###Spring 2015
+### Spring 2015
 * [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
 	* Enrollment (number of students): 109
 	* Overall Course Rating (of 73 responses): 4.14 / 5.0
@@ -52,7 +52,7 @@ permalink: /courses/
 	* Overall Course Rating (of 15 responses): 4.67 / 5.0
 	* Overall Performance of Instructor (of 15 responses): 4.53 / 5.0
 	
-###Fall 2014
+### Fall 2014
 * [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
 	* Enrollment (number of students): 77
 	* Overall Course Rating (of 33 responses): 4.39 / 5.0
@@ -68,7 +68,7 @@ permalink: /courses/
 	* Overall Course Rating (of 4 responses): 4.25 / 5.0
 	* Overall Performance of Instructor (of 4 responses): 4.25 / 5.0
 	
-###Spring 2014
+### Spring 2014
 
 * [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
 	* Enrollment (number of students): 100
@@ -85,7 +85,7 @@ permalink: /courses/
 	* Overall Course Rating (of 16 responses):   4.19 / 5.0
 	* Overall Performance of Instructor (of 16 responses):  4.62 / 5.0
 	
-###Fall 2013
+### Fall 2013
 
 * COMP 97: Senior Capstone Project I
 	* Enrollment (number of students): 17
@@ -102,7 +102,7 @@ permalink: /courses/
 	* Overall Course Rating (of 15 responses):  3.93 / 5.0
 	* Overall Performance of Instructor (of 15 responses):  4.13 / 5.0
 
-###Spring 2013
+### Spring 2013
 
 * [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
 	* Enrollment (number of students): 119
@@ -119,7 +119,7 @@ permalink: /courses/
 	* Overall Course Rating: 3.25 / 5.0
 	* Overall Performance of Instructor: 3.88 / 5.0
 
-###Fall 2012
+### Fall 2012
 
 * COMP 15: Data Structures
 	* Enrollment, Section 1 (number of students): 44
@@ -135,7 +135,7 @@ permalink: /courses/
 	* Overall Course Rating: 2.80 / 5.0
 	* Overall Performance of Instructor: 3.10 / 5.0
 
-###Spring 2012
+### Spring 2012
 
 * COMP 50-GD: Introduction to Game Development *(This course has been donated to Tufts OpenCourseWare: [http://ocw.tufts.edu/Course/75](http://ocw.tufts.edu/Course/75){:target="_blank"})*
 	* Enrollment (number of students): 35
@@ -152,7 +152,7 @@ permalink: /courses/
 	* Overall Course Rating: 3.9 / 5.0
 	* Overall Performance of Instructor: 3.5 / 5.0
 
-###Fall 2011
+### Fall 2011
 
 * COMP 15: Data Structures
 	* Enrollment, Section 1 (number of students): 30
@@ -168,7 +168,7 @@ permalink: /courses/
 	* Overall Course Rating: 4.5 / 5.0
 	* Overall Performance of Instructor: 4.1 / 5.0
 
-###Spring 2011
+### Spring 2011
 
 * COMP 20: Web Programming
 	* Enrollment (number of students): 42
@@ -185,7 +185,7 @@ permalink: /courses/
 	* Overall Course Rating: 3.6 / 5.0
 	* Overall Performance of Instructor: 3.2 / 5.0
 
-###Fall 2010
+### Fall 2010
 
 * COMP 20: Web Programming (2 sections)
 	* Enrollment, Section 1 (number of students): 34
@@ -201,7 +201,7 @@ permalink: /courses/
 	* Overall Course Rating: 4.8 / 5.0
 	* Overall Performance of Instructor: 4.6 / 5.0
 
-###Spring 2010
+### Spring 2010
 
 * COMP 10-GD: Introduction to Game Development (2 sections)
 	* Enrollment, Section 1 (number of students): 21
@@ -226,7 +226,7 @@ permalink: /courses/
 	* Overall Course Rating: 4.3 / 5.0
 	* Overall Performance of Instructor: 4.1 / 5.0
 
-###Fall 2009
+### Fall 2009
 
 * COMP 20: Web Programming
 	* Enrollment (number of students): 11
