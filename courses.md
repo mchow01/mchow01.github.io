@@ -47,7 +47,7 @@ permalink: /courses/
 	* Overall Course Rating (of 41 responses): 3.98 / 5.0
 	* Overall Performance of Instructor (of 41 responses): 4.20 / 5.0
 	
-* [COMP 120: COMP 150-ISW: Music Apps on the iPad](http://www.cs.tufts.edu/comp/150ISW/){:target="_blank"}
+* [COMP 150-ISW: Music Apps on the iPad](http://www.cs.tufts.edu/comp/150ISW/){:target="_blank"}
 	* Enrollment (number of students): 21
 	* Overall Course Rating (of 15 responses): 4.67 / 5.0
 	* Overall Performance of Instructor (of 15 responses): 4.53 / 5.0
