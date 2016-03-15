@@ -12,20 +12,21 @@ permalink: /cv/
 
 **Tufts University Department of Computer Science, Medford, MA 02155**
 
-_Lecturer, September 2009 to Present_
+_Senior Lecturer, September 2015 to present_
+_Lecturer, September 2009 to August 2015_
 
 * Spring 2010, Spring 2011, Fall 2011, Fall 2013, Spring 2015: _Web Engineering_
-* Fall 2009, Fall 2010, Spring 2011, Summer 2011, Spring 2013, Spring 2014, Fall 2014, Spring 2015: _Web Programming_
+* Fall 2009, Fall 2010, Spring 2011, Summer 2011, Spring 2013, Spring 2014, Fall 2014, Spring 2015, Fall 2015, Spring 2016: _Web Programming_
 	* Grew the course from 11 students in fall 2009 to 119 in spring 2013.
-* Fall 2014: _Mobile Medical Devices and Apps_
+* Fall 2014, Spring 2016: _Mobile Medical Devices and Apps_
 	* Cross-listed with Department of Electrical and Computer Engineering
 * Fall 2012, Spring 2013, Fall 2013, Spring 2014: _Senior Capstone Project I and II_
 	* Formerly known as Software Engineering. Changed requirement from a one semester project experience to a one academic year project experience.
 	* Required for all undergraduate Computer Science majors through the School of Engineering.
-* Spring 2008, Spring 2009, Summer 2009, Spring 2010, Summer 2010, Fall 2010, Spring 2012, Spring 2014: _Introduction to Game Development_
+* Spring 2008, Spring 2009, Summer 2009, Spring 2010, Summer 2010, Fall 2010, Spring 2012, Spring 2014, Fall 2015: _Introduction to Game Development_
 	* Course was given an official course number in spring 2014.
 	* Named one of the nation's coolest engineering courses by the American Society for Engineering Education (ASEE) in 2011 (see [http://www.prism-magazine.org/summer11/feature_01.cfm](http://www.prism-magazine.org/summer11/feature_01.cfm){:target="_blank"})
-* Spring 2011, Spring 2012, Fall 2013, Fall 2014: _Introduction to Computer Security_
+* Spring 2011, Spring 2012, Fall 2013, Fall 2014, Fall 2015: _Introduction to Computer Security_
 * Spring 2012, Spring 2013, Spring 2015: _Music Apps on the iPad_
 	*	Cross-listed with Department of Music
 * Fall 2011, Summer 2012, Fall 2012: _Data Structures_ (the second course in the Computer Science curriculum)
@@ -62,6 +63,8 @@ _Lecturer_
 
 ## Presentations and Publications
 
+* _So What is Being Exposed From IoT Devices?_ The Security of Things Forum, Sheraton Commander Hotel, Cambridge, MA, September 10, 2015.
+* _The Blame Starts with Computer Science Curricula_. BeaCon 2015 Mini-Conference, The Red Hat, Boston, MA, May 30, 2015.
 * _Swift and Security_. OWASP Boston Chapter Monthly Meeting, Akamai Technologies, 8 Cambridge Center, Cambridge, MA, December 3, 2014.
 * _Security Weekly, Episode 394_. [http://securityweekly.com/2014/11/07/check-out-episode-394-interview-with-ming-chow/](http://securityweekly.com/2014/11/07/check-out-episode-394-interview-with-ming-chow/){:target="_blank"}
 * _A Growing Mongo Problem!_ Boston Security Conference #3, Microsoft New England Research and Development Center, Cambridge, MA, October 20, 2014.
