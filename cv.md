@@ -12,10 +12,10 @@ permalink: /cv/
 
 **Tufts University Department of Computer Science, Medford, MA 02155**
 
-_Senior Lecturer, September 2015 to present_
-_Lecturer, September 2009 to August 2015_
+* _Senior Lecturer, September 2015 to present_
+* _Lecturer, September 2009 to August 2015_
 
-* Spring 2010, Spring 2011, Fall 2011, Fall 2013, Spring 2015: _Web Engineering_
+* Spring 2010, Spring 2011, Fall 2011, Fall 2013, Spring 2015, Spring 2016: _Web Engineering_
 * Fall 2009, Fall 2010, Spring 2011, Summer 2011, Spring 2013, Spring 2014, Fall 2014, Spring 2015, Fall 2015, Spring 2016: _Web Programming_
 	* Grew the course from 11 students in fall 2009 to 119 in spring 2013.
 * Fall 2014, Spring 2016: _Mobile Medical Devices and Apps_
