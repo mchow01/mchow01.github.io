@@ -4,6 +4,10 @@ title: Talks
 permalink: /talks/
 ---
 
+[The Cyber Security Education Gap - What Do We Do Now?](/docs/source2016.pdf) SOURCE Conference Boston 2016, Marriott Tremont, Boston, MA, May 18, 2016.
+
+[So What is Being Exposed From IoT Devices?](/docs/securityofthings2015.pdf) The Security of Things Forum, Sheraton Commander Hotel, Cambridge, MA, September 10, 2015.
+
 [So What is Being Exposed From IoT Devices?](/docs/securityofthings2015.pdf) The Security of Things Forum, Sheraton Commander Hotel, Cambridge, MA, September 10, 2015.
 
 [The Blame Starts with Computer Science Curricula](/docs/beacon2015.pdf). BeaCon 2015 Mini-Conference, The Red Hat, Boston, MA, May 30, 2015.
