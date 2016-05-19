@@ -8,8 +8,6 @@ permalink: /talks/
 
 [So What is Being Exposed From IoT Devices?](/docs/securityofthings2015.pdf) The Security of Things Forum, Sheraton Commander Hotel, Cambridge, MA, September 10, 2015.
 
-[So What is Being Exposed From IoT Devices?](/docs/securityofthings2015.pdf) The Security of Things Forum, Sheraton Commander Hotel, Cambridge, MA, September 10, 2015.
-
 [The Blame Starts with Computer Science Curricula](/docs/beacon2015.pdf). BeaCon 2015 Mini-Conference, The Red Hat, Boston, MA, May 30, 2015.
 
 [Swift and Security](/docs/SwiftAndSecurity.pdf). OWASP Boston Chapter Monthly Meeting, Akamai Technologies, 8 Cambridge Center, Cambridge, MA, December 3, 2014.
