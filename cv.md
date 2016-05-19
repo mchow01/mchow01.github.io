@@ -33,6 +33,9 @@ permalink: /cv/
 * Summer 2012: _Developing Computer & Interactive Media_ (Precollege Course for High School Students)
 * Mentored Microsoft Imagine Cup Software Design Competition, 2012 US Finalist Team “Team Eos” (Jason Cheng, Wenshiang Chung, Gregory Wong, Xihan Zhang).
 * Mentored Microsoft Imagine Cup Game Design Competition, 2010 US Finalist Team “Team AwesomeSauce” (Anit Das, Gilad Gray, Cobin Dopkeen, and Nadia Rodriguez).
+* Received the 2016 Henry and Madeline Fischer Award, awarded annually to a faculty member of the School of Engineering judged by graduating seniors of the School of Engineering to be "Engineering's Teacher of the Year."
+* Received the 2016 Tufts Teaching with Technology Award
+* Received 2016-2017 Tufts Innovate Seed Grant for an interdisciplinary course on Cybersecurity and Cyberwarfare in the amount of $7,694 with Jeff Taliaferro (Political Science)
 * Course websites, overall course ratings, and overall performance of instructor ratings available at [http://mchow01.github.io/courses/](/courses/)
 
 **Middlesex Community College, Lowell, MA 01852**
