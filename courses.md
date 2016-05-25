@@ -6,19 +6,19 @@ permalink: /courses/
 
 ### Spring 2016
 * [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
-	* Enrollment (number of students): ?
-	* Overall Course Rating (of ? responses): ? / 5.0 [question 5]:
-	* Overall Performance of Instructor (of ? responses): ? / 5.0 [question 15]:
+	* Enrollment (number of students): 113
+	* Overall Course Rating (of 100 responses): 4.21 / 5.0 [question 5]:
+	* Overall Performance of Instructor (of 100 responses): 4.40 / 5.0 [question 15]:
 
 * [COMP 120: Web Engineering](http://www.cs.tufts.edu/comp/120/){:target="_blank"}
-	* Enrollment (number of students): ?
-	* Overall Course Rating (of ? responses):  ? / 5.0
-	* Overall Performance of Instructor (of ? responses): ? / 5.0
+	* Enrollment (number of students): 48
+	* Overall Course Rating (of 41 responses):  3.98 / 5.0
+	* Overall Performance of Instructor (of 41 responses): 4.37 / 5.0
 	
 * [COMP 150-MMD: Mobile Medical Devices (cross-listed with Electrical Engineering)](http://www.cs.tufts.edu/comp/150MMD/){:target="_blank"}
-	* Enrollment (number of students): ?
-	* Overall Course Rating (of ? responses): ? / 5.0
-	* Overall Performance of Instructor (of ? responses): ? / 5.0
+	* Enrollment (number of students): 23
+	* Overall Course Rating (of 21 responses): 3.38 / 5.0
+	* Overall Performance of Instructor (of 21 responses): 3.57 / 5.0
 
 ### Fall 2015
 * [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
