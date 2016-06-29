@@ -27,3 +27,16 @@ Believe it or not, that has been asked to the DEF CON organizers in the past.  Y
 
 ### List of Articles on How To Survive Black Hat / BSides LV / DEF CON / Vegas
 * [The Newbie’s 'How To Survive Black Hat' Guide (Dark Reading 2016)](http://www.darkreading.com/vulnerabilities---threats/the-newbies-how-to-survive-black-hat-guide/a/d-id/1326102?_mc=sm_dr&hootPostID=62bc065c48aa2f2012cc52a2914364ec){:target="_blank"}
+* [2015 Black Hat, DEF CON, BSidesLV Survival Guide  (Liquidmatrix, 2015)](https://www.liquidmatrix.org/blog/2015/07/20/2015-black-hat-def-con-bsideslv-survival-guide/){:target="_blank"}
+* [The Black Hat Attendee Guide Part 1: How to Survive Black Hat (Rapid7, 2015)](https://community.rapid7.com/community/infosec/blog/2015/07/13/the-black-hat-attendee-guide-part-1){:target="_blank"}
+* [The Black Hat Attendee Guide Part 2: The Briefings (Rapid7, 2015)](https://community.rapid7.com/community/infosec/blog/2015/07/16/the-black-hat-attendee-guide-part-2--the-briefings){:target="_blank"}
+* [The Black Hat Attendee Guide Part 3: Networking Like A Boss (Rapid7, 2015)](https://community.rapid7.com/community/infosec/blog/2015/07/20/the-black-hat-attendee-guide-part-3--networking-at-black-hat){:target="_blank"}
+* [The Black Hat Attendee Guide Part 7: Your Survival Kit (Rapid7, 2015)](https://community.rapid7.com/community/infosec/blog/2015/07/29/the-black-hat-attendee-guide-part-7-your-survival-kit){:target="_blank"}
+* [Surviving the Def Con hacker conference (Engadget, 2015)](https://www.engadget.com/2015/08/11/surviving-def-con/){:target="_blank"}
+* [A practical survival guide to Black Hat and DEF CON (CSO Online, 2014)](http://www.csoonline.com/article/2458907/security-awareness/a-practical-survival-guide-to-black-hat-and-def-con.html){:target="_blank"}
+* [A Black Hat, DefCon and B-Sides survival guide (Akamai, 2013)](https://blogs.akamai.com/2013/07/a-black-hat-defcon-and-b-sides-survival-guide.html){:target="_blank"}
+* [Getting the Most Out of DEF CON: Some Tips for First Timers (SANS, 2013)](https://pen-testing.sans.org/blog/2013/06/28/getting-the-most-out-of-def-con-some-tips-for-first-timers/){:target="_blank"}
+* [How to survive Black Hat and Defcon without getting hacked -- maybe (NetworkWorld, 2013)](http://www.networkworld.com/article/2179726/security/how-to-survive-black-hat-and-defcon-without-getting-hacked----maybe.html){:target="_blank"}
+* [Black Hat, DefCon and B-Sides: A survival guide (Computerworld, 2010)](http://www.computerworld.com/article/2519054/enterprise-applications/black-hat--defcon-and-b-sides--a-survival-guide.html){:target="_blank"}
+* [A Defcon survival guide (The Register, 2007)](http://www.theregister.co.uk/2007/08/01/defcon_survival_guide/){:target="_blank"}
+* ["defcon-for-n00bs" by Hacking-and-Coffee (GitHub)](https://github.com/Hacking-and-Coffee/defcon-for-n00bs){:target="_blank"}
