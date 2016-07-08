@@ -26,7 +26,8 @@ DEF CON has made a profound impact on my career and on my life, and many have sa
 Believe it or not, that has been asked to the DEF CON organizers in the past.  You are warned.
 
 ### <a name="articles"/>List of Articles on How To Survive Black Hat / BSides LV / DEF CON / Vegas
-* [The Newbie’s 'How To Survive Black Hat' Guide (Dark Reading 2016)](http://www.darkreading.com/vulnerabilities---threats/the-newbies-how-to-survive-black-hat-guide/a/d-id/1326102?_mc=sm_dr&hootPostID=62bc065c48aa2f2012cc52a2914364ec){:target="_blank"}
+* [The Practical Guide To Security At Conferences (HORNE, 2016)](http://cdn2.hubspot.net/hubfs/2224827/Practical-Guide-To-Security-At-Conferences-HORNE-Cyber.pdf?t=1467916084216){:target="_blank"}
+* [The Newbie’s 'How To Survive Black Hat' Guide (Dark Reading, 2016)](http://www.darkreading.com/vulnerabilities---threats/the-newbies-how-to-survive-black-hat-guide/a/d-id/1326102?_mc=sm_dr&hootPostID=62bc065c48aa2f2012cc52a2914364ec){:target="_blank"}
 * [2015 Black Hat, DEF CON, BSidesLV Survival Guide  (Liquidmatrix, 2015)](https://www.liquidmatrix.org/blog/2015/07/20/2015-black-hat-def-con-bsideslv-survival-guide/){:target="_blank"}
 * [The Black Hat Attendee Guide Part 1: How to Survive Black Hat (Rapid7, 2015)](https://community.rapid7.com/community/infosec/blog/2015/07/13/the-black-hat-attendee-guide-part-1){:target="_blank"}
 * [The Black Hat Attendee Guide Part 2: The Briefings (Rapid7, 2015)](https://community.rapid7.com/community/infosec/blog/2015/07/16/the-black-hat-attendee-guide-part-2--the-briefings){:target="_blank"}
