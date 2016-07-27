@@ -4,6 +4,8 @@ title: Talks
 permalink: /talks/
 ---
 
+[The Cyber Security Education Gap - What Do We Do Now?](/docs/hope2016.pdf) The Eleventh HOPE, Hotel Pennsylvania, New York, NY, July 23, 2016.
+
 [The Cyber Security Education Gap - What Do We Do Now?](/docs/source2016.pdf) SOURCE Conference Boston 2016, Marriott Tremont, Boston, MA, May 18, 2016.
 
 [So What is Being Exposed From IoT Devices?](/docs/securityofthings2015.pdf) The Security of Things Forum, Sheraton Commander Hotel, Cambridge, MA, September 10, 2015.
