@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ming Y. Chow</title>
-    <description>Ming Chow&#39;s website
+    <description>Ming Chow's website
 </description>
     <link>https://mchow01.github.io/</link>
     <atom:link href="https://mchow01.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 26 Jul 2016 21:17:39 -0400</pubDate>
-    <lastBuildDate>Tue, 26 Jul 2016 21:17:39 -0400</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <pubDate>Sun, 31 Jul 2016 21:32:12 -0400</pubDate>
+    <lastBuildDate>Sun, 31 Jul 2016 21:32:12 -0400</lastBuildDate>
+    <generator>Jekyll v3.2.0</generator>
     
       <item>
         <title>Collection of LinkedIn + Microsoft Jokes</title>
@@ -111,6 +111,7 @@
 
 &lt;h3 id=&quot;a-namearticleslist-of-articles-on-how-to-survive-black-hat--bsides-lv--def-con--vegas&quot;&gt;&lt;a name=&quot;articles&quot;&gt;&lt;/a&gt;List of Articles on How To Survive Black Hat / BSides LV / DEF CON / Vegas&lt;/h3&gt;
 &lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.peerlyst.com/posts/advice-for-n00bz-at-def-con-violet-blue&quot; target=&quot;_blank&quot;&gt;Advice for n00bz at DEF CON by Violet Blue&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://cdn2.hubspot.net/hubfs/2224827/Practical-Guide-To-Security-At-Conferences-HORNE-Cyber.pdf?t=1467916084216&quot; target=&quot;_blank&quot;&gt;The Practical Guide To Security At Conferences (HORNE, 2016)&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.darkreading.com/vulnerabilities---threats/the-newbies-how-to-survive-black-hat-guide/a/d-id/1326102?_mc=sm_dr&amp;amp;hootPostID=62bc065c48aa2f2012cc52a2914364ec&quot; target=&quot;_blank&quot;&gt;The Newbie’s ‘How To Survive Black Hat’ Guide (Dark Reading, 2016)&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://duo.com/blog/welcome-to-vegas&quot; target=&quot;_blank&quot;&gt;Welcome to Vegas! A Primer on Attending Black Hat &amp;amp; DEF CON (Duo, 2015)&lt;/a&gt;&lt;/li&gt;

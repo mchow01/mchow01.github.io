@@ -26,6 +26,7 @@ DEF CON has made a profound impact on my career and on my life, and many have sa
 Believe it or not, that has been asked to the DEF CON organizers in the past.  You are warned.
 
 ### <a name="articles"/>List of Articles on How To Survive Black Hat / BSides LV / DEF CON / Vegas
+* [Advice for n00bz at DEF CON by Violet Blue](https://www.peerlyst.com/posts/advice-for-n00bz-at-def-con-violet-blue){:target="_blank"}
 * [The Practical Guide To Security At Conferences (HORNE, 2016)](http://cdn2.hubspot.net/hubfs/2224827/Practical-Guide-To-Security-At-Conferences-HORNE-Cyber.pdf?t=1467916084216){:target="_blank"}
 * [The Newbie’s 'How To Survive Black Hat' Guide (Dark Reading, 2016)](http://www.darkreading.com/vulnerabilities---threats/the-newbies-how-to-survive-black-hat-guide/a/d-id/1326102?_mc=sm_dr&hootPostID=62bc065c48aa2f2012cc52a2914364ec){:target="_blank"}
 * [Welcome to Vegas! A Primer on Attending Black Hat &amp; DEF CON (Duo, 2015)](https://duo.com/blog/welcome-to-vegas){:target="_blank"}
