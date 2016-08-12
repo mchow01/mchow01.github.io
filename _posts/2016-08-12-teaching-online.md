@@ -34,4 +34,4 @@ I taught my [Web Programming](https://tuftsdev.github.io/WebProgramming) in the 
 
 Coincidentally before the start of my online class, there was very good post published by Northeastern University: "How To Be a Successful Online Learner." at [http://www.northeastern.edu/graduate/blog/2016/06/29/successful-online-learning-strategies/](http://www.northeastern.edu/graduate/blog/2016/06/29/successful-online-learning-strategies/).
 
-This first experience teaching a course online far exceeded my expectations.  I was very surprised at how easy it was for me to transition into teaching online.
+This first experience teaching a course online far exceeded my expectations.  I was very surprised at how easy it was for me to transition into teaching online.  While this was my first experience, there are still lots of issues to be ironed out.  I also need to be mindful of issues like close captioning of videos for an online course [as Harvard and MIT were sued for that](http://www.nytimes.com/2015/02/13/education/harvard-and-mit-sued-over-failing-to-caption-online-courses.html).  We can all agree on one thing: online education is not going away any time soon.
