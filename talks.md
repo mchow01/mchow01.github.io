@@ -66,12 +66,14 @@ Use of the Internet in Fraud Investigations
 * Greater Boston Chapter of the Association of Certified Fraud Examiners (ACFE), Boston, MA, September 21, 2007.
 
 ## Additional Media and Press
-* [http://enews.tufts.edu/stories/1664/2010/08/24/MobileApps](http://enews.tufts.edu/stories/1664/2010/08/24/MobileApps){:target="_blank"}
-* [http://www.prism-magazine.org/summer11/feature_01.cfm](http://www.prism-magazine.org/summer11/feature_01.cfm){:target="_blank"}
-* [http://venturebeat.com/2011/08/11/old-hacking-tricks-work-too-easily-in-attacks-on-html5-security-expert-says/](http://venturebeat.com/2011/08/11/old-hacking-tricks-work-too-easily-in-attacks-on-html5-security-expert-says/){:target="_blank"}
-* [http://www.veracode.com/blog/2012/03/demystifying-binary-static-analysis/](http://www.veracode.com/blog/2012/03/demystifying-binary-static-analysis/){:target="_blank"}
+* ["Why Security Isn’t Taught in Schools (And What We Can Do About It)"](https://codiscope.com/cybersecurity-not-taught-schools/){:target="_blank"}
+* ["Most Top Computer Science Programs Skip Cybersecurity"](http://theinstitute.ieee.org/career-and-education/education/most-top-computer-science-programs-skip-cybersecurity){:target="_blank"}
+* ["Congress puts terrorism and tech in the spotlight"](http://money.cnn.com/2015/12/08/technology/encryption-congress-commission/){:target="_blank"}
+* [https://now.tufts.edu/articles/art-game-design](https://now.tufts.edu/articles/art-game-design){:target="_blank"}
+* [https://now.tufts.edu/articles/engineering-reality](https://now.tufts.edu/articles/engineering-reality){:target="_blank"}
 * [http://bostinno.com/all-series/5-tips-for-startups-to-recruit-bostons-top-students/](http://bostinno.com/all-series/5-tips-for-startups-to-recruit-bostons-top-students/){:target="_blank"}
 * [http://bostinno.com/2012/04/12/tufts-hosts-their-first-hackathon-with-the-help-of-evernote-offering-winners-a-trip-to-silicon-valley/](http://bostinno.com/2012/04/12/tufts-hosts-their-first-hackathon-with-the-help-of-evernote-offering-winners-a-trip-to-silicon-valley/){:target="_blank"}
-* [https://now.tufts.edu/articles/engineering-reality](https://now.tufts.edu/articles/engineering-reality){:target="_blank"}
-* [https://now.tufts.edu/articles/art-game-design](https://now.tufts.edu/articles/art-game-design){:target="_blank"}
-* ["Congress puts terrorism and tech in the spotlight"](http://money.cnn.com/2015/12/08/technology/encryption-congress-commission/)
+* [http://www.veracode.com/blog/2012/03/demystifying-binary-static-analysis/](http://www.veracode.com/blog/2012/03/demystifying-binary-static-analysis/){:target="_blank"}
+* [http://venturebeat.com/2011/08/11/old-hacking-tricks-work-too-easily-in-attacks-on-html5-security-expert-says/](http://venturebeat.com/2011/08/11/old-hacking-tricks-work-too-easily-in-attacks-on-html5-security-expert-says/){:target="_blank"}
+* [http://www.prism-magazine.org/summer11/feature_01.cfm](http://www.prism-magazine.org/summer11/feature_01.cfm){:target="_blank"}
+* [http://enews.tufts.edu/stories/1664/2010/08/24/MobileApps](http://enews.tufts.edu/stories/1664/2010/08/24/MobileApps){:target="_blank"}
