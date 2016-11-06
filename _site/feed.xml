@@ -6,13 +6,13 @@
 </description>
     <link>https://mchow01.github.io/</link>
     <atom:link href="https://mchow01.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 Nov 2016 17:24:39 -0500</pubDate>
-    <lastBuildDate>Sun, 06 Nov 2016 17:24:39 -0500</lastBuildDate>
+    <pubDate>Sun, 06 Nov 2016 17:26:26 -0500</pubDate>
+    <lastBuildDate>Sun, 06 Nov 2016 17:26:26 -0500</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
         <title>Results of a Password Cracking Content for My Security Class</title>
-        <description>&lt;p&gt;For my &lt;a href=&quot;https://tuftsdev.github.io/DefenseAgainstTheDarkArts&quot;&gt;Introduction to Computer Security&lt;/a&gt; class that I teach once an academic year since 2012, I give a month-long lab in October to crack as many passwords as possible.  For this year’s contest, I used three different hash types: NTLM, MD5, and SHA-512.  The password hashes:&lt;/p&gt;
+        <description>&lt;p&gt;For my &lt;a href=&quot;https://tuftsdev.github.io/DefenseAgainstTheDarkArts&quot;&gt;Introduction to Computer Security&lt;/a&gt; class that I teach once an academic year since 2012, I give a month-long lab in October to crack as many passwords as possible.  For this year’s contest (opened on October 3, 2016), I used three different hash types: NTLM, MD5, and SHA-512.  The password hashes:&lt;/p&gt;
 
 &lt;pre&gt;
 bigbear:$1$xJJUvMhn$PnAhcJUFtPrqcgPLTfkH6/:1012:1012:,,,:/home/bigbear:/bin/bash

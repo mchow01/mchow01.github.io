@@ -5,7 +5,7 @@ date:   2016-11-6 17:00:00
 categories: education, security
 ---
 
-For my [Introduction to Computer Security](https://tuftsdev.github.io/DefenseAgainstTheDarkArts) class that I teach once an academic year since 2012, I give a month-long lab in October to crack as many passwords as possible.  For this year's contest, I used three different hash types: NTLM, MD5, and SHA-512.  The password hashes:
+For my [Introduction to Computer Security](https://tuftsdev.github.io/DefenseAgainstTheDarkArts) class that I teach once an academic year since 2012, I give a month-long lab in October to crack as many passwords as possible.  For this year's contest (opened on October 3, 2016), I used three different hash types: NTLM, MD5, and SHA-512.  The password hashes:
 
 <pre>
 bigbear:$1$xJJUvMhn$PnAhcJUFtPrqcgPLTfkH6/:1012:1012:,,,:/home/bigbear:/bin/bash
