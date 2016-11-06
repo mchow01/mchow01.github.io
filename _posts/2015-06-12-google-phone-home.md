@@ -2,7 +2,7 @@
 layout: post
 title:  "How often does a *Google* Android device phones home?"
 date:   2015-06-12 23:19:00
-categories: mobile security
+categories: mobile, security
 ---
 
 [_"We don't love Google so much any more, mainly because we trust it less and less. More and more people have realized that the Google search engine is hugely biased in favor of advertisers, and the results are increasingly manipulated by Google for inscrutable purposes. Google seems to track anything and everything we do -- it peruses our emails, our files stored on its servers, our locations, and our chats."_](http://www.infoworld.com/article/2610866/techology-business/too-big-to-trust--google-s-growing-credibility-gap.html){:target="_blank"}
