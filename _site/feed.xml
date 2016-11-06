@@ -6,8 +6,8 @@
 </description>
     <link>https://mchow01.github.io/</link>
     <atom:link href="https://mchow01.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 Nov 2016 17:26:26 -0500</pubDate>
-    <lastBuildDate>Sun, 06 Nov 2016 17:26:26 -0500</lastBuildDate>
+    <pubDate>Sun, 06 Nov 2016 17:30:59 -0500</pubDate>
+    <lastBuildDate>Sun, 06 Nov 2016 17:30:59 -0500</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
@@ -71,11 +71,11 @@ yolandabear:jabron1 (MD5) =&amp;gt; 52 students cracked this
 &lt;/pre&gt;
 </description>
         <pubDate>Sun, 06 Nov 2016 12:00:00 -0500</pubDate>
-        <link>https://mchow01.github.io/education,/security/2016/11/06/password-cracking.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/education,/security/2016/11/06/password-cracking.html</guid>
+        <link>https://mchow01.github.io/education/security/2016/11/06/password-cracking.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/education/security/2016/11/06/password-cracking.html</guid>
         
         
-        <category>education,</category>
+        <category>education</category>
         
         <category>security</category>
         
@@ -286,11 +286,11 @@ yolandabear:jabron1 (MD5) =&amp;gt; 52 students cracked this
 &lt;p&gt;If you have an Android device, you can change the operating system to a non-Google Android such as &lt;a href=&quot;http://www.cyanogenmod.org/&quot; target=&quot;_blank&quot;&gt;Cyanogenmod&lt;/a&gt;.  It is still Android, but without the bloat (hardly anything Google), and even features such as built-in root support.&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Jun 2015 19:19:00 -0400</pubDate>
-        <link>https://mchow01.github.io/mobile,/security/2015/06/12/google-phone-home.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/mobile,/security/2015/06/12/google-phone-home.html</guid>
+        <link>https://mchow01.github.io/mobile/security/2015/06/12/google-phone-home.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/mobile/security/2015/06/12/google-phone-home.html</guid>
         
         
-        <category>mobile,</category>
+        <category>mobile</category>
         
         <category>security</category>
         

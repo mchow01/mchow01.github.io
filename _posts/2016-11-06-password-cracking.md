@@ -2,7 +2,7 @@
 layout: post
 title:  "Results of a Password Cracking Content for My Security Class"
 date:   2016-11-6 17:00:00
-categories: education, security
+categories: education security
 ---
 
 For my [Introduction to Computer Security](https://tuftsdev.github.io/DefenseAgainstTheDarkArts) class that I teach once an academic year since 2012, I give a month-long lab in October to crack as many passwords as possible.  For this year's contest (opened on October 3, 2016), I used three different hash types: NTLM, MD5, and SHA-512.  The password hashes:
