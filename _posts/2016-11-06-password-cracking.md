@@ -62,3 +62,21 @@ yetibear:7QunlW8 (sha512) => 0 students cracked this
 yogibear:u1-1$A#Q (NTLM) => 0 students cracked this
 yolandabear:jabron1 (MD5) => 52 students cracked this
 </pre>
+
+The winner cracked 13 of the passwords.  The student's haul:
+
+<pre>
+bigbear:!Liverpool
+blinkybear:EdRojas
+chicagobear:ch!pmunks
+cozybear:gpxkr4
+daisybear:Booger
+fancybear:ECX[0Wr
+grizzlybear:@Pp|3
+jojobear:3scrow
+pandabear:AshleyMadison
+peachbear:ncc1701a
+teddybear:kafka21
+willybear:M@rc0P010
+yolandabear:jabroni1
+</pre>
