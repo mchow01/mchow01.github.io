@@ -4,11 +4,13 @@ title: Talks
 permalink: /talks/
 ---
 
-[The Cyber Security Education Gap - What Do We Do Now?](/docs/hope2016.pdf) The Eleventh HOPE, Hotel Pennsylvania, New York, NY, July 23, 2016.
-
-<iframe id="lsembed_1470786843" src="//livestream.com/accounts/9198012/events/5834263/videos/131672227/player?autoPlay=false&amp;height=360&amp;mute=false&amp;width=640" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen></iframe> 
-
-[The Cyber Security Education Gap - What Do We Do Now?](/docs/source2016.pdf) SOURCE Conference Boston 2016, Marriott Tremont, Boston, MA, May 18, 2016.
+The Cyber Security Education Gap - What Do We Do Now?
+* [Advanced Cyber Security Center (ACSC) Cyber Tuesday Meeting](/docs/acsc-20161116.pdf), Federal Reserve Bank, Boston, MA, November 15, 2016.
+* 2016 ISSA International Conference, Hyatt Regency Dallas, Dallas, TX, November 1, 2016. (declined)
+* [The Eleventh HOPE](/docs/hope2016.pdf), Hotel Pennsylvania, New York, NY, July 23, 2016.
+* <iframe id="lsembed_1470786843" src="//livestream.com/accounts/9198012/events/5834263/videos/131672227/player?autoPlay=false&amp;height=360&amp;mute=false&amp;width=640" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen></iframe> 
+* [SOURCE Conference Boston 2016](/docs/source2016.pdf), Marriott Tremont, Boston, MA, May 18, 2016.
+* New England Security Day Spring 2016, Harvard University, Cambridge, MA, April 28, 2016
 
 [So What is Being Exposed From IoT Devices?](/docs/securityofthings2015.pdf) The Security of Things Forum, Sheraton Commander Hotel, Cambridge, MA, September 10, 2015.
 
