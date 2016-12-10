@@ -3,6 +3,7 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
+[The Hard Problems in Security](/docs/hackathon-20161130.pdf). Rocket Build 2016, InterContinental Hotel, Boston, MA, November 30, 2016.
 
 The Cyber Security Education Gap - What Do We Do Now?
 
@@ -13,7 +14,7 @@ The Cyber Security Education Gap - What Do We Do Now?
 * [SOURCE Conference Boston 2016](/docs/source2016.pdf), Marriott Tremont, Boston, MA, May 18, 2016.
 * New England Security Day Spring 2016, Harvard University, Cambridge, MA, April 28, 2016
 
-[So What is Being Exposed From IoT Devices?](/docs/securityofthings2015.pdf) The Security of Things Forum, Sheraton Commander Hotel, Cambridge, MA, September 10, 2015.
+[So What is Being Exposed From IoT Devices?](/docs/securityofthings2015.pdf). The Security of Things Forum, Sheraton Commander Hotel, Cambridge, MA, September 10, 2015.
 
 [The Blame Starts with Computer Science Curricula](/docs/beacon2015.pdf). BeaCon 2015 Mini-Conference, The Red Hat, Boston, MA, May 30, 2015.
 
@@ -23,7 +24,7 @@ The Cyber Security Education Gap - What Do We Do Now?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eGMfR3NfnWg" allowfullscreen></iframe>
 
-[A Growing Mongo Problem!](/docs/bsmcon3-mchow.pdf) Boston Security Conference #3, Microsoft New England Research and Development Center, Cambridge, MA, October 20, 2014.
+[A Growing Mongo Problem!](/docs/bsmcon3-mchow.pdf). Boston Security Conference #3, Microsoft New England Research and Development Center, Cambridge, MA, October 20, 2014.
 
 Information Security Careers &amp; Education Panel (with Rob Cheyne, Paul Asadoorian, Roy Wattanasin, and Mark Knowlton). BSides Boston Security Conference, Microsoft New England Research and Development Center, Cambridge, MA, May 10, 2014.
 
