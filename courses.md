@@ -10,7 +10,7 @@ permalink: /courses/
 	* Overall Course Rating (of ? responses): ? / 5.0 [question 5]
 	* Overall Performance of Instructor (of ? responses): ? / 5.0 [question 15]
 
-* [COMP 116: Introduction to Computer Security](http://www.cs.tufts.edu/comp/120/){:target="_blank"}
+* [COMP 116: Introduction to Computer Security](http://www.cs.tufts.edu/comp/116/){:target="_blank"}
 	* Enrollment (number of students): ?
 	* Overall Course Rating (of ? responses):  ? / 5.0
 	* Overall Performance of Instructor (of ? responses): ? / 5.0
