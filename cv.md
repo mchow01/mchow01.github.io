@@ -15,8 +15,10 @@ permalink: /cv/
 * _Senior Lecturer, September 2015 to present_
 * _Lecturer, September 2009 to August 2015_
 
-* Spring 2010, Spring 2011, Fall 2011, Fall 2013, Spring 2015, Spring 2016: _Web Engineering_
-* Fall 2009, Fall 2010, Spring 2011, Summer 2011, Spring 2013, Spring 2014, Fall 2014, Spring 2015, Fall 2015, Spring 2016: _Web Programming_
+* Spring 2017: _Cyber Security and Cyber Warfare_
+	* Cross-listed with Department of Political Science
+* Spring 2010, Spring 2011, Fall 2011, Fall 2013, Spring 2015, Spring 2016, Spring 2017: _Web Engineering_
+* Fall 2009, Fall 2010, Spring 2011, Summer 2011, Spring 2013, Spring 2014, Fall 2014, Spring 2015, Fall 2015, Spring 2016, Summer 2016 (Online), Fall 2016, Spring 2017: _Web Programming_
 	* Grew the course from 11 students in fall 2009 to 119 in spring 2013.
 * Fall 2014, Spring 2016: _Mobile Medical Devices and Apps_
 	* Cross-listed with Department of Electrical and Computer Engineering
@@ -157,7 +159,7 @@ _Summer Intern for the Lycos Quality Assurance Team, Summer 1999_
 
 * _Languages_: C, C++, C#, Go, HTML5, Java, JavaScript, Objective-C, PHP, Perl, Python, Ruby, Swift
 * _Databases_: CouchDB, MongoDB, MySQL, Oracle, PostgreSQL, SQLite
-* _Technologies_: Android SDK, Apache Struts, Cascading Style Sheets (CSS), Git, Google App Engine, Google Web Toolkit, Heroku, iOS SDK, JavaServer Pages (JSP), jQuery, JavaScript Object Notation (JSON), Jekyll, Node.js, Redis, Ruby on Rails, Socket.io, Subversion, Windows Phone SDK, XML
+* _Technologies_: Android SDK, Apache Struts, Cascading Style Sheets (CSS), Git, Google App Engine, Google Web Toolkit, Heroku, iOS SDK, JavaServer Pages (JSP), jQuery, JavaScript Object Notation (JSON), Jekyll, Node.js, React Native, Redis, Ruby on Rails, Socket.io, Subversion, Windows Phone SDK, XML
 
 ## Education
 
