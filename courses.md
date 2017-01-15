@@ -4,21 +4,37 @@ title: Courses @ Tufts
 permalink: /courses/
 ---
 
-### Fall 2016
+### Spring 2017
 * [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
 	* Enrollment (number of students): ?
 	* Overall Course Rating (of ? responses): ? / 5.0 [question 5]
 	* Overall Performance of Instructor (of ? responses): ? / 5.0 [question 15]
 
-* [COMP 116: Introduction to Computer Security](http://www.cs.tufts.edu/comp/116/){:target="_blank"}
+* [COMP 120: Web Engineering](http://www.cs.tufts.edu/comp/120/){:target="_blank"}
 	* Enrollment (number of students): ?
 	* Overall Course Rating (of ? responses):  ? / 5.0
 	* Overall Performance of Instructor (of ? responses): ? / 5.0
 	
-* [COMP 150-MOB: Mobile Development](http://www.cs.tufts.edu/comp/150MOB/){:target="_blank"}
+* COMP 50 / PS 188: Cyber Security and Cyber Warfare
 	* Enrollment (number of students): ?
 	* Overall Course Rating (of ? responses): ? / 5.0
 	* Overall Performance of Instructor (of ? responses): ? / 5.0
+
+### Fall 2016
+* [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
+	* Enrollment (number of students): ?
+	* Overall Course Rating (of 81 responses): 4.27 / 5.0 [question 5]
+	* Overall Performance of Instructor (of 81 responses): 4.53 / 5.0 [question 15]
+
+* [COMP 116: Introduction to Computer Security](http://www.cs.tufts.edu/comp/116/){:target="_blank"}
+	* Enrollment (number of students): ?
+	* Overall Course Rating (of 69 responses):  4.26 / 5.0
+	* Overall Performance of Instructor (of 69 responses): 4.49 / 5.0
+	
+* [COMP 150-MOB: Mobile Development](http://www.cs.tufts.edu/comp/150MOB/){:target="_blank"}
+	* Enrollment (number of students): ?
+	* Overall Course Rating (of 23 responses): 3.65 / 5.0
+	* Overall Performance of Instructor (of 23 responses): 4.17 / 5.0
 
 ### Spring 2016
 * [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
