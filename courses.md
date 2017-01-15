@@ -22,17 +22,17 @@ permalink: /courses/
 
 ### Fall 2016
 * [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
-	* Enrollment (number of students): ?
+	* Enrollment (number of students): 87
 	* Overall Course Rating (of 81 responses): 4.27 / 5.0 [question 5]
 	* Overall Performance of Instructor (of 81 responses): 4.53 / 5.0 [question 15]
 
 * [COMP 116: Introduction to Computer Security](http://www.cs.tufts.edu/comp/116/){:target="_blank"}
-	* Enrollment (number of students): ?
+	* Enrollment (number of students): 75
 	* Overall Course Rating (of 69 responses):  4.26 / 5.0
 	* Overall Performance of Instructor (of 69 responses): 4.49 / 5.0
 	
 * [COMP 150-MOB: Mobile Development](http://www.cs.tufts.edu/comp/150MOB/){:target="_blank"}
-	* Enrollment (number of students): ?
+	* Enrollment (number of students): 43
 	* Overall Course Rating (of 23 responses): 3.65 / 5.0
 	* Overall Performance of Instructor (of 23 responses): 4.17 / 5.0
 
