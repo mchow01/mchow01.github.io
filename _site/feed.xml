@@ -4,10 +4,10 @@
     <title>Ming Y. Chow</title>
     <description>Ming Chow's website
 </description>
-    <link>https://mchow01.github.io/</link>
-    <atom:link href="https://mchow01.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 Jan 2017 01:41:25 -0500</pubDate>
-    <lastBuildDate>Mon, 16 Jan 2017 01:41:25 -0500</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 16 Jan 2017 01:44:44 -0500</pubDate>
+    <lastBuildDate>Mon, 16 Jan 2017 01:44:44 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -47,9 +47,9 @@
   &lt;/li&gt;
 &lt;/ol&gt;
 </description>
-        <pubDate>Thu, 12 Jan 2017 16:00:00 -0500</pubDate>
-        <link>https://mchow01.github.io/tech/career/education/2017/01/12/the-importance-of-side-projects.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/tech/career/education/2017/01/12/the-importance-of-side-projects.html</guid>
+        <pubDate>Sun, 15 Jan 2017 20:00:00 -0500</pubDate>
+        <link>http://localhost:4000/tech/career/education/2017/01/15/the-importance-of-side-projects.html</link>
+        <guid isPermaLink="true">http://localhost:4000/tech/career/education/2017/01/15/the-importance-of-side-projects.html</guid>
         
         
         <category>tech</category>
@@ -139,8 +139,8 @@ yolandabear:jabroni1
 &lt;/pre&gt;
 </description>
         <pubDate>Sun, 06 Nov 2016 12:00:00 -0500</pubDate>
-        <link>https://mchow01.github.io/education/security/2016/11/06/password-cracking.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/education/security/2016/11/06/password-cracking.html</guid>
+        <link>http://localhost:4000/education/security/2016/11/06/password-cracking.html</link>
+        <guid isPermaLink="true">http://localhost:4000/education/security/2016/11/06/password-cracking.html</guid>
         
         
         <category>education</category>
@@ -196,8 +196,8 @@ yolandabear:jabroni1
 &lt;p&gt;This first experience teaching a course online far exceeded my expectations.  I was very surprised at how easy it was for me to transition into teaching online.  While this was my first experience, there are still lots of issues to be ironed out.  I also need to be mindful of issues like close captioning of videos for an online course &lt;a href=&quot;http://www.nytimes.com/2015/02/13/education/harvard-and-mit-sued-over-failing-to-caption-online-courses.html&quot;&gt;as Harvard and MIT were sued for that&lt;/a&gt;.  Many thanks to my first online class for a fantastic and welcoming experience.  We can all agree on one thing: online education is not going away any time soon.&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Aug 2016 12:30:00 -0400</pubDate>
-        <link>https://mchow01.github.io/education/2016/08/12/teaching-online.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/education/2016/08/12/teaching-online.html</guid>
+        <link>http://localhost:4000/education/2016/08/12/teaching-online.html</link>
+        <guid isPermaLink="true">http://localhost:4000/education/2016/08/12/teaching-online.html</guid>
         
         
         <category>education</category>
@@ -240,8 +240,8 @@ yolandabear:jabroni1
 
 </description>
         <pubDate>Mon, 13 Jun 2016 11:35:19 -0400</pubDate>
-        <link>https://mchow01.github.io/humor/2016/06/13/linkedin-microsoft.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/humor/2016/06/13/linkedin-microsoft.html</guid>
+        <link>http://localhost:4000/humor/2016/06/13/linkedin-microsoft.html</link>
+        <guid isPermaLink="true">http://localhost:4000/humor/2016/06/13/linkedin-microsoft.html</guid>
         
         
         <category>humor</category>
@@ -271,8 +271,8 @@ yolandabear:jabroni1
 &lt;p&gt;I hope this is valuable advice for those who are interested on learning more about information security.  If you would like to go further and make information security your career, read Lesley Carhart’s &lt;a href=&quot;http://tisiphone.net/2015/10/12/starting-an-infosec-career-the-megamix-chapters-1-3/&quot; target=&quot;_blank&quot;&gt;“Starting an InfoSec Career”&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 14 Sep 2015 06:00:00 -0400</pubDate>
-        <link>https://mchow01.github.io/security/2015/09/14/learning-more-about-security.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/security/2015/09/14/learning-more-about-security.html</guid>
+        <link>http://localhost:4000/security/2015/09/14/learning-more-about-security.html</link>
+        <guid isPermaLink="true">http://localhost:4000/security/2015/09/14/learning-more-about-security.html</guid>
         
         
         <category>security</category>
@@ -325,8 +325,8 @@ yolandabear:jabroni1
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 19 Jul 2015 13:00:00 -0400</pubDate>
-        <link>https://mchow01.github.io/security/2015/07/19/security-summer-camp.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/security/2015/07/19/security-summer-camp.html</guid>
+        <link>http://localhost:4000/security/2015/07/19/security-summer-camp.html</link>
+        <guid isPermaLink="true">http://localhost:4000/security/2015/07/19/security-summer-camp.html</guid>
         
         
         <category>security</category>
@@ -354,8 +354,8 @@ yolandabear:jabroni1
 &lt;p&gt;If you have an Android device, you can change the operating system to a non-Google Android such as &lt;a href=&quot;http://www.cyanogenmod.org/&quot; target=&quot;_blank&quot;&gt;Cyanogenmod&lt;/a&gt;.  It is still Android, but without the bloat (hardly anything Google), and even features such as built-in root support.&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Jun 2015 19:19:00 -0400</pubDate>
-        <link>https://mchow01.github.io/mobile/security/2015/06/12/google-phone-home.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/mobile/security/2015/06/12/google-phone-home.html</guid>
+        <link>http://localhost:4000/mobile/security/2015/06/12/google-phone-home.html</link>
+        <guid isPermaLink="true">http://localhost:4000/mobile/security/2015/06/12/google-phone-home.html</guid>
         
         
         <category>mobile</category>
@@ -467,8 +467,8 @@ yolandabear:jabroni1
 
 </description>
         <pubDate>Fri, 12 Jun 2015 11:35:19 -0400</pubDate>
-        <link>https://mchow01.github.io/mobile/security/2015/06/12/espn-ios.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/mobile/security/2015/06/12/espn-ios.html</guid>
+        <link>http://localhost:4000/mobile/security/2015/06/12/espn-ios.html</link>
+        <guid isPermaLink="true">http://localhost:4000/mobile/security/2015/06/12/espn-ios.html</guid>
         
         
         <category>mobile</category>

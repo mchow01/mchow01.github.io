@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Understanding Why Side Projects Are Looked At So Highly in Tech"
-date:   2017-01-12 21:00:00
+date:   2017-01-16 01:00:00
 categories: tech career education
 ---
 
