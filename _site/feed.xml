@@ -4,10 +4,10 @@
     <title>Ming Y. Chow</title>
     <description>Ming Chow's website
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 Jan 2017 01:46:05 -0500</pubDate>
-    <lastBuildDate>Mon, 16 Jan 2017 01:46:05 -0500</lastBuildDate>
+    <link>https://mchow01.github.io/</link>
+    <atom:link href="https://mchow01.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 17 Jan 2017 16:48:50 -0500</pubDate>
+    <lastBuildDate>Tue, 17 Jan 2017 16:48:50 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -18,7 +18,7 @@
 
 &lt;p&gt;&lt;strong&gt;Having a side project will open up a deeper and engaging conversation.&lt;/strong&gt;  Peeking at examples of code someone has written and shared reveals a lot.  A question I always ask candidates is something along the lines of: “tell me about a project that you have worked on” &lt;sup&gt;&lt;a href=&quot;#ref3&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;.  This is where I can assess candidate’s ability to analyze costs and trade-offs, remark about programming style, passion, personality, and even assess writing abilities.  A fantastic outcome of such conversation is if both the candidate and I learn something from each other.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Side projects demonstrate your ability to build, your ability to apply what you have learned overall (e.g., in a Computer Science curriculum), and that you actually know how to program. [A bonus is if someone can build something completely with documentation, tests, bugfixes, etc.]&lt;/strong&gt;  Especially for engineering roles, tech companies are looking for builders and hackers, the hands-on and creative types.  The building, hacking, creative, and hands-on skills are generally not reflected in the classroom setting.  Students have been trained all their life to do homework assignments, take tests, and perhaps aim to get top grades for classes.  The aim of homework assignments is to apply recent concepts learned and most assignments are one-offs.  Tests, quizzes, and certifications almost never show anything about a person’s hands-on abilities.  This cycle does not reflect how the real world works.  For most, there are not enough opportunities in the academic setting to put-it-all-together.  Sadly, the result is many students graduate with a Computer Science degree but do not feel they know how to program as evident by &lt;a href=&quot;http://softwareengineering.stackexchange.com/questions/43528/im-graduating-with-a-computer-science-degree-but-i-dont-feel-like-i-know-how-t/&quot;&gt;this sobering discussion on StackExchange&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Side projects demonstrate your ability to build, your ability to apply what you have learned overall (e.g., in a Computer Science curriculum), and that you actually know how to program. [A bonus is if someone can build something completely with documentation, tests, bugfixes, etc.]&lt;/strong&gt;  Especially for software engineering roles, companies look for builders, hackers, the hands-on and creative types.  The building, hacking, creative, and hands-on skills are generally not reflected in the classroom setting.  Students have been trained all their life to do homework assignments, take tests, and perhaps aim to get top grades for classes.  The aim of homework assignments is to apply the recent concepts learned and most assignments are one-offs.  Tests, quizzes, and certifications almost never show anything about a person’s hands-on abilities.  This cycle does not reflect how the real world works.  For most, there are not enough opportunities in the academic setting to put-it-all-together.  Sadly, the result is many students graduate with a Computer Science degree but do not feel they know how to program as evident by &lt;a href=&quot;http://softwareengineering.stackexchange.com/questions/43528/im-graduating-with-a-computer-science-degree-but-i-dont-feel-like-i-know-how-t/&quot;&gt;this sobering discussion on StackExchange&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Side projects demonstrate your ability to learn on your own and dabble with new tools and technologies.&lt;/strong&gt;  Compared to when I was a Computer Science student in the Dot-com days, there is now a plethora of JavaScript and web frameworks, Machine Learning packages, security tools, microcontrollers, databases, integrated development environments (IDEs), and the list goes on.  The barrier and cost of entry for the technologies are very low.  There is a massive collection of resources (e.g., documentation, examples, courseware) available on the Internet.  There are even communities (e.g., meet-ups) and conferences for special interest and topics.  What is certain: (1) there will be more technologies and frameworks released in the future, and (2) you will be asked to work on something using technologies you are not familiar with.  It is very difficult to keep up with the pace of technology and innovation.  The technology or framework that you are using today may be obsolete tomorrow.  You need to demonstrate your value and your ability to adapt quickly.  I didn’t take a course in web development when I was an undergraduate, and I didn’t take a course in mobile development (it didn’t even exist): I had to learn them on the job and on my spare time back in-the-days.  This is especially important if you want to delve into security: most college and certification courses do not “provide all of the skills and practical experience needed to become a desirable candidate for an entry level position” &lt;sup&gt;&lt;a href=&quot;#ref4&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; and I wholeheartedly agree with Lesley Carhart on this.&lt;/p&gt;
 
@@ -48,8 +48,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Sun, 15 Jan 2017 20:00:00 -0500</pubDate>
-        <link>http://localhost:4000/tech/career/education/2017/01/15/the-importance-of-side-projects.html</link>
-        <guid isPermaLink="true">http://localhost:4000/tech/career/education/2017/01/15/the-importance-of-side-projects.html</guid>
+        <link>https://mchow01.github.io/tech/career/education/2017/01/15/the-importance-of-side-projects.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/tech/career/education/2017/01/15/the-importance-of-side-projects.html</guid>
         
         
         <category>tech</category>
@@ -139,8 +139,8 @@ yolandabear:jabroni1
 &lt;/pre&gt;
 </description>
         <pubDate>Sun, 06 Nov 2016 12:00:00 -0500</pubDate>
-        <link>http://localhost:4000/education/security/2016/11/06/password-cracking.html</link>
-        <guid isPermaLink="true">http://localhost:4000/education/security/2016/11/06/password-cracking.html</guid>
+        <link>https://mchow01.github.io/education/security/2016/11/06/password-cracking.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/education/security/2016/11/06/password-cracking.html</guid>
         
         
         <category>education</category>
@@ -196,8 +196,8 @@ yolandabear:jabroni1
 &lt;p&gt;This first experience teaching a course online far exceeded my expectations.  I was very surprised at how easy it was for me to transition into teaching online.  While this was my first experience, there are still lots of issues to be ironed out.  I also need to be mindful of issues like close captioning of videos for an online course &lt;a href=&quot;http://www.nytimes.com/2015/02/13/education/harvard-and-mit-sued-over-failing-to-caption-online-courses.html&quot;&gt;as Harvard and MIT were sued for that&lt;/a&gt;.  Many thanks to my first online class for a fantastic and welcoming experience.  We can all agree on one thing: online education is not going away any time soon.&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Aug 2016 12:30:00 -0400</pubDate>
-        <link>http://localhost:4000/education/2016/08/12/teaching-online.html</link>
-        <guid isPermaLink="true">http://localhost:4000/education/2016/08/12/teaching-online.html</guid>
+        <link>https://mchow01.github.io/education/2016/08/12/teaching-online.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/education/2016/08/12/teaching-online.html</guid>
         
         
         <category>education</category>
@@ -240,8 +240,8 @@ yolandabear:jabroni1
 
 </description>
         <pubDate>Mon, 13 Jun 2016 11:35:19 -0400</pubDate>
-        <link>http://localhost:4000/humor/2016/06/13/linkedin-microsoft.html</link>
-        <guid isPermaLink="true">http://localhost:4000/humor/2016/06/13/linkedin-microsoft.html</guid>
+        <link>https://mchow01.github.io/humor/2016/06/13/linkedin-microsoft.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/humor/2016/06/13/linkedin-microsoft.html</guid>
         
         
         <category>humor</category>
@@ -271,8 +271,8 @@ yolandabear:jabroni1
 &lt;p&gt;I hope this is valuable advice for those who are interested on learning more about information security.  If you would like to go further and make information security your career, read Lesley Carhart’s &lt;a href=&quot;http://tisiphone.net/2015/10/12/starting-an-infosec-career-the-megamix-chapters-1-3/&quot; target=&quot;_blank&quot;&gt;“Starting an InfoSec Career”&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 14 Sep 2015 06:00:00 -0400</pubDate>
-        <link>http://localhost:4000/security/2015/09/14/learning-more-about-security.html</link>
-        <guid isPermaLink="true">http://localhost:4000/security/2015/09/14/learning-more-about-security.html</guid>
+        <link>https://mchow01.github.io/security/2015/09/14/learning-more-about-security.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/security/2015/09/14/learning-more-about-security.html</guid>
         
         
         <category>security</category>
@@ -325,8 +325,8 @@ yolandabear:jabroni1
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 19 Jul 2015 13:00:00 -0400</pubDate>
-        <link>http://localhost:4000/security/2015/07/19/security-summer-camp.html</link>
-        <guid isPermaLink="true">http://localhost:4000/security/2015/07/19/security-summer-camp.html</guid>
+        <link>https://mchow01.github.io/security/2015/07/19/security-summer-camp.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/security/2015/07/19/security-summer-camp.html</guid>
         
         
         <category>security</category>
@@ -354,8 +354,8 @@ yolandabear:jabroni1
 &lt;p&gt;If you have an Android device, you can change the operating system to a non-Google Android such as &lt;a href=&quot;http://www.cyanogenmod.org/&quot; target=&quot;_blank&quot;&gt;Cyanogenmod&lt;/a&gt;.  It is still Android, but without the bloat (hardly anything Google), and even features such as built-in root support.&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Jun 2015 19:19:00 -0400</pubDate>
-        <link>http://localhost:4000/mobile/security/2015/06/12/google-phone-home.html</link>
-        <guid isPermaLink="true">http://localhost:4000/mobile/security/2015/06/12/google-phone-home.html</guid>
+        <link>https://mchow01.github.io/mobile/security/2015/06/12/google-phone-home.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/mobile/security/2015/06/12/google-phone-home.html</guid>
         
         
         <category>mobile</category>
@@ -467,8 +467,8 @@ yolandabear:jabroni1
 
 </description>
         <pubDate>Fri, 12 Jun 2015 11:35:19 -0400</pubDate>
-        <link>http://localhost:4000/mobile/security/2015/06/12/espn-ios.html</link>
-        <guid isPermaLink="true">http://localhost:4000/mobile/security/2015/06/12/espn-ios.html</guid>
+        <link>https://mchow01.github.io/mobile/security/2015/06/12/espn-ios.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/mobile/security/2015/06/12/espn-ios.html</guid>
         
         
         <category>mobile</category>
