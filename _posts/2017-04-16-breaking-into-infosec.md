@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The BSides Boston 2017 Breaking Into InfoSecPanel Questions"
+title:  "The BSides Boston 2017 Breaking Into InfoSec Panel Questions"
 date:   2017-04-16 23:00:00
 categories: tech career education security
 ---
