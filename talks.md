@@ -3,6 +3,8 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
+Panel: Breaking Into InfoSec (with Keith Hoodlet, Tracy Maleeff, and Justin Pagano). BSides Boston Security Conference, Harvard University Science Center, Cambridge, MA, April 15, 2017.
+
 [The Hard Problems in Security](/docs/hackathon-20161130.pdf). Rocket Build 2016, InterContinental Hotel, Boston, MA, November 30, 2016.
 
 The Cyber Security Education Gap - What Do We Do Now?
