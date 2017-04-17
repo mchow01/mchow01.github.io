@@ -15,7 +15,7 @@ At the BSides Boston 2017 Security Conference held at Harvard University's Scien
 * *What resources are students currently leveraging?*
 * *How can you get involved in Security (even if it's outside your current role)?... and any other questions you might have!*
 
-We had a fantastic time on the panel.  Sadly, the panel was only an hour long and we did not answer all the planned questions or answer any questions from the audience.  The panel could have gone on for a very long time.  Before the conference, panelists were given a list of ten questions to prepare for.  Only six of the questions were asked in the panel due to limited time.  Here were the ten questions that were planned:
+We had a fantastic time on the panel.  Sadly, the panel was only an hour long and we did not answer all the planned questions or answer any questions from the audience.  The panel could have gone on for a very long time.  Before the conference, panelists were given a list of ten questions to prepare for: Keith wrote the questions.  Only six of the questions were asked in the panel due to limited time.  Here were the ten questions that were planned:
 
 ### Question 1:
 
