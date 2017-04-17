@@ -5,17 +5,15 @@ date:   2017-04-16 23:00:00
 categories: tech career education security
 ---
 
-At the BSides Boston 2017 Security Conference held at Harvard University's Science Center, there was an afternoon panel "Breaking Into infosec."  The invited panelists: Tracy Z. Maleeff, Justin Pagano, and myself.  The moderator was Keith Hoodlet.  The abstract of the panel as worded on the [schedule](https://bsidesboston2017.sched.com/event/9xRn/panel-breaking-into-infosec):
+At the BSides Boston 2017 Security Conference held at Harvard University's Science Center, there was an afternoon panel "Breaking Into infosec."  The invited panelists: Tracy Z. Maleeff, Justin Pagano, and myself.  The moderator was Keith Hoodlet.  The abstract of the panel as written on the [schedule](https://bsidesboston2017.sched.com/event/9xRn/panel-breaking-into-infosec):
 
-*Are you interested in Information Security, but you don't know where to start? Are you a professional in another field, wanting to switch into Information Security? Or maybe you're a Security Professional looking to make a move, andwant to know what hiring managers are looking for.*
-
-*In this panel we will cover various topics for sheperding your career in Information Security from three different perspectives. The panelists - including an educator, a recent convert, and a hiring manager - will field a series of questions on topics including:*
+*Are you interested in Information Security, but you don't know where to start? Are you a professional in another field, wanting to switch into Information Security? Or maybe you're a Security Professional looking to make a move, andwant to know what hiring managers are looking for. In this panel we will cover various topics for sheperding your career in Information Security from three different perspectives. The panelists - including an educator, a recent convert, and a hiring manager - will field a series of questions on topics including:*
 
 * *What skills are employers looking for?*
 * *What resources are students currently leveraging?*
 * *How can you get involved in Security (even if it's outside your current role)?... and any other questions you might have!*
 
-We had a fantastic time on the panel.  Sadly, the panel was only an hour long and we did not answer all the planned questions or answer any questions from the audience.  The panel could have gone on for a very long time.  Before the conference, panelists were given a list of ten questions to prepare for: Keith wrote the questions.  Only six of the questions were asked in the panel due to limited time.  Here were the ten questions that were planned:
+We had a fantastic time on the panel.  Sadly, the panel was only an hour long and we did not answer all the planned questions or answer any questions from the audience.  The panel could have continued for a very long time.  Before the conference, panelists were given a list of ten questions to prepare for: Keith wrote the questions (thanks again Keith).  Only six of the questions were asked in the panel due to limited time.  Here were the ten questions that were planned:
 
 ### Question 1:
 
