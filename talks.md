@@ -3,7 +3,12 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
+
+_Panel: Mentoring The Next Generation of Security Talent (with Sandy Carielli, Tim Ferguson, Laurene Hummer, and Daniel Nelson)._ SOURCE Conference Boston 2017, Marriott Tremont, Boston, MA, April 27, 2017.
+
 Panel: Breaking Into InfoSec (with Keith Hoodlet, Tracy Maleeff, and Justin Pagano). BSides Boston Security Conference, Harvard University Science Center, Cambridge, MA, April 15, 2017.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ChY6ynn7fN4" allowfullscreen></iframe>
 
 [The Hard Problems in Security](/docs/hackathon-20161130.pdf). Rocket Build 2016, InterContinental Hotel, Boston, MA, November 30, 2016.
 
@@ -14,7 +19,7 @@ The Cyber Security Education Gap - What Do We Do Now?
 * [The Eleventh HOPE](/docs/hope2016.pdf), Hotel Pennsylvania, New York, NY, July 23, 2016.
 * <iframe id="lsembed_1470786843" src="//livestream.com/accounts/9198012/events/5834263/videos/131672227/player?autoPlay=false&amp;height=360&amp;mute=false&amp;width=640" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen></iframe> 
 * [SOURCE Conference Boston 2016](/docs/source2016.pdf), Marriott Tremont, Boston, MA, May 18, 2016.
-* New England Security Day Spring 2016, Harvard University, Cambridge, MA, April 28, 2016
+* New England Security Day Spring 2016, Harvard University, Cambridge, MA, April 28, 2016.
 
 [So What is Being Exposed From IoT Devices?](/docs/securityofthings2015.pdf) The Security of Things Forum, Sheraton Commander Hotel, Cambridge, MA, September 10, 2015.
 

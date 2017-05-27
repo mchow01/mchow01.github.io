@@ -15,30 +15,15 @@ permalink: /cv/
 * _Senior Lecturer, September 2015 to present_
 * _Lecturer, September 2009 to August 2015_
 
-* Spring 2017: _Cyber Security and Cyber Warfare_
-	* Cross-listed with Department of Political Science
-* Spring 2010, Spring 2011, Fall 2011, Fall 2013, Spring 2015, Spring 2016, Spring 2017: _Web Engineering_
-* Fall 2009, Fall 2010, Spring 2011, Summer 2011, Spring 2013, Spring 2014, Fall 2014, Spring 2015, Fall 2015, Spring 2016, Summer 2016 (Online), Fall 2016, Spring 2017: _Web Programming_
-	* Grew the course from 11 students in fall 2009 to 119 in spring 2013.
-* Fall 2014, Spring 2016: _Mobile Medical Devices and Apps_
-	* Cross-listed with Department of Electrical and Computer Engineering
-* Fall 2012, Spring 2013, Fall 2013, Spring 2014: _Senior Capstone Project I and II_
-	* Formerly known as Software Engineering. Changed requirement from a one semester project experience to a one academic year project experience.
-	* Required for all undergraduate Computer Science majors through the School of Engineering.
-* Spring 2008, Spring 2009, Summer 2009, Spring 2010, Summer 2010, Fall 2010, Spring 2012, Spring 2014, Fall 2015: _Introduction to Game Development_
-	* Course was given an official course number in spring 2014.
-	* Named one of the nation's coolest engineering courses by the American Society for Engineering Education (ASEE) in 2011 (see [http://www.prism-magazine.org/summer11/feature_01.cfm](http://www.prism-magazine.org/summer11/feature_01.cfm){:target="_blank"})
-* Spring 2011, Spring 2012, Fall 2013, Fall 2014, Fall 2015: _Introduction to Computer Security_
-* Spring 2012, Spring 2013, Spring 2015: _Music Apps on the iPad_
-	*	Cross-listed with Department of Music
-* Fall 2011, Summer 2012, Fall 2012: _Data Structures_ (the second course in the Computer Science curriculum)
-* Summer 2012: _Developing Computer & Interactive Media_ (Precollege Course for High School Students)
+* Awarded the 2017 Lerman-Neubauer Prize for Outstanding Teaching and Advising, awarded annually to a faculty member of Arts and Sciences or of Engineering who has had a profound intellectual impact on his orher students, both inside and outside the classroom.
+* Mentored Winnona DeSombre's paper "Getting Harder to Catch: Analyzing the Evolution of China’s Cyber Espionage Campaigns against the United States through a Case Study of APT1" that was published in _2017 Journal of International Relations_ by the National Office of Sigma Iota Rho (SIR), the International Relations Honor Society.
+* Mentored Tufts semi-finalist team in the 2017 Atlantic Council Cyber 9/12 Student Competition (Kieran Green, Alice Lee, Maretta Morovitz, Winnona DeSombre).
+* Awarded the 2016 Henry and Madeline Fischer Award, awarded annually to a faculty member of the School of Engineering judged by graduating seniors of the School of Engineering to be "Engineering's Teacher of the Year."
+* Awarded the 2016 Tufts Teaching with Technology Award
+* Awarded 2016-2017 Tufts Innovate Seed Grant for an interdisciplinary course on Cybersecurity and Cyberwarfare in the amount of $7,694 with Jeff Taliaferro (Political Science)
+* Mentored Tufts team (Alice Lee, Max Bernstein, Tom Hebb, Winnona DeSombre, and Maretta Morovitz) in 2016 inaugural MITRE Embedded Capture The Flag (eCTF) Competition that was awarded "Iron Flag" for being the only team to successfully design a secure system that defended every flag from its attackers
 * Mentored Microsoft Imagine Cup Software Design Competition, 2012 US Finalist Team “Team Eos” (Jason Cheng, Wenshiang Chung, Gregory Wong, Xihan Zhang).
 * Mentored Microsoft Imagine Cup Game Design Competition, 2010 US Finalist Team “Team AwesomeSauce” (Anit Das, Gilad Gray, Cobin Dopkeen, and Nadia Rodriguez).
-* Received the 2016 Henry and Madeline Fischer Award, awarded annually to a faculty member of the School of Engineering judged by graduating seniors of the School of Engineering to be "Engineering's Teacher of the Year."
-* Received the 2016 Tufts Teaching with Technology Award
-* Received 2016-2017 Tufts Innovate Seed Grant for an interdisciplinary course on Cybersecurity and Cyberwarfare in the amount of $7,694 with Jeff Taliaferro (Political Science)
-* Course websites, overall course ratings, and overall performance of instructor ratings available at [http://mchow01.github.io/courses/](/courses/)
 
 **Middlesex Community College, Lowell, MA 01852**
 
@@ -66,8 +51,37 @@ _Lecturer_
 	* Assigned two debates and two expert panel sessions. 
 	* Hosted a colloquium entitled "Building Privacy-Aware Applications" with guest speaker JC Cannon from Microsoft for the Tufts Department of Computer Science.
 
-## Presentations and Publications
+## Courses at Tufts University
 
+* Spring 2017: _Cyber Security and Cyber Warfare_
+	* Cross-listed with Department of Political Science
+* Spring 2010, Spring 2011, Fall 2011, Fall 2013, Spring 2015, Spring 2016, Spring 2017: _Web Engineering_
+* Fall 2009, Fall 2010, Spring 2011, Summer 2011, Spring 2013, Spring 2014, Fall 2014, Spring 2015, Fall 2015, Spring 2016, Summer 2016 (Online), Fall 2016, Spring 2017: _Web Programming_
+	* Grew the course from 11 students in fall 2009 to 119 in spring 2013.
+* Fall 2014, Spring 2016: _Mobile Medical Devices and Apps_
+	* Cross-listed with Department of Electrical and Computer Engineering
+* Fall 2012, Spring 2013, Fall 2013, Spring 2014: _Senior Capstone Project I and II_
+	* Formerly known as Software Engineering. Changed requirement from a one semester project experience to a one academic year project experience.
+	* Required for all undergraduate Computer Science majors through the School of Engineering.
+* Spring 2008, Spring 2009, Summer 2009, Spring 2010, Summer 2010, Fall 2010, Spring 2012, Spring 2014, Fall 2015: _Introduction to Game Development_
+	* Course was given an official course number in spring 2014.
+	* Named one of the nation's coolest engineering courses by the American Society for Engineering Education (ASEE) in 2011 (see [http://www.prism-magazine.org/summer11/feature_01.cfm](http://www.prism-magazine.org/summer11/feature_01.cfm){:target="_blank"})
+* Spring 2011, Spring 2012, Fall 2013, Fall 2014, Fall 2015: _Introduction to Computer Security_
+* Spring 2012, Spring 2013, Spring 2015: _Music Apps on the iPad_
+	*	Cross-listed with Department of Music
+* Fall 2011, Summer 2012, Fall 2012: _Data Structures_ (the second course in the Computer Science curriculum)
+* Summer 2012: _Developing Computer & Interactive Media_ (Precollege Course for High School Students)
+* Course websites, overall course ratings, and overall performance of instructor ratings available at [http://mchow01.github.io/courses/](/courses/)
+
+## Presentations and Publications
+* _Panel: Mentoring The Next Generation of Security Talent (with Sandy Carielli, Tim Ferguson, Laurene Hummer, and Daniel Nelson)_. SOURCE Conference Boston 2017, Marriott Tremont, Boston, MA, April 27, 2017.
+* _Panel: Breaking Into InfoSec (with Keith Hoodlet, Tracy Maleeff, and Justin Pagano)_. BSides Boston Security Conference, Harvard University Science Center, Cambridge, MA, April 15, 2017.
+* _Invited Talk: The Hard Problems in Security_. Rocket Build 2016, InterContinental Hotel, Boston, MA, November 30, 2016.
+* _Computer Science Curricula's Failure - What Can We Do Now?_
+  * 2016 ISSA International Conference, Hyatt Regency Dallas, Dallas, TX, November 1, 2016. (declined)
+  * The Eleventh HOPE, Hotel Pennsylvania, New York, NY, July 23, 2016.
+  * SOURCE Conference Boston 2016, Marriott Tremont, Boston, MA, May 18, 2016.
+  * New England Security Day Spring 2016, Harvard University, Cambridge, MA, April 28, 2016
 * _So What is Being Exposed From IoT Devices?_ The Security of Things Forum, Sheraton Commander Hotel, Cambridge, MA, September 10, 2015.
 * _The Blame Starts with Computer Science Curricula_. BeaCon 2015 Mini-Conference, The Red Hat, Boston, MA, May 30, 2015.
 * _Swift and Security_. OWASP Boston Chapter Monthly Meeting, Akamai Technologies, 8 Cambridge Center, Cambridge, MA, December 3, 2014.
