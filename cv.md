@@ -15,7 +15,7 @@ permalink: /cv/
 * _Senior Lecturer, September 2015 to present_
 * _Lecturer, September 2009 to August 2015_
 
-* Awarded the 2017 Lerman-Neubauer Prize for Outstanding Teaching and Advising, awarded annually to a faculty member of Arts and Sciences or of Engineering who has had a profound intellectual impact on his orher students, both inside and outside the classroom.
+* Awarded the 2017 Lerman-Neubauer Prize for Outstanding Teaching and Advising, awarded annually to a faculty member of Arts and Sciences or of Engineering who has had a profound intellectual impact on his or her students, both inside and outside the classroom.
 * Mentored Winnona DeSombre's paper "Getting Harder to Catch: Analyzing the Evolution of China’s Cyber Espionage Campaigns against the United States through a Case Study of APT1" that was published in _2017 Journal of International Relations_ by the National Office of Sigma Iota Rho (SIR), the International Relations Honor Society.
 * Mentored Tufts semi-finalist team in the 2017 Atlantic Council Cyber 9/12 Student Competition (Kieran Green, Alice Lee, Maretta Morovitz, Winnona DeSombre).
 * Awarded the 2016 Henry and Madeline Fischer Award, awarded annually to a faculty member of the School of Engineering judged by graduating seniors of the School of Engineering to be "Engineering's Teacher of the Year."
