@@ -5,7 +5,7 @@ date:   2017-06-08 15:00:00
 categories: education
 ---
 
-While I cannot speak for the entire Computer Science Department, we cannot thank you and others enough for the outpouring of support that you and countless alumni have showed to both Ben Hescott and to Tufts Computer Science Department.  For those who do not know, [Ben was denied tenure](https://medium.com/@ashley.hedberg/a-response-to-ben-hescotts-denied-tenure-121657a23fc3). We are very grateful and it means a tremendous lot to us.  I am in awe and I'm sure Ben will be eternally grateful for all the support.  During the last several weeks, it became crystal clear that Tufts Computer Science has a very strong and dedicated student and alumni network especially those who have graduated within the last six to seven years.
+While I cannot speak for the entire Computer Science Department, we cannot thank you and others enough for the outpouring of support that you and countless alumni have showed to both Ben Hescott and to Tufts Computer Science Department.  We are very grateful and it means a tremendous lot to us.  I am in awe and I'm sure Ben will be eternally grateful for all the support.  For those who do not know, [Ben was denied tenure](https://medium.com/@ashley.hedberg/a-response-to-ben-hescotts-denied-tenure-121657a23fc3).  During the last several weeks, it became crystal clear that Tufts Computer Science has a very strong and dedicated student and alumni network especially those who have graduated within the last six to seven years.
 
 It is no surprise that I have received a lot of questions from concerned and distraught students and alumni.  Examples, word for word:
 
