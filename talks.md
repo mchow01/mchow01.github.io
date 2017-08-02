@@ -4,6 +4,9 @@ title: Talks
 permalink: /talks/
 ---
 
+[The Hard Problems in Security (We Still Can't Get The Basics Right)](/docs/issa-20170802.pdf). ISSA New England Annual Sponsor Expo and Chapter Meeting
+, Verizon, Waltham, MA, August 2, 2017.
+
 Panel: Mentoring The Next Generation of Security Talent (with Sandy Carielli, Tim Ferguson, Laurene Hummer, and Daniel Nelson). SOURCE Conference Boston 2017, Marriott Tremont, Boston, MA, April 27, 2017.
 
 Panel: Breaking Into InfoSec (with Keith Hoodlet, Tracy Maleeff, and Justin Pagano). BSides Boston Security Conference, Harvard University Science Center, Cambridge, MA, April 15, 2017.
