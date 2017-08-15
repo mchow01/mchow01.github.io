@@ -4,11 +4,92 @@
     <title>Ming Y. Chow</title>
     <description>Ming Chow's website
 </description>
-    <link>https://mchow01.github.io/</link>
-    <atom:link href="https://mchow01.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 01 Aug 2017 22:33:21 -0400</pubDate>
-    <lastBuildDate>Tue, 01 Aug 2017 22:33:21 -0400</lastBuildDate>
-    <generator>Jekyll v3.5.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 15 Aug 2017 01:07:57 -0400</pubDate>
+    <lastBuildDate>Tue, 15 Aug 2017 01:07:57 -0400</lastBuildDate>
+    <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Results of a Password Cracking Content for My Online Security Class (Summer 2017)</title>
+        <description>&lt;p&gt;I offered my &lt;a href=&quot;https://tuftsdev.github.io/DefenseAgainstTheDarkArts&quot;&gt;Introduction to Computer Security&lt;/a&gt; class as an online course for the first time.  I give a month-long summer lab to crack as many passwords as possible.  For this summer’s contest &lt;a href=&quot;https://twitter.com/0xmchow/status/882073476886089731&quot;&gt;(opened on July 3, 2017&lt;/a&gt;), I used three different hash types: NTLM, MD5, and SHA-512.  The password hashes:&lt;/p&gt;
+
+&lt;pre&gt;
+chicagobear:$1$P3QnPJRC$ZiUGVezmZmHP3FwGBrSvx0:1003:1003:,,,:/home/chicagobear:/bin/bash
+bigbear:$1$0HXmPq6a$b6SJ9SFllGgOz2dU/J1t1.:1004:1004:,,,:/home/bigbear:/bin/bash
+jojobear:$1$iSCIcnDl$GhUJv320ZA7aEkmFlLBRb/:1005:1005:,,,:/home/jojobear:/bin/bash
+crazybear:$1$Ojbempgo$5GSSpK2r2McB8pyfhsEiy0:1006:1006:,,,:/home/crazybear:/bin/bash
+slothbear:$1$nTQQPLJE$go2/.YC/4evqQKE4fPIiB0:1007:1007:,,,:/home/slothbear:/bin/bash
+cocobear:$1$xLkX79Xq$gVMgVkhzjkGODtL79NgLY0:1008:1008:,,,:/home/cocobear:/bin/bash
+willybear:$1$RdCmq9HN$YhybIiTYwSjywxTotYub4/:1009:1009:,,,:/home/willybear:/bin/bash
+yogibear:$1$s.vVsfIL$YWZ.49mClunDlkJapYKZ1/:1010:1010:,,,:/home/yogibear:/bin/bash
+blackbear:$6$xGcUMQHK$eOPlvJwoLa3BIrDwHb9k5g3TyukWnmMgXlG6rXc/JiEeBTQ1GMzbm.6jHsxO1ofsMp.PbTVdMQqKDIlCQcfmz0:1000:1000:,,,:/home/blackbear:/bin/bash
+blinkybear:$6$Ga52kSM3$3T6ri0./UFR6V/6ICzMX1wB.GG26eKpP2HhaQUpQKTzKfSwqWaTK4CX8kyjwZZA4PH2ns5oH6SrxHMImg.kfb/:1001:1001:,,,:/home/blinkybear:/bin/bash
+cacabear:$6$GSEyFgvt$CUjBn1cspBlxmi0YZbFHs.JfR/6FIzh8RRUMhXIYQZXherSbluLlehghZ3Yi2Su2TazjMg3aRNj4V9mWDyhgA1:1002:1002:,,,:/home/cacabear:/bin/bash
+cozybear:$6$QklnyMgo$b0MQ9qJwyCjVG7txLANcH2a49h/f5KcA5eoS82T7IKRJqmGWHqO8F5tadHukuibwoUitj5ctQLVX2DXk94vkK/:1003:1003:,,,:/home/cozybear:/bin/bash
+yetibear:$6$.u.lAiwI$ZQ1gWfUkquUoSjgjHQsyty.bRvXUYtuSLjLgZYvlQ.fZz6R.4zHPFqcfeqsaCUBH.P9IbZn4wHGyOADfrbiS1/:1004:1004:,,,:/home/yetibear:/bin/bash
+grizzlybear:$6$dslx5A3f$g3OVHjyw.2X1gp/C55bHu.s6WRzZD5Iu5j0/3lCMRfnh.fNzyMArQZn56J2J/tB2EG0iKHQnz62pNAtHBt0yk.:1005:1005:,,,:/home/grizzlybear:/bin/bash
+smokeybear:$6$yY5UKBjz$wINjW.wdjzaFHD6ytdOGFPjzUoUrRN1dGtr4iNU93/hTVVXO/pqG18nhopZX/7Koc.A3l2kLSxWhykQUFUGF0/:1006:1006:,,,:/home/smokeybear:/bin/bash
+fozziebear:$6$K.BwBqhO$NVW0itQwjECKIbPjHy9b6qys2lv92r6ExvIzSA9dhIUKdvHO223ud7fr7JYLHQ1R9dW.ziMNWX4vd.QfsY3vk1:1007:1007:,,,:/home/fozziebear:/bin/bash
+Administrator:500:aad3b435b51404eeaad3b435b51404ee:e19ccf75ee54e06b06a5907af13cef42:::
+fancybear:1009:aad3b435b51404eeaad3b435b51404ee:be1773ca5eccc0102006d0f12ee9aeba:::
+pedrobear:1000:aad3b435b51404eeaad3b435b51404ee:572954208e36c94da325117731186344:::
+polarbear:1003:aad3b435b51404eeaad3b435b51404ee:8c1653757cb5205609a524b1b3e1c5f7:::
+teddybear:1004:aad3b435b51404eeaad3b435b51404ee:ebb2b64f58ade30183b2155a567b1c7a:::
+&lt;/pre&gt;
+
+&lt;p&gt;I combed through the submissions today: 23 total submissions (students can submit multiple times but only the last submission will count).  The answers:&lt;/p&gt;
+
+&lt;pre&gt;
+(MD5) chicagobear:P1rate$ =&amp;gt; 5 students cracked this
+(MD5) bigbear:Va-[B~ =&amp;gt; 0 student cracked this
+(MD5) jojobear:SRYSQF =&amp;gt; 1 student cracked this
+(MD5) crazybear:mrfVlkECv =&amp;gt; 0 student cracked this
+(MD5) slothbear:L!verpool =&amp;gt; 4 students cracked this
+(MD5) cocobear:CCc3 =&amp;gt; 4 students cracked this
+(MD5) willybear:wGPLek =&amp;gt; 1 student cracked this
+(MD5) yogibear:rqb3Hc =&amp;gt; 1 student cracked this
+(SHA512) blackbear:dave =&amp;gt; 22 students cracked this
+(SHA512) blinkybear:zUnR =&amp;gt; 1 student cracked this
+(SHA512) cacabear:/|rv]y =&amp;gt; 0 student cracked this
+(SHA512) cozybear:is0g0TriE =&amp;gt; 0 student cracked this
+(SHA512) yetibear:thx1138 =&amp;gt; 22 students cracked this
+(SHA512) grizzlybear:extreme =&amp;gt; 20 students cracked this
+(SHA512) smokeybear:B00ty =&amp;gt; 2 students cracked this
+(SHA512) fozziebear:PCMASTERRACE =&amp;gt; 0 student cracked this
+(NTLM) Administrator: P@ssw0rd =&amp;gt; 9 students cracked this
+(NTLM) pedrobear:JJyI8f3MG =&amp;gt; 0 student cracked this
+(NTLM) polarbear:HomerSimpson1 =&amp;gt; 4 students cracked this
+(NTLM) teddybear:K-(*4@ =&amp;gt; 3 students cracked this
+(NTLM) fancybear:6F2Xx2f6 =&amp;gt; 0 student cracked this
+&lt;/pre&gt;
+
+&lt;p&gt;The winner cracked 11 of the passwords.  The student’s haul:&lt;/p&gt;
+
+&lt;pre&gt;
+jojobear:SRYSQF
+cocobear:CCc3
+willybear:wGPLek
+yogibear:rqb3Hc
+blackbear:dave
+blinkybear:zUnR
+grizzlybear:extreme
+smokeybear:B00ty
+yetibear:thx1138
+Administrator:P@ssw0rd
+teddybear:K-(*4@
+&lt;/pre&gt;
+</description>
+        <pubDate>Mon, 14 Aug 2017 21:00:00 -0400</pubDate>
+        <link>http://localhost:4000/education/security/2017/08/15/password-cracking.html</link>
+        <guid isPermaLink="true">http://localhost:4000/education/security/2017/08/15/password-cracking.html</guid>
+        
+        
+        <category>education</category>
+        
+        <category>security</category>
+        
+      </item>
     
       <item>
         <title>The Best Thing To Do In Early Summer for Undergraduates: Prepare For Opportunities Next Summer</title>
@@ -51,8 +132,8 @@
 &lt;p&gt;Whether you currently have an opportunity or not, the moral of the story is &lt;em&gt;the early bird catches the worm&lt;/em&gt;.  Not understanding that timeless advice and you will be behind the eight ball after graduation –if it wasn’t bad enough already due to student loan debt.&lt;/p&gt;
 </description>
         <pubDate>Wed, 21 Jun 2017 16:00:00 -0400</pubDate>
-        <link>https://mchow01.github.io/career/2017/06/21/prepare-for-next-summer.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/career/2017/06/21/prepare-for-next-summer.html</guid>
+        <link>http://localhost:4000/career/2017/06/21/prepare-for-next-summer.html</link>
+        <guid isPermaLink="true">http://localhost:4000/career/2017/06/21/prepare-for-next-summer.html</guid>
         
         
         <category>career</category>
@@ -98,8 +179,8 @@
 &lt;p&gt;P.P.S., You may be wondering why I am posting this publicly.  The reason: it is absolutely necessary to communicate to our students that we were not the ones responsible for this decision.&lt;/p&gt;
 </description>
         <pubDate>Thu, 08 Jun 2017 11:00:00 -0400</pubDate>
-        <link>https://mchow01.github.io/education/2017/06/08/to-tufts-cs.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/education/2017/06/08/to-tufts-cs.html</guid>
+        <link>http://localhost:4000/education/2017/06/08/to-tufts-cs.html</link>
+        <guid isPermaLink="true">http://localhost:4000/education/2017/06/08/to-tufts-cs.html</guid>
         
         
         <category>education</category>
@@ -229,8 +310,8 @@
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=GTt3qvdTexM&quot;&gt;The same message from BSides Boston 2014: security is a lifestyle.&lt;/a&gt;  In other words, you have to be passionate.  Too many people are in it for the parties and money.&lt;/p&gt;
 </description>
         <pubDate>Sun, 16 Apr 2017 19:00:00 -0400</pubDate>
-        <link>https://mchow01.github.io/tech/career/education/security/2017/04/16/breaking-into-infosec.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/tech/career/education/security/2017/04/16/breaking-into-infosec.html</guid>
+        <link>http://localhost:4000/tech/career/education/security/2017/04/16/breaking-into-infosec.html</link>
+        <guid isPermaLink="true">http://localhost:4000/tech/career/education/security/2017/04/16/breaking-into-infosec.html</guid>
         
         
         <category>tech</category>
@@ -281,8 +362,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Sun, 15 Jan 2017 20:00:00 -0500</pubDate>
-        <link>https://mchow01.github.io/tech/career/education/2017/01/16/the-importance-of-side-projects.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/tech/career/education/2017/01/16/the-importance-of-side-projects.html</guid>
+        <link>http://localhost:4000/tech/career/education/2017/01/16/the-importance-of-side-projects.html</link>
+        <guid isPermaLink="true">http://localhost:4000/tech/career/education/2017/01/16/the-importance-of-side-projects.html</guid>
         
         
         <category>tech</category>
@@ -294,7 +375,7 @@
       </item>
     
       <item>
-        <title>Results of a Password Cracking Content for My Security Class</title>
+        <title>Results of a Password Cracking Content for My Security Class (Fall 2016)</title>
         <description>&lt;p&gt;For my &lt;a href=&quot;https://tuftsdev.github.io/DefenseAgainstTheDarkArts&quot;&gt;Introduction to Computer Security&lt;/a&gt; class that I teach once an academic year since 2012, I give a month-long lab in October to crack as many passwords as possible.  For this year’s contest (opened on October 3, 2016), I used three different hash types: NTLM, MD5, and SHA-512.  The password hashes:&lt;/p&gt;
 
 &lt;pre&gt;
@@ -372,8 +453,8 @@ yolandabear:jabroni1
 &lt;/pre&gt;
 </description>
         <pubDate>Sun, 06 Nov 2016 12:00:00 -0500</pubDate>
-        <link>https://mchow01.github.io/education/security/2016/11/06/password-cracking.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/education/security/2016/11/06/password-cracking.html</guid>
+        <link>http://localhost:4000/education/security/2016/11/06/password-cracking.html</link>
+        <guid isPermaLink="true">http://localhost:4000/education/security/2016/11/06/password-cracking.html</guid>
         
         
         <category>education</category>
@@ -429,8 +510,8 @@ yolandabear:jabroni1
 &lt;p&gt;This first experience teaching a course online far exceeded my expectations.  I was very surprised at how easy it was for me to transition into teaching online.  While this was my first experience, there are still lots of issues to be ironed out.  I also need to be mindful of issues like close captioning of videos for an online course &lt;a href=&quot;http://www.nytimes.com/2015/02/13/education/harvard-and-mit-sued-over-failing-to-caption-online-courses.html&quot;&gt;as Harvard and MIT were sued for that&lt;/a&gt;.  Many thanks to my first online class for a fantastic and welcoming experience.  We can all agree on one thing: online education is not going away any time soon.&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Aug 2016 12:30:00 -0400</pubDate>
-        <link>https://mchow01.github.io/education/2016/08/12/teaching-online.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/education/2016/08/12/teaching-online.html</guid>
+        <link>http://localhost:4000/education/2016/08/12/teaching-online.html</link>
+        <guid isPermaLink="true">http://localhost:4000/education/2016/08/12/teaching-online.html</guid>
         
         
         <category>education</category>
@@ -473,8 +554,8 @@ yolandabear:jabroni1
 
 </description>
         <pubDate>Mon, 13 Jun 2016 11:35:19 -0400</pubDate>
-        <link>https://mchow01.github.io/humor/2016/06/13/linkedin-microsoft.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/humor/2016/06/13/linkedin-microsoft.html</guid>
+        <link>http://localhost:4000/humor/2016/06/13/linkedin-microsoft.html</link>
+        <guid isPermaLink="true">http://localhost:4000/humor/2016/06/13/linkedin-microsoft.html</guid>
         
         
         <category>humor</category>
@@ -504,8 +585,8 @@ yolandabear:jabroni1
 &lt;p&gt;I hope this is valuable advice for those who are interested on learning more about information security.  If you would like to go further and make information security your career, read Lesley Carhart’s &lt;a href=&quot;http://tisiphone.net/2015/10/12/starting-an-infosec-career-the-megamix-chapters-1-3/&quot; target=&quot;_blank&quot;&gt;“Starting an InfoSec Career”&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 14 Sep 2015 06:00:00 -0400</pubDate>
-        <link>https://mchow01.github.io/security/2015/09/14/learning-more-about-security.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/security/2015/09/14/learning-more-about-security.html</guid>
+        <link>http://localhost:4000/security/2015/09/14/learning-more-about-security.html</link>
+        <guid isPermaLink="true">http://localhost:4000/security/2015/09/14/learning-more-about-security.html</guid>
         
         
         <category>security</category>
@@ -558,40 +639,9 @@ yolandabear:jabroni1
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 19 Jul 2015 13:00:00 -0400</pubDate>
-        <link>https://mchow01.github.io/security/2015/07/19/security-summer-camp.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/security/2015/07/19/security-summer-camp.html</guid>
+        <link>http://localhost:4000/security/2015/07/19/security-summer-camp.html</link>
+        <guid isPermaLink="true">http://localhost:4000/security/2015/07/19/security-summer-camp.html</guid>
         
-        
-        <category>security</category>
-        
-      </item>
-    
-      <item>
-        <title>How often does a *Google* Android device phones home?</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://www.infoworld.com/article/2610866/techology-business/too-big-to-trust--google-s-growing-credibility-gap.html&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;“We don’t love Google so much any more, mainly because we trust it less and less. More and more people have realized that the Google search engine is hugely biased in favor of advertisers, and the results are increasingly manipulated by Google for inscrutable purposes. Google seems to track anything and everything we do – it peruses our emails, our files stored on its servers, our locations, and our chats.”&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;So what about a Google Android device?  Notice that I specifically added the word “Google” preceding Android as there are non-Google versions Android available (e.g., Cyanogenmod).  I took a Nexus 5 and flashed it with &lt;a href=&quot;https://developers.google.com/android/nexus/images&quot; target=&quot;_blank&quot;&gt;Google’s factory Android image, version 5.1.1 (a.k.a., “stock” Android)&lt;/a&gt;. Next I &lt;a href=&quot;https://mitmproxy.org/doc/certinstall/android.html&quot; target=&quot;_blank&quot;&gt;installed a mitmproxy certificate onto the phone&lt;/a&gt;, and captured all the HTTP and HTTPS traffic on the phone to &lt;code class=&quot;highlighter-rouge&quot;&gt;mitmproxy&lt;/code&gt; running on my laptop.  I left the phone stationery for one hour in another room.  The result: 10 requests, 9 HTTP post requests.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/mitmproxy-android.png&quot; alt=&quot;Android phones home&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Hmmm, seems like two of the requests were ad-related and two related to voice search?&lt;/p&gt;
-
-&lt;p&gt;The data sent back to Google is interesting.  I posted the flow of all HTTP and HTTPS traffic from the Nexus running Android 5.1.1 for your analysis and interest: &lt;a href=&quot;/docs/android.flow&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;android.flow&lt;/code&gt;&lt;/a&gt;.  You can open the file from &lt;code class=&quot;highlighter-rouge&quot;&gt;mitmproxy&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;People are getting worried about all of this creepiness, nonsense.  So what can you do?  The extreme option: don’t use a cell phone.  Dan Geer doesn’t use one:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.wired.com/2015/06/cia-cybersecurity-guru-dan-geer-doesnt-use-cell-phone/&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;“I am, as a rule, skeptical of coming to rely upon things that I don’t know how they work. If there’s anything that I’ve come to be relatively adamant about is that, as humans, we have repeatedly demonstrated that we can quite clearly build things more complex than we can then manage, our friends in finance and flash crashes being a fine example of that.  Given what I know in the cyber security arena, the number of things that, in effect, nobody understands how they work causes me to say, well, then why do I want to depend on it?”&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Another option: go back to a “flip phone.”&lt;/p&gt;
-
-&lt;p&gt;If you have an Android device, you can change the operating system to a non-Google Android such as &lt;a href=&quot;http://www.cyanogenmod.org/&quot; target=&quot;_blank&quot;&gt;Cyanogenmod&lt;/a&gt;.  It is still Android, but without the bloat (hardly anything Google), and even features such as built-in root support.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 12 Jun 2015 19:19:00 -0400</pubDate>
-        <link>https://mchow01.github.io/mobile/security/2015/06/12/google-phone-home.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/mobile/security/2015/06/12/google-phone-home.html</guid>
-        
-        
-        <category>mobile</category>
         
         <category>security</category>
         
