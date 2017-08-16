@@ -4,11 +4,50 @@
     <title>Ming Y. Chow</title>
     <description>Ming Chow's website
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 15 Aug 2017 01:07:57 -0400</pubDate>
-    <lastBuildDate>Tue, 15 Aug 2017 01:07:57 -0400</lastBuildDate>
+    <link>https://mchow01.github.io/</link>
+    <atom:link href="https://mchow01.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 15 Aug 2017 23:06:46 -0400</pubDate>
+    <lastBuildDate>Tue, 15 Aug 2017 23:06:46 -0400</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Hall of Shame Job Postings and Recruiting</title>
+        <description>&lt;p&gt;We constantly hear that cyber security has a serious talent shortage.  It doesn’t help when job descriptions are completely asinine or when recruiting is embarrasingly bad.  This also goes for the tech industry in general.  After reading these tweets from my friend Ed Rojas, I decided to dedicate a hall of shame to this ongoing problem:&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Just read this req on LinkedIn: Masters in cybersecurity + 2 high level certs + Risk Analysis, Ethical Hacking, Incident Response, 1/2&lt;/p&gt;&amp;mdash; SilverFox (@EdgarR0jas) &lt;a href=&quot;https://twitter.com/EdgarR0jas/status/897529699290800128&quot;&gt;August 15, 2017&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Security architect, BCP/DR, Forensic Analyst, SOC design/implementation. Only reply if you meet all requirements. Seriously????? 2/2&lt;/p&gt;&amp;mdash; SilverFox (@EdgarR0jas) &lt;a href=&quot;https://twitter.com/EdgarR0jas/status/897529959656194048&quot;&gt;August 15, 2017&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;who-the-hell-are-they-going-to-find-these-jobs-on-a-contract-basis-thanks-to-tcstoolhax0r-for-this&quot;&gt;Who the hell are they going to find these jobs on a contract basis? (thanks to @tcstoolHax0r for this)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hos_002.jpg&quot; alt=&quot;Hall of Shame Job Posting&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hos_006.jpg&quot; alt=&quot;Hall of Shame Job Posting&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;quite-a-lot-of-requirements-good-luck-finding-someone-thanks-to-tcstoolhax0r-for-this&quot;&gt;Quite a lot of requirements, good luck finding someone (thanks to @tcstoolHax0r for this)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hos_004.jpg&quot; alt=&quot;Hall of Shame Job Posting&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;what-on-earth-is-cyber-awareness-and-understanding-thanks-to-tcstoolhax0r-for-this&quot;&gt;What on earth is “cyber awareness and understanding”? (thanks to @tcstoolHax0r for this)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hos_005.jpg&quot; alt=&quot;Hall of Shame Job Posting&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;someone-didnt-even-read-the-resume-thanks-to-tcstoolhax0r-for-this&quot;&gt;Someone didn’t even read the resume (thanks to @tcstoolHax0r for this)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hos_008.jpg&quot; alt=&quot;Hall of Shame Job Posting&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;i-need-to-have-all-those-certifications-thanks-to-tcstoolhax0r-for-this&quot;&gt;I need to have all those certifications? (thanks to @tcstoolHax0r for this)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hos_001.jpg&quot; alt=&quot;Hall of Shame Job Posting&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Aug 2017 21:00:00 -0400</pubDate>
+        <link>https://mchow01.github.io/career/2017/08/16/hall-of-shame-job-postings-recruiting.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/career/2017/08/16/hall-of-shame-job-postings-recruiting.html</guid>
+        
+        
+        <category>career</category>
+        
+      </item>
     
       <item>
         <title>Results of a Password Cracking Content for My Online Security Class (Summer 2017)</title>
@@ -81,8 +120,8 @@ teddybear:K-(*4@
 &lt;/pre&gt;
 </description>
         <pubDate>Mon, 14 Aug 2017 21:00:00 -0400</pubDate>
-        <link>http://localhost:4000/education/security/2017/08/15/password-cracking.html</link>
-        <guid isPermaLink="true">http://localhost:4000/education/security/2017/08/15/password-cracking.html</guid>
+        <link>https://mchow01.github.io/education/security/2017/08/15/password-cracking.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/education/security/2017/08/15/password-cracking.html</guid>
         
         
         <category>education</category>
@@ -132,8 +171,8 @@ teddybear:K-(*4@
 &lt;p&gt;Whether you currently have an opportunity or not, the moral of the story is &lt;em&gt;the early bird catches the worm&lt;/em&gt;.  Not understanding that timeless advice and you will be behind the eight ball after graduation –if it wasn’t bad enough already due to student loan debt.&lt;/p&gt;
 </description>
         <pubDate>Wed, 21 Jun 2017 16:00:00 -0400</pubDate>
-        <link>http://localhost:4000/career/2017/06/21/prepare-for-next-summer.html</link>
-        <guid isPermaLink="true">http://localhost:4000/career/2017/06/21/prepare-for-next-summer.html</guid>
+        <link>https://mchow01.github.io/career/2017/06/21/prepare-for-next-summer.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/career/2017/06/21/prepare-for-next-summer.html</guid>
         
         
         <category>career</category>
@@ -179,8 +218,8 @@ teddybear:K-(*4@
 &lt;p&gt;P.P.S., You may be wondering why I am posting this publicly.  The reason: it is absolutely necessary to communicate to our students that we were not the ones responsible for this decision.&lt;/p&gt;
 </description>
         <pubDate>Thu, 08 Jun 2017 11:00:00 -0400</pubDate>
-        <link>http://localhost:4000/education/2017/06/08/to-tufts-cs.html</link>
-        <guid isPermaLink="true">http://localhost:4000/education/2017/06/08/to-tufts-cs.html</guid>
+        <link>https://mchow01.github.io/education/2017/06/08/to-tufts-cs.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/education/2017/06/08/to-tufts-cs.html</guid>
         
         
         <category>education</category>
@@ -310,8 +349,8 @@ teddybear:K-(*4@
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=GTt3qvdTexM&quot;&gt;The same message from BSides Boston 2014: security is a lifestyle.&lt;/a&gt;  In other words, you have to be passionate.  Too many people are in it for the parties and money.&lt;/p&gt;
 </description>
         <pubDate>Sun, 16 Apr 2017 19:00:00 -0400</pubDate>
-        <link>http://localhost:4000/tech/career/education/security/2017/04/16/breaking-into-infosec.html</link>
-        <guid isPermaLink="true">http://localhost:4000/tech/career/education/security/2017/04/16/breaking-into-infosec.html</guid>
+        <link>https://mchow01.github.io/tech/career/education/security/2017/04/16/breaking-into-infosec.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/tech/career/education/security/2017/04/16/breaking-into-infosec.html</guid>
         
         
         <category>tech</category>
@@ -362,8 +401,8 @@ teddybear:K-(*4@
 &lt;/ol&gt;
 </description>
         <pubDate>Sun, 15 Jan 2017 20:00:00 -0500</pubDate>
-        <link>http://localhost:4000/tech/career/education/2017/01/16/the-importance-of-side-projects.html</link>
-        <guid isPermaLink="true">http://localhost:4000/tech/career/education/2017/01/16/the-importance-of-side-projects.html</guid>
+        <link>https://mchow01.github.io/tech/career/education/2017/01/16/the-importance-of-side-projects.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/tech/career/education/2017/01/16/the-importance-of-side-projects.html</guid>
         
         
         <category>tech</category>
@@ -453,8 +492,8 @@ yolandabear:jabroni1
 &lt;/pre&gt;
 </description>
         <pubDate>Sun, 06 Nov 2016 12:00:00 -0500</pubDate>
-        <link>http://localhost:4000/education/security/2016/11/06/password-cracking.html</link>
-        <guid isPermaLink="true">http://localhost:4000/education/security/2016/11/06/password-cracking.html</guid>
+        <link>https://mchow01.github.io/education/security/2016/11/06/password-cracking.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/education/security/2016/11/06/password-cracking.html</guid>
         
         
         <category>education</category>
@@ -510,8 +549,8 @@ yolandabear:jabroni1
 &lt;p&gt;This first experience teaching a course online far exceeded my expectations.  I was very surprised at how easy it was for me to transition into teaching online.  While this was my first experience, there are still lots of issues to be ironed out.  I also need to be mindful of issues like close captioning of videos for an online course &lt;a href=&quot;http://www.nytimes.com/2015/02/13/education/harvard-and-mit-sued-over-failing-to-caption-online-courses.html&quot;&gt;as Harvard and MIT were sued for that&lt;/a&gt;.  Many thanks to my first online class for a fantastic and welcoming experience.  We can all agree on one thing: online education is not going away any time soon.&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Aug 2016 12:30:00 -0400</pubDate>
-        <link>http://localhost:4000/education/2016/08/12/teaching-online.html</link>
-        <guid isPermaLink="true">http://localhost:4000/education/2016/08/12/teaching-online.html</guid>
+        <link>https://mchow01.github.io/education/2016/08/12/teaching-online.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/education/2016/08/12/teaching-online.html</guid>
         
         
         <category>education</category>
@@ -554,8 +593,8 @@ yolandabear:jabroni1
 
 </description>
         <pubDate>Mon, 13 Jun 2016 11:35:19 -0400</pubDate>
-        <link>http://localhost:4000/humor/2016/06/13/linkedin-microsoft.html</link>
-        <guid isPermaLink="true">http://localhost:4000/humor/2016/06/13/linkedin-microsoft.html</guid>
+        <link>https://mchow01.github.io/humor/2016/06/13/linkedin-microsoft.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/humor/2016/06/13/linkedin-microsoft.html</guid>
         
         
         <category>humor</category>
@@ -585,62 +624,8 @@ yolandabear:jabroni1
 &lt;p&gt;I hope this is valuable advice for those who are interested on learning more about information security.  If you would like to go further and make information security your career, read Lesley Carhart’s &lt;a href=&quot;http://tisiphone.net/2015/10/12/starting-an-infosec-career-the-megamix-chapters-1-3/&quot; target=&quot;_blank&quot;&gt;“Starting an InfoSec Career”&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 14 Sep 2015 06:00:00 -0400</pubDate>
-        <link>http://localhost:4000/security/2015/09/14/learning-more-about-security.html</link>
-        <guid isPermaLink="true">http://localhost:4000/security/2015/09/14/learning-more-about-security.html</guid>
-        
-        
-        <category>security</category>
-        
-      </item>
-    
-      <item>
-        <title>On Preparing For Black Hat / BSides LV / DEF CON in Las Vegas</title>
-        <description>&lt;p&gt;Around this time each year, I see the question of the like “what is a good plan to safely attend BSides LV / Black Hat / DEF CON?”  Each year, &lt;a href=&quot;https://pen-testing.sans.org/blog/2013/06/28/getting-the-most-out-of-def-con-some-tips-for-first-timers&quot; target=&quot;_blank&quot;&gt;“thousands of hackers, infosec pros, security researchers, law enforcement agents, curious newbies, reporters, and countless others”&lt;/a&gt; will be at “security summer camp” in Las Vegas.  Add &lt;a href=&quot;http://motherboard.vice.com/blog/how-to-get-hacked-at-defcon&quot; target=&quot;_blank&quot;&gt;countless stories of good and bad hijinks&lt;/a&gt;, and you will understand why that question is asked each year.  I originally wanted to write a list of dos/don’ts but it was more difficult than I thought: the list was never-ending.  There are many lists of dos/don’ts at BSides LV / Black Hat / DEF CON out there.  Having been to Las Vegas for DEF CON since 2006 (except for 2009), I can say three basic facts:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Generally speaking, electronic communications in Las Vegas during the week of the security conferences are very untrustworthy and unreliable.&lt;/li&gt;
-  &lt;li&gt;Las Vegas is really hot during this time of year.  100+ degrees each day, dry heat.&lt;/li&gt;
-  &lt;li&gt;Sexual harassment is a serious problem in tech right now.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;generally-speaking-electronic-communications-in-las-vegas-during-the-week-of-the-security-conferences-are-very-untrustworthy-and-unreliable&quot;&gt;“Generally speaking, electronic communications in Las Vegas during the week of the security conferences are very untrustworthy and unreliable.”&lt;/h3&gt;
-&lt;p&gt;There is a reason why people say to leave your laptop, phone, gadgets at home or don’t connect to the network at all if you want to be safe.  It is no secret that the &lt;a href=&quot;http://www.wired.com/2009/08/inside-the-worlds-most-hostile-network/&quot; target=&quot;_blank&quot;&gt;DEF CON computer network is arguably the world’s most hostile network&lt;/a&gt;. However, there is a big problem with not bringing devices with you for the trip: it will be hard to learn anything.  BSides LV / Black Hat / DEF CON are learning experiences, that’s why they exist.  Many people bring electronic devices to BSides LV / Black Hat / DEF CON –you just have to be smart on what you are doing on the devices and what is on the devices.  If you bring a personal device that contains information of value (e.g., personal email, contacts, photos), bad move.  If you are sending anything plaintext (e.g., anything via HTTP), then the information &lt;em&gt;will&lt;/em&gt; be sniffed.  Having worked at the Wall of Sheep at DEF CON for years, it is amazing to see many people still check email via POP or IMAP, known insecure protocols, and alas their usernames and passwords are sniffed easily.  The proliferation of mobile devices has made matters worse as many devices are set to auto-connect to an open Wi-Fi network, and many apps transfer credentials in-the-clear.  It is okay to bring a laptop, preferably a “secondary” one, to Las Vegas for the security conferences: just make sure it contains no personal information, it is loaded with all the tools that you need (or boot from a Kali Linux DVD or USB drive), all software is patched and up-to-date, and wipe clean the hard drive when you return home.  Having a burner phone or turning off your personal phone during the conferences are good ideas.&lt;/p&gt;
-
-&lt;h3 id=&quot;las-vegas-is-really-hot-during-this-time-of-year--100-degrees-each-day-dry-heat&quot;&gt;“Las Vegas is really hot during this time of year.  100+ degrees each day, dry heat.”&lt;/h3&gt;
-&lt;p&gt;Even at night it is very hot.  Stay hydrated, drink plenty of water.  The good news is there are water coolers throughout the conferences.  It is extremely unlikely that you will be sheltered inside of your hotel for your entire trip.  For many of you, it will be your first time in Las Vegas so you will be doing some sightseeing.  This year will be interesting as DEF CON will be at two hotels: Bally’s and Paris.  Thus, you will be required to move around, walk, and perhaps get some exercise.  Therefore, it is very important that you eat well, get some sleep, shower, and wear deodorant.  Please shower and wear deodorant.  Bad hygiene has been a big complaint of many attendees in the past.  You are asking for serious health trouble if you are drinking all day, have bad food (the Riviera anyone?), do not sleep, and do not shower.&lt;/p&gt;
-
-&lt;h3 id=&quot;sexual-harassment-is-a-serious-problem-in-tech-right-now&quot;&gt;“Sexual harassment is a serious problem in tech right now.”&lt;/h3&gt;
-&lt;p&gt;Please read &lt;a href=&quot;https://adainitiative.org/2012/08/defcon-why-conference-harassment-matters/&quot; target=&quot;_blank&quot;&gt;“DEFCON: Why conference harassment matters”&lt;/a&gt;.  &lt;a href=&quot;https://www.schneier.com/blog/archives/2012/08/sexual_harassme.html&quot; target=&quot;_blank&quot;&gt;Bruce Schneier also wrote about this problem&lt;/a&gt;.  Please also read the &lt;a href=&quot;https://www.defcon.org/html/links/dc-code-of-conduct.html&quot; target=&quot;_blank&quot;&gt;DEF CON Conference Code of Conduct&lt;/a&gt;.  The information security community is very small and everyone practically knows everyone else.  Don’t ruin it for others, don’t give information security and tech another black eye.  &lt;em&gt;Don’t do anything stupid.&lt;/em&gt; You will be called out, and people in information security will have no problem shaming you.&lt;/p&gt;
-
-&lt;p&gt;DEF CON has made a profound impact on my career and on my life, and many have said the same.  This is your community and your tribe.  Make the most of your experience in Las Vegas for BSides / Black Hat / DEF CON: have fun, mingle, and learn.  What if this will be your first time in Las Vegas, especially for DEF CON?  The &lt;a href=&quot;https://www.defcon.org/html/defcon-23/dc-23-schedule.html&quot;&gt;DEF CON 101 talks on the Thursday&lt;/a&gt; and visiting the Packet Hacking Village that is run by the Wall of Sheep are great places to start.  In 2014, I wrote &lt;a href=&quot;http://www.wallofsheep.com/blogs/news/14836357-on-preparing-for-some-of-our-events-at-def-con-e-g-packet-detective-wall-of-sheep-speaker-workshops&quot; target=&quot;_blank&quot;&gt;a guide on preparing for the events at the Packet Hacking Village&lt;/a&gt;.  The first speaker workshop will be on the Friday which I will kick off, talking the mission of the Wall of Sheep and their brief history, tools that are used, and opportunities to grow your intellectual curiosity.  I hope to see many of you there.&lt;/p&gt;
-
-&lt;h3 id=&quot;pyrotechnics-flamethrowers-swords-and-guns-are-strictly-prohibited-at-the-conferences&quot;&gt;Pyrotechnics, flamethrowers, swords, and guns are strictly prohibited at the conferences&lt;/h3&gt;
-&lt;p&gt;Believe it or not, that has been asked to the DEF CON organizers in the past.  You are warned.&lt;/p&gt;
-
-&lt;h3 id=&quot;list-of-articles-on-how-to-survive-black-hat--bsides-lv--def-con--vegas&quot;&gt;&lt;a name=&quot;articles&quot;&gt;&lt;/a&gt;List of Articles on How To Survive Black Hat / BSides LV / DEF CON / Vegas&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.peerlyst.com/posts/advice-for-n00bz-at-def-con-violet-blue&quot; target=&quot;_blank&quot;&gt;Advice for n00bz at DEF CON by Violet Blue&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://cdn2.hubspot.net/hubfs/2224827/Practical-Guide-To-Security-At-Conferences-HORNE-Cyber.pdf?t=1467916084216&quot; target=&quot;_blank&quot;&gt;The Practical Guide To Security At Conferences (HORNE, 2016)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.darkreading.com/vulnerabilities---threats/the-newbies-how-to-survive-black-hat-guide/a/d-id/1326102?_mc=sm_dr&amp;amp;hootPostID=62bc065c48aa2f2012cc52a2914364ec&quot; target=&quot;_blank&quot;&gt;The Newbie’s ‘How To Survive Black Hat’ Guide (Dark Reading, 2016)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://duo.com/blog/welcome-to-vegas&quot; target=&quot;_blank&quot;&gt;Welcome to Vegas! A Primer on Attending Black Hat &amp;amp; DEF CON (Duo, 2015)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.liquidmatrix.org/blog/2015/07/20/2015-black-hat-def-con-bsideslv-survival-guide/&quot; target=&quot;_blank&quot;&gt;2015 Black Hat, DEF CON, BSidesLV Survival Guide  (Liquidmatrix, 2015)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://community.rapid7.com/community/infosec/blog/2015/07/13/the-black-hat-attendee-guide-part-1&quot; target=&quot;_blank&quot;&gt;The Black Hat Attendee Guide Part 1: How to Survive Black Hat (Rapid7, 2015)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://community.rapid7.com/community/infosec/blog/2015/07/16/the-black-hat-attendee-guide-part-2--the-briefings&quot; target=&quot;_blank&quot;&gt;The Black Hat Attendee Guide Part 2: The Briefings (Rapid7, 2015)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://community.rapid7.com/community/infosec/blog/2015/07/20/the-black-hat-attendee-guide-part-3--networking-at-black-hat&quot; target=&quot;_blank&quot;&gt;The Black Hat Attendee Guide Part 3: Networking Like A Boss (Rapid7, 2015)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://community.rapid7.com/community/infosec/blog/2015/07/29/the-black-hat-attendee-guide-part-7-your-survival-kit&quot; target=&quot;_blank&quot;&gt;The Black Hat Attendee Guide Part 7: Your Survival Kit (Rapid7, 2015)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.engadget.com/2015/08/11/surviving-def-con/&quot; target=&quot;_blank&quot;&gt;Surviving the Def Con hacker conference (Engadget, 2015)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.csoonline.com/article/2458907/security-awareness/a-practical-survival-guide-to-black-hat-and-def-con.html&quot; target=&quot;_blank&quot;&gt;A practical survival guide to Black Hat and DEF CON (CSO Online, 2014)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blogs.akamai.com/2013/07/a-black-hat-defcon-and-b-sides-survival-guide.html&quot; target=&quot;_blank&quot;&gt;A Black Hat, DefCon and B-Sides survival guide (Akamai, 2013)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://pen-testing.sans.org/blog/2013/06/28/getting-the-most-out-of-def-con-some-tips-for-first-timers/&quot; target=&quot;_blank&quot;&gt;Getting the Most Out of DEF CON: Some Tips for First Timers (SANS, 2013)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.networkworld.com/article/2179726/security/how-to-survive-black-hat-and-defcon-without-getting-hacked----maybe.html&quot; target=&quot;_blank&quot;&gt;How to survive Black Hat and Defcon without getting hacked – maybe (NetworkWorld, 2013)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.computerworld.com/article/2519054/enterprise-applications/black-hat--defcon-and-b-sides--a-survival-guide.html&quot; target=&quot;_blank&quot;&gt;Black Hat, DefCon and B-Sides: A survival guide (Computerworld, 2010)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.theregister.co.uk/2007/08/01/defcon_survival_guide/&quot; target=&quot;_blank&quot;&gt;A Defcon survival guide (The Register, 2007)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/Hacking-and-Coffee/defcon-for-n00bs&quot; target=&quot;_blank&quot;&gt;“defcon-for-n00bs” by Hacking-and-Coffee (GitHub)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 19 Jul 2015 13:00:00 -0400</pubDate>
-        <link>http://localhost:4000/security/2015/07/19/security-summer-camp.html</link>
-        <guid isPermaLink="true">http://localhost:4000/security/2015/07/19/security-summer-camp.html</guid>
+        <link>https://mchow01.github.io/security/2015/09/14/learning-more-about-security.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/security/2015/09/14/learning-more-about-security.html</guid>
         
         
         <category>security</category>
