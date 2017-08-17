@@ -23,6 +23,10 @@ Another purpose of this post is to back up the arguments made in the article: ["
 
 ![Hall of Shame Job Posting](/images/hos_004.jpg)
 
+### ["It's an entire InfoSec department in one engineer!"](https://twitter.com/Triggs390/status/898023922075140096) (thanks @Triggs390)
+
+![Hall of Shame Job Posting](/images/hos_003.jpg)
+
 ### What on earth is "cyber awareness and understanding"? (thanks to @tcstoolHax0r for this)
 
 ![Hall of Shame Job Posting](/images/hos_005.jpg)
