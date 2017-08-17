@@ -13,7 +13,7 @@ We constantly hear that cyber security has a serious talent shortage.  It doesn'
 
 Another purpose of this post is to back up the arguments made in the article: ["There Is No Cyber Talent Crunch; You’re Just Hiring Wrong"](https://www.tripwire.com/state-of-security/risk-based-security-for-executives/connecting-security-to-the-business/there-is-no-cyber-talent-crunch-youre-just-hiring-wrong/) especially the points of "insisting on over-qualified applicants" and over-filtering.
 
-### Who the hell are they going to find these jobs on a contract basis? Good luck creating and updating all those documents in six months.(thanks to @tcstoolHax0r for this)
+### Who the hell are they going to find these jobs on a contract basis? Good luck creating and updating all those documents in six months (thanks to @tcstoolHax0r for this)
 
 ![Hall of Shame Job Posting](/images/hos_002.jpg)
 
