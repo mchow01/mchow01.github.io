@@ -6,9 +6,74 @@
 </description>
     <link>https://mchow01.github.io/</link>
     <atom:link href="https://mchow01.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 15 Aug 2017 23:06:46 -0400</pubDate>
-    <lastBuildDate>Tue, 15 Aug 2017 23:06:46 -0400</lastBuildDate>
+    <pubDate>Wed, 16 Aug 2017 21:42:38 -0400</pubDate>
+    <lastBuildDate>Wed, 16 Aug 2017 21:42:38 -0400</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Students' Summer Internship Reports, In Their Own Words</title>
+        <description>&lt;p&gt;I run the &lt;a href=&quot;https://ase.tufts.edu/icenter/immigration/employment/offCampus_F1_cpt.asp&quot; target=&quot;_blank&quot;&gt;Curricular Practical Training (CPT)&lt;/a&gt; program for international students for the Computer Science Department at Tufts.  This program is necessary for international students to do a summer internship.  As part of getting credit for CPT, I ask each student to write a report addressing: (1) what did student learn technically, (2) what did student learn professionally, (3) what did student wish supervisor(s) did differently, and (4) what would student have done differently.  This summer, there were 18 students in CPT and the reports produced were awesome. Lots of fantastic stories, lessons learned.  The stories illustrate what students are getting out of our curriculum and ultimately in the academic environment, what students are not getting out of our curriculum, and the importance of having professional experience to go along with the academics.  Some gems to share (names and companies, institutions redacted):&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“I also realized that I liked the freedom of open-ended problems a lot more than problems in class. My supervisor would explain the problem to me, would give me pointers as to where to start looking at and give me some of the initial ideas he had. But he left much of the engineering to me. I got used to just experimenting my ideas, which felt more motivating.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Although I could never had known this at the start of my internship, I do wish that I was used to reading research papers.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“One of my first mistakes was to think that the supervisor expected me to know everything beforehand and that asking questions was something to be ashamed of.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“As such, I was unprepared for the practical knowledge that went into and the scale of [redacted] infrastructure and tooling. On the first day, my team members rattled off no less than five different systems that they were maintaining”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Secondly, I developed my communication skills and understood the importance of communication both at a work-related and non-work-related level.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Next, I learned that I should not expect my supervisor or manager to give me all the instructions I need”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“I also learned to not feel ashamed when asking the person who wrote the code you are working with how it works.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“…the first thing to do in creating an application is to make it work first and then optimization should come later.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“I would have taken some more breaks this summer. As this internship is wrapping up I’ve been completing some of the final touches to my projects but I can’t help but feel a little burned out.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“First off how important it is to enjoy your workplace culture and the companionship of your colleagues. I am very fortunate to be able to work with people that bring a smile onto my face everyday and laughter into the workplace.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“And by having someone professionally QA my work, made me realized the importance of the safety of the code, and never ever trust user’s input.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“The only feedback that I have received was when I explicitly asked to meet and to discuss about how I’m doing.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“The working process promotes the heavy use of the revision control software Git, with which each developer works on different feature branches for different projects before having their code meticulously reviewed by various members of the team for quality check and then sent to the Quality Assurance team for testing.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“I also learned to ask relevant and timely questions so as to facilitate my initial learning process without delaying the work of my supervisor and coworkers.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“On the job, no one but myself could be my teacher.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“I wish my supervisor could use less jargons and more plain English when he answered my questions.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“It is important to keep focus on your own project, but it is equally important to get known more about your colleagues’ projects. I think this could help me find more things I feel interested about.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“I wish I could have gone over the [redacted] API documentation more thoroughly before I started working on the app”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“I also wish I could have asked more of my coworkers’ help”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“How to engage with and seek help from anyone who might know more about something than I do.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;“I wish I had a chance to discuss the results with my advisor or collaborators from medical poi_nt of view. I believe this step was necessary to validate the result of the project. Networking with more people in my research field is another item I can mention as an important aspect of the internship that I wish I had worked on more.”_&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“I hope I could design the project clearly first, and make sure I understand every part, then start writing code.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Besides just writing code, I have also had regular meetings with both my supervisors and my clients from the Recruitment Department to showcase, discuss, and improve on existing features and create a better user’s experience. What I have realized through those meetings is that effective communication is essential to any successful project.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Moreover, I wish I could have asked for help more often than trying to solve some problem by myself for a long time, as I could have been problem-solving more efficiently.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Thus, I learned that I should be always ready to presenting my work to others.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Communicating your ideas is very important to work in a team.”&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 Aug 2017 16:30:00 -0400</pubDate>
+        <link>https://mchow01.github.io/career/2017/08/16/summer-internship-reports.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/career/2017/08/16/summer-internship-reports.html</guid>
+        
+        
+        <category>career</category>
+        
+      </item>
     
       <item>
         <title>Hall of Shame Job Postings and Recruiting</title>
@@ -598,37 +663,6 @@ yolandabear:jabroni1
         
         
         <category>humor</category>
-        
-      </item>
-    
-      <item>
-        <title>On Learning More About Information Security</title>
-        <description>&lt;p&gt;In my &lt;a href=&quot;http://www.cs.tufts.edu/comp/20/&quot; target=&quot;_blank&quot;&gt;Web Programming&lt;/a&gt; class at Tufts, students are exposed to web security near the end of the semester.  For the last assignment in the class, each student performs a security audit of the another student’s web application (the previous assignment in the class).  The deliverable is a report that must contain at least three security and privacy findings.  Here is an example report: &lt;a href=&quot;https://tuftsdev.github.com/WebProgramming/assignments/security-gjoseph/report.html&quot; target=&quot;_blank&quot;&gt;https://tuftsdev.github.com/WebProgramming/assignments/security-gjoseph/report.html&lt;/a&gt;.  For many students, this is their first exposure to information security, and many find the topic fascinating.  Over the years, I have received many emails from former students asking how to learn more about information security.  A few anedotes:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“As you may know, I am a senior. That means that I will not be able to take your security course before I graduate. What resources do you recommend using to learn security then? Are there ways that I could direct my hacking efforts so that my learning takes on some sort of coherent structure?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“Also I hadn’t really done any security stuff besides what we did in [your Web Programming class] but this summer I participated in [a security hackathon] and afterwards got a few offers to work on cyber security projects so I think I am going to try it out next time I intern. Do you have any suggestions for online resources?”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;There is an abyss of information security resources and tools available, mostly free, online.  Reading and literature can only do so much.  Information security requires hands-on practice.  A significant part of information security is violating confidentiality, integrity, and availability (CIA) –the definition of what information security is, and violating software invariants and correctness.&lt;/p&gt;
-
-&lt;p&gt;For a general overview of information security, a comprehensive book (free) is Ross Anderson’s “Security Engineering” available at &lt;a href=&quot;http://www.cl.cam.ac.uk/~rja14/book.html&quot; target=&quot;_blank&quot;&gt;http://www.cl.cam.ac.uk/~rja14/book.html&lt;/a&gt;.  I also recommend the Kevin Mitnick’s &lt;a href=&quot;http://www.amazon.com/The-Art-Deception-Controlling-Security/dp/076454280X/&quot; target=&quot;_blank&quot;&gt;“The Art of Deception”&lt;/a&gt;.  The idea of “thinking like a bad guy” is very important in information security, a mindset that most people (especially software developers and Computer Scientists) are not exposed to.  “The Art of Deception” has many telling stories of Kevin’s infamous deeds back in the days –from Kevin himself.  To comprehend the scope of the information security problem and the history of fails, watch James Mickens’ &lt;a href=&quot;https://vimeo.com/135347162&quot; target=&quot;_blank&quot;&gt;“Not Even Close: The State of Computer Security”&lt;/a&gt;, watch &lt;a href=&quot;https://www.youtube.com/watch?v=nT-TGvYOBpI&quot; target=&quot;_blank&quot;&gt;Dan Geer’s Black Hat 2014 keynote&lt;/a&gt;, and read &lt;a href=&quot;http://www.washingtonpost.com/sf/business/2015/06/22/net-of-insecurity-part-3/&quot; target=&quot;_blank&quot;&gt;some history of L0pht in the Washington Post&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Let’s move on to hands-on practice.  In the summer of 2015, I mentored Lokesh Pidawekar for his talk “How I Learnt Hacking in High School” at the BSides Las Vegas Security Conference.  His presentation slides are available at &lt;a href=&quot;http://www.slideshare.net/lokeshpidawekar/how-i-learnt-hacking-in-high-school-bsideslv-2015&quot; target=&quot;_blank&quot;&gt;http://www.slideshare.net/lokeshpidawekar/how-i-learnt-hacking-in-high-school-bsideslv-2015&lt;/a&gt;.  The presentation addresses why would someone want to learn this stuff, what is necessary for hands-on practice, and disclaimers.&lt;/p&gt;
-
-&lt;p&gt;Currently, &lt;a href=&quot;https://www.kali.org/&quot; target=&quot;_blank&quot;&gt;Kali Linux&lt;/a&gt; is the platform of choice for many information practitioners.  It contains almost all the necessary tools.  One of the worst things anyone learning information security can do is to fire up Metasploit or other tools without any idea what’s going on.  Refrain from using tools until you have an understanding of what some of the security vulnerabilities are.  A good way to understand what some of the security vulnerabilities are is to have vulnerable platforms and software.  A good example of a vulnerable platform is Rapid 7’s &lt;a href=&quot;http://sourceforge.net/projects/metasploitable/&quot; target=&quot;_blank&quot;&gt;Metasploitable&lt;/a&gt;.  It is a deliberately vulnerable Linux virtual machine that requires at least VMware Player (VMware Workstation or VMware Fusion also works).  Having a hypervisor (e.g., VMware, QEMU, Parallels, VirtualBox) is extremely valuable to hands-on learning as it generally isolates vulnerable software from your host operating system (unless file sharing between host and guest is enabled).  Eventually, I recommend building use your own servers and containers (i.e. a lab) to host vulnerable software.  One reason why I recommend this is so you can practice building a distributed system and how to do it right –or wrong.  It goes without saying that these vulnerable virtual machines, servers, and containers must not be exposed to an untrusted network.  I have a vulnerable Raspberry Pi web server at home that has a vulnerable version of WordPress, &lt;a href=&quot;http://www.dvwa.co.uk/&quot; target=&quot;_blank&quot;&gt;Damn Vulnerable Web Application (DVWA)&lt;/a&gt;, and &lt;a href=&quot;http://sourceforge.net/projects/mutillidae/&quot; target=&quot;_blank&quot;&gt;OWASP Mutillidae&lt;/a&gt; that I can always hit on.  I also created a &lt;a href=&quot;https://hub.docker.com/r/mchow01/tufts-ctf-fall2014/&quot; target=&quot;_blank&quot;&gt;Docker image of the Capture The Flags (CTF) game for my Security class in fall 2014&lt;/a&gt; –you can attack that as well.&lt;/p&gt;
-
-&lt;p&gt;Now that you have a vulnerable platform to attack and play with, delve into understading what some of the security vulnerabilities are.  On all the top vulnerabilities lists (e.g., SANS Top 25, OWASP Top 10), Cross Site Scripting (XSS) and SQL Injection (SQLi) are on the top of the lists.  They were among the top vulnerabilities over decade ago, and they are still among the top vulnerabilities today (sad, isn’t it?).  The vulnerable platforms listed above have many XSS and SQLi opportunities as well as vulnerable software exposed on many different ports.  There are also many weak user accounts on the platforms.  Therefore, Cross Site Scripting, SQL injection, port scanning, and password cracking are good topics to learn first.  Once you have a good understanding of those topics, then you can use tools like xsser, sqlmap, nmap, hydra, and john on Kali Linux.  Equally important is to understand &lt;em&gt;why&lt;/em&gt; the vulnerabilties exist on the platforms (they are all open source), how to fix them, and learn how to not make those mistakes as a software developer.&lt;/p&gt;
-
-&lt;p&gt;Putting together a hacking lab to learn information security demonstrates your profound interest in information security.  Many people also agree that is even more valuable than security certification(s).  However, learning on your own can only do so much.  It is important to find and learn from great people.  Despite &lt;a href=&quot;http://blog.erratasec.com/2015/09/whats-that-drama.html&quot; target=&quot;_blank&quot;&gt;some recent drama in the information security&lt;/a&gt;, there are many great people in the field.  Go to local meetups and security conferences such as BSides.  I am frequently asked how I got into information security.  In 2004 when I was working as a web developer, my workplace paid me to go to the USENIX Annual Conference which was held in Boston, including taking two training courses.  One of the training courses I took was on software security, taught by Gary McGraw.  I also went to two security and privacy-focused panels that featured luminaries in the field including Gary McGraw and Dan Geer.  They propelled my interest in security and provided much inspiration, and I cannot thank them enough for getting me started.  Over the years, I have learned a tremendous amount from them, and from countless others in the field.  It is a very small field: everyone practically knows each other.  Your friends and peers will give you more opportunities than you can imagine.  During the last five years, I’ve done a lot of talks and mentoring in the field to give back and also to prepare the next generation to get into the field.&lt;/p&gt;
-
-&lt;p&gt;I hope this is valuable advice for those who are interested on learning more about information security.  If you would like to go further and make information security your career, read Lesley Carhart’s &lt;a href=&quot;http://tisiphone.net/2015/10/12/starting-an-infosec-career-the-megamix-chapters-1-3/&quot; target=&quot;_blank&quot;&gt;“Starting an InfoSec Career”&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 14 Sep 2015 06:00:00 -0400</pubDate>
-        <link>https://mchow01.github.io/security/2015/09/14/learning-more-about-security.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/security/2015/09/14/learning-more-about-security.html</guid>
-        
-        
-        <category>security</category>
         
       </item>
     
