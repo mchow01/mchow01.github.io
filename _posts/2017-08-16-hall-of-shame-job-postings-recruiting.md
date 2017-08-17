@@ -13,7 +13,7 @@ We constantly hear that cyber security has a serious talent shortage.  It doesn'
 
 Another purpose of this post is to back up the arguments made in the article: ["There Is No Cyber Talent Crunch; You’re Just Hiring Wrong"](https://www.tripwire.com/state-of-security/risk-based-security-for-executives/connecting-security-to-the-business/there-is-no-cyber-talent-crunch-youre-just-hiring-wrong/) especially the points of "insisting on over-qualified applicants" and over-filtering.
 
-### Who the hell are they going to find these jobs on a contract basis? (thanks to @tcstoolHax0r for this)
+### Who the hell are they going to find these jobs on a contract basis? Good luck creating and updating all those documents in six months.(thanks to @tcstoolHax0r for this)
 
 ![Hall of Shame Job Posting](/images/hos_002.jpg)
 
@@ -38,3 +38,11 @@ Another purpose of this post is to back up the arguments made in the article: ["
 ### I need to have all those certifications? (thanks to @tcstoolHax0r for this)
 
 ![Hall of Shame Job Posting](/images/hos_001.jpg)
+
+# Addendum
+
+My friend Rob Graham wrote this:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Remember: a lot of recruiting posts are designed so that nobody can fill them - except for that one foreigner you&#39;ve already decided to hire</p>&mdash; Rob Graham٩(●̮̮̃●̃) (@ErrataRob) <a href="https://twitter.com/ErrataRob/status/898015231309262848">August 17, 2017</a></blockquote>
+
+While there is truth in what Rob wrote, the problem is when recruiters spam the same job description everywhere (e.g., on LinkedIn) which wastes everyone's time.
