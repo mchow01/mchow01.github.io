@@ -39,6 +39,10 @@ Another purpose of this post is to back up the arguments made in the article: ["
 
 ![Hall of Shame Job Posting](/images/hos_001.jpg)
 
+### This is for an internship. First, Selenium is misspelled.  Another one of these NDA clowns.  To top it all off: "At present we are exceeding our expectations" --dafuq (thanks to @marsella_h for this)
+
+![Hall of Shame Job Posting](/images/hos_009.jpg)
+
 # Addendum
 
 My friend Rob Graham wrote this:
