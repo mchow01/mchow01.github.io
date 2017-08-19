@@ -43,6 +43,10 @@ Another purpose of this post is to back up the arguments made in the article: ["
 
 ![Hall of Shame Job Posting](/images/hos_009.jpg)
 
+### Mother of God! We save the best for last as we hit the jackpot with this one. "Three years as a developer plus 5 years at least in all the other domains. In total ~55 years experience for the optimum candidate." (thanks to @sprkyco for this gem)
+
+![Hall of Shame Job Posting](/images/hos_010.jpg)
+
 # Addendum
 
 My friend Rob Graham wrote this:
