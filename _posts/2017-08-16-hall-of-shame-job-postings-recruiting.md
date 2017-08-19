@@ -43,6 +43,10 @@ Another purpose of this post is to back up the arguments made in the article: ["
 
 ![Hall of Shame Job Posting](/images/hos_009.jpg)
 
+Perhaps the only statement that is missing from the above posting is:
+
+![We showed great character](/images/we-showed-great-character.jpg)
+
 ### Mother of God! We save the best for last as we hit the jackpot with this one. "Three years as a developer plus 5 years at least in all the other domains. In total ~55 years experience for the optimum candidate." (thanks to @sprkyco for this gem)
 
 ![Hall of Shame Job Posting](/images/hos_010.jpg)
