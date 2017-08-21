@@ -47,6 +47,14 @@ Perhaps the only statement that is missing from the above posting is:
 
 ![We showed great character](/images/we-showed-great-character.jpg)
 
+### There is no such thing as a GIAC Certified Ethical Hacker certification (thanks to @tcstoolHax0r for this)
+
+![Hall of Shame Job Posting](/images/hos_011.jpg)
+
+### I was trying to find evidence of the [job opening that requires 8+ years of Swift experience](https://twitter.com/kevinkaywho/status/898622008019124224) to no avail, but I did find this terribly written job ad for a Senior iOS Developer (10+ years of experience required) but marked as "junior" experience
+
+![Hall of Shame Job Posting](/images/hos_012.jpg)
+
 ### Mother of God! We save the best for last as we hit the jackpot with this one. "Three years as a developer plus 5 years at least in all the other domains. In total ~55 years experience for the optimum candidate." (thanks to @sprkyco for this gem)
 
 ![Hall of Shame Job Posting](/images/hos_010.jpg)
