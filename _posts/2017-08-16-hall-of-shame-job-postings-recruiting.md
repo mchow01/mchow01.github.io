@@ -11,7 +11,7 @@ We constantly hear that cyber security has a serious talent shortage.  It doesn'
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Security architect, BCP/DR, Forensic Analyst, SOC design/implementation. Only reply if you meet all requirements. Seriously????? 2/2</p>&mdash; SilverFox (@EdgarR0jas) <a href="https://twitter.com/EdgarR0jas/status/897529959656194048">August 15, 2017</a></blockquote>
 
-Another purpose of this post is to back up the arguments made in the article: ["There Is No Cyber Talent Crunch; You’re Just Hiring Wrong"](https://www.tripwire.com/state-of-security/risk-based-security-for-executives/connecting-security-to-the-business/there-is-no-cyber-talent-crunch-youre-just-hiring-wrong/) especially the points of "insisting on over-qualified applicants" and over-filtering.
+Another purpose of this post is to back up the arguments made in the article: ["There Is No Cyber Talent Crunch; You’re Just Hiring Wrong"](https://www.tripwire.com/state-of-security/risk-based-security-for-executives/connecting-security-to-the-business/there-is-no-cyber-talent-crunch-youre-just-hiring-wrong/) especially the points of "insisting on over-qualified applicants" and over-filtering.  There are many job candidates who ["are feeling utterly demoralized for no reason"](https://twitter.com/AdrianCohea/status/899503146153656321) especially after seeing such job postings.  A message that I want to make clear with this post: don't disqualify yourself --because the purple squirrel does not exist.
 
 ### Who the hell are they going to find these jobs on a contract basis? Good luck creating and updating all those documents in six months (thanks to @tcstoolHax0r for this)
 
