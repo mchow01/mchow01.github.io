@@ -55,6 +55,10 @@ Perhaps the only statement that is missing from the above posting is:
 
 ![Hall of Shame Job Posting](/images/hos_012.jpg)
 
+### ["Third point down. This is what happens when recruiters use buzzwords with no idea what they mean." AWS = Amazon Web Services, Azure belongs to Microsoft (thanks to @CthulhuSec for this)](https://twitter.com/CthulhuSec/status/900318071713398784)
+
+![Hall of Shame Job Posting](/images/hos_013.jpg)
+
 ### Mother of God! We save the best for last as we hit the jackpot with this one. "Three years as a developer plus 5 years at least in all the other domains. In total ~55 years experience for the optimum candidate." (thanks to @sprkyco for this gem)
 
 ![Hall of Shame Job Posting](/images/hos_010.jpg)
