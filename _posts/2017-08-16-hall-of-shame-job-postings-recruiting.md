@@ -59,6 +59,10 @@ Perhaps the only statement that is missing from the above posting is:
 
 ![Hall of Shame Job Posting](/images/hos_013.jpg)
 
+### "They are looking for someone to: lead a team, set up an SDL process, oversee all aspects of security in the cloud infra (This is the devs work if your doing devops right), work within scrum teams (can't evangelize in scrum unless you embed with them), pen testing, 0 days mitigation (by its nature its impossible to mitigate 0days.... because they are 0days), threat assessments, compliance management, dealing with customers, hands on coding????? And they are a manager??? This has 100% burn out job written all over it." (thanks to Toughnuts for this)
+
+![Hall of Shame Job Posting](/images/hos_014.jpg)
+
 ### Mother of God! We save the best for last as we hit the jackpot with this one. "Three years as a developer plus 5 years at least in all the other domains. In total ~55 years experience for the optimum candidate." (thanks to @sprkyco for this gem)
 
 ![Hall of Shame Job Posting](/images/hos_010.jpg)
