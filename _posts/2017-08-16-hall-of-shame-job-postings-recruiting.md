@@ -63,6 +63,10 @@ Perhaps the only statement that is missing from the above posting is:
 
 ![Hall of Shame Job Posting](/images/hos_014.jpg)
 
+### Welp. Courtesy of [@huykha10](https://twitter.com/huykha10/status/914597824351924224)
+
+![Hall of Shame Job Posting](/images/hos_015.jpg)
+
 ### Mother of God! We save the best for last as we hit the jackpot with this one. "Three years as a developer plus 5 years at least in all the other domains. In total ~55 years experience for the optimum candidate." (thanks to @sprkyco for this gem)
 
 ![Hall of Shame Job Posting](/images/hos_010.jpg)
