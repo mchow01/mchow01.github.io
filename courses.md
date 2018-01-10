@@ -4,6 +4,38 @@ title: Courses @ Tufts
 permalink: /courses/
 ---
 
+### Spring 2018
+* [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
+	* Enrollment (number of students): ?
+	* Overall Course Rating (of ? responses): ? / 5.0 [question 5]
+	* Overall Performance of Instructor (of ? responses):  / 5.0 [question 15]
+
+* [COMP 116: Introduction to Computer Security](http://www.cs.tufts.edu/comp/116/){:target="_blank"}
+	* Enrollment (number of students): ?
+	* Overall Course Rating (of ? responses): ? / 5.0 [question 5]
+	* Overall Performance of Instructor (of ? responses):  / 5.0 [question 15]
+	
+* [COMP 150-MOB: Mobile Development](http://www.cs.tufts.edu/comp/150MOB/){:target="_blank"}
+	* Enrollment (number of students): ?
+	* Overall Course Rating (of ? responses): ? / 5.0 [question 5]
+	* Overall Performance of Instructor (of ? responses):  / 5.0 [question 15]
+
+### Fall 2017
+* [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
+	* Enrollment (number of students): 80
+	* Overall Course Rating (of 77 responses):  4.18 / 5.0 [question 5]
+	* Overall Performance of Instructor (of 77 responses): 4.43 / 5.0 [question 15]
+
+* [COMP 116: Introduction to Computer Security](http://www.cs.tufts.edu/comp/116/){:target="_blank"}
+	* Enrollment (number of students): 86
+	* Overall Course Rating (of 80 responses): 4.11 / 5.0
+	* Overall Performance of Instructor (of 80 responses): 4.26 / 5.0
+	
+* [COMP 150-MOB: Mobile Development](http://www.cs.tufts.edu/comp/150MOB/){:target="_blank"}
+	* Enrollment (number of students): 40
+	* Overall Course Rating (of 35 responses):  4.11 / 5.0
+	* Overall Performance of Instructor (of 35 responses): 4.31 / 5.0
+
 ### Spring 2017
 * [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
 	* Enrollment (number of students): 124
@@ -47,7 +79,7 @@ permalink: /courses/
 	* Overall Course Rating (of 41 responses):  3.98 / 5.0
 	* Overall Performance of Instructor (of 41 responses): 4.37 / 5.0
 	
-* [COMP 150-MMD: Mobile Medical Devices (cross-listed with Electrical Engineering)](http://www.cs.tufts.edu/comp/150MMD/){:target="_blank"}
+* COMP 150-MMD: Mobile Medical Devices (cross-listed with Electrical Engineering)
 	* Enrollment (number of students): 23
 	* Overall Course Rating (of 21 responses): 3.38 / 5.0
 	* Overall Performance of Instructor (of 21 responses): 3.57 / 5.0
@@ -95,7 +127,7 @@ permalink: /courses/
 	* Overall Course Rating (of 25 responses): 4.20 / 5.0
 	* Overall Performance of Instructor (of 25 responses): 4.44 / 5.0
 
-* [COMP 150-MMD: Mobile Medical Devices (cross-listed with Electrical Engineering)](http://www.cs.tufts.edu/comp/150MMD/){:target="_blank"}
+* COMP 150-MMD: Mobile Medical Devices (cross-listed with Electrical Engineering)
 	* Enrollment (number of students): 20
 	* Overall Course Rating (of 4 responses): 4.25 / 5.0
 	* Overall Performance of Instructor (of 4 responses): 4.25 / 5.0
