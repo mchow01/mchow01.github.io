@@ -67,6 +67,12 @@ Perhaps the only statement that is missing from the above posting is:
 
 ![Hall of Shame Job Posting](/images/hos_015.jpg)
 
+### I guess this is why burnout is so prevalent in infosec. Thanks to @tcstoolHax0r
+
+![Hall of Shame Job Posting](/images/hos_016.jpg)
+
+![Hall of Shame Job Posting](/images/hos_016a.jpg)
+
 ### Mother of God! We save the best for last as we hit the jackpot with this one. "Three years as a developer plus 5 years at least in all the other domains. In total ~55 years experience for the optimum candidate." (thanks to @sprkyco for this gem)
 
 ![Hall of Shame Job Posting](/images/hos_010.jpg)
