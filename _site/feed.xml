@@ -4,11 +4,11 @@
     <title>Ming Y. Chow</title>
     <description>Ming Chow's website
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Jan 2018 23:47:29 -0500</pubDate>
-    <lastBuildDate>Wed, 17 Jan 2018 23:47:29 -0500</lastBuildDate>
-    <generator>Jekyll v3.7.0</generator>
+    <link>https://mchow01.github.io/</link>
+    <atom:link href="https://mchow01.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 08 Feb 2018 00:50:11 -0500</pubDate>
+    <lastBuildDate>Thu, 08 Feb 2018 00:50:11 -0500</lastBuildDate>
+    <generator>Jekyll v3.7.2</generator>
     
       <item>
         <title>Results of a Password Cracking Contest for My Security Class (Fall 2017)</title>
@@ -143,8 +143,8 @@ $6$eqnUKgsJ$2AdWNgZO3k1EVtU9Q348kipdc9GJ9Q35MtRKKgNjW5fduiNzbnCjqJAo9UBUjgxRtZwX
 &lt;/blockquote&gt;
 </description>
         <pubDate>Fri, 03 Nov 2017 22:30:00 -0400</pubDate>
-        <link>http://localhost:4000/education/security/2017/11/04/password-cracking.html</link>
-        <guid isPermaLink="true">http://localhost:4000/education/security/2017/11/04/password-cracking.html</guid>
+        <link>https://mchow01.github.io/education/security/2017/11/03/password-cracking.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/education/security/2017/11/03/password-cracking.html</guid>
         
         
         <category>education</category>
@@ -210,8 +210,8 @@ $6$eqnUKgsJ$2AdWNgZO3k1EVtU9Q348kipdc9GJ9Q35MtRKKgNjW5fduiNzbnCjqJAo9UBUjgxRtZwX
 &lt;p&gt;&lt;em&gt;“Communicating your ideas is very important to work in a team.”&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 16 Aug 2017 16:30:00 -0400</pubDate>
-        <link>http://localhost:4000/career/2017/08/16/summer-internship-reports.html</link>
-        <guid isPermaLink="true">http://localhost:4000/career/2017/08/16/summer-internship-reports.html</guid>
+        <link>https://mchow01.github.io/career/2017/08/16/summer-internship-reports.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/career/2017/08/16/summer-internship-reports.html</guid>
         
         
         <category>career</category>
@@ -301,8 +301,8 @@ $6$eqnUKgsJ$2AdWNgZO3k1EVtU9Q348kipdc9GJ9Q35MtRKKgNjW5fduiNzbnCjqJAo9UBUjgxRtZwX
 &lt;p&gt;While there is truth in what Rob wrote, the problem is when recruiters spam the same job description everywhere (e.g., on LinkedIn) which wastes everyone’s time.&lt;/p&gt;
 </description>
         <pubDate>Tue, 15 Aug 2017 21:00:00 -0400</pubDate>
-        <link>http://localhost:4000/career/2017/08/16/hall-of-shame-job-postings-recruiting.html</link>
-        <guid isPermaLink="true">http://localhost:4000/career/2017/08/16/hall-of-shame-job-postings-recruiting.html</guid>
+        <link>https://mchow01.github.io/career/2017/08/15/hall-of-shame-job-postings-recruiting.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/career/2017/08/15/hall-of-shame-job-postings-recruiting.html</guid>
         
         
         <category>career</category>
@@ -380,8 +380,8 @@ teddybear:K-(*4@
 &lt;/pre&gt;
 </description>
         <pubDate>Mon, 14 Aug 2017 21:00:00 -0400</pubDate>
-        <link>http://localhost:4000/education/security/2017/08/15/password-cracking.html</link>
-        <guid isPermaLink="true">http://localhost:4000/education/security/2017/08/15/password-cracking.html</guid>
+        <link>https://mchow01.github.io/education/security/2017/08/14/password-cracking.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/education/security/2017/08/14/password-cracking.html</guid>
         
         
         <category>education</category>
@@ -431,8 +431,8 @@ teddybear:K-(*4@
 &lt;p&gt;Whether you currently have an opportunity or not, the moral of the story is &lt;em&gt;the early bird catches the worm&lt;/em&gt;.  Not understanding that timeless advice and you will be behind the eight ball after graduation –if it wasn’t bad enough already due to student loan debt.&lt;/p&gt;
 </description>
         <pubDate>Wed, 21 Jun 2017 16:00:00 -0400</pubDate>
-        <link>http://localhost:4000/career/2017/06/21/prepare-for-next-summer.html</link>
-        <guid isPermaLink="true">http://localhost:4000/career/2017/06/21/prepare-for-next-summer.html</guid>
+        <link>https://mchow01.github.io/career/2017/06/21/prepare-for-next-summer.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/career/2017/06/21/prepare-for-next-summer.html</guid>
         
         
         <category>career</category>
@@ -478,8 +478,8 @@ teddybear:K-(*4@
 &lt;p&gt;P.P.S., You may be wondering why I am posting this publicly.  The reason: it is absolutely necessary to communicate to our students that we were not the ones responsible for this decision.&lt;/p&gt;
 </description>
         <pubDate>Thu, 08 Jun 2017 11:00:00 -0400</pubDate>
-        <link>http://localhost:4000/education/2017/06/08/to-tufts-cs.html</link>
-        <guid isPermaLink="true">http://localhost:4000/education/2017/06/08/to-tufts-cs.html</guid>
+        <link>https://mchow01.github.io/education/2017/06/08/to-tufts-cs.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/education/2017/06/08/to-tufts-cs.html</guid>
         
         
         <category>education</category>
@@ -609,8 +609,8 @@ teddybear:K-(*4@
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=GTt3qvdTexM&quot;&gt;The same message from BSides Boston 2014: security is a lifestyle.&lt;/a&gt;  In other words, you have to be passionate.  Too many people are in it for the parties and money.&lt;/p&gt;
 </description>
         <pubDate>Sun, 16 Apr 2017 19:00:00 -0400</pubDate>
-        <link>http://localhost:4000/tech/career/education/security/2017/04/16/breaking-into-infosec.html</link>
-        <guid isPermaLink="true">http://localhost:4000/tech/career/education/security/2017/04/16/breaking-into-infosec.html</guid>
+        <link>https://mchow01.github.io/tech/career/education/security/2017/04/16/breaking-into-infosec.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/tech/career/education/security/2017/04/16/breaking-into-infosec.html</guid>
         
         
         <category>tech</category>
@@ -661,8 +661,8 @@ teddybear:K-(*4@
 &lt;/ol&gt;
 </description>
         <pubDate>Sun, 15 Jan 2017 20:00:00 -0500</pubDate>
-        <link>http://localhost:4000/tech/career/education/2017/01/16/the-importance-of-side-projects.html</link>
-        <guid isPermaLink="true">http://localhost:4000/tech/career/education/2017/01/16/the-importance-of-side-projects.html</guid>
+        <link>https://mchow01.github.io/tech/career/education/2017/01/15/the-importance-of-side-projects.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/tech/career/education/2017/01/15/the-importance-of-side-projects.html</guid>
         
         
         <category>tech</category>
@@ -752,8 +752,8 @@ yolandabear:jabroni1
 &lt;/pre&gt;
 </description>
         <pubDate>Sun, 06 Nov 2016 12:00:00 -0500</pubDate>
-        <link>http://localhost:4000/education/security/2016/11/06/password-cracking.html</link>
-        <guid isPermaLink="true">http://localhost:4000/education/security/2016/11/06/password-cracking.html</guid>
+        <link>https://mchow01.github.io/education/security/2016/11/06/password-cracking.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/education/security/2016/11/06/password-cracking.html</guid>
         
         
         <category>education</category>
@@ -809,8 +809,8 @@ yolandabear:jabroni1
 &lt;p&gt;This first experience teaching a course online far exceeded my expectations.  I was very surprised at how easy it was for me to transition into teaching online.  While this was my first experience, there are still lots of issues to be ironed out.  I also need to be mindful of issues like close captioning of videos for an online course &lt;a href=&quot;http://www.nytimes.com/2015/02/13/education/harvard-and-mit-sued-over-failing-to-caption-online-courses.html&quot;&gt;as Harvard and MIT were sued for that&lt;/a&gt;.  Many thanks to my first online class for a fantastic and welcoming experience.  We can all agree on one thing: online education is not going away any time soon.&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Aug 2016 12:30:00 -0400</pubDate>
-        <link>http://localhost:4000/education/2016/08/12/teaching-online.html</link>
-        <guid isPermaLink="true">http://localhost:4000/education/2016/08/12/teaching-online.html</guid>
+        <link>https://mchow01.github.io/education/2016/08/12/teaching-online.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/education/2016/08/12/teaching-online.html</guid>
         
         
         <category>education</category>
