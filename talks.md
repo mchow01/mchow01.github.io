@@ -80,9 +80,10 @@ Use of the Internet in Fraud Investigations
 * Greater Boston Chapter of the Association of Certified Fraud Examiners (ACFE), Boston, MA, September 21, 2007.
 
 ## Additional Media and Press
+* ["Failings in Cybersecurity Education: An Interview with Professor Ming Chow"](https://clutch.co/it-services/failings-cybersecurity-education-interview-professor-ming-chow){:target="_blank"}
 * ["Why version control is required for Comp 20 at Tufts University"](https://github.com/blog/2343-why-version-control-is-required-for-comp-20-at-tufts-university){:target="_blank"}
 * [https://tuftsdaily.com/news/2017/04/28/ming-chow-wins-award-for-outstanding-teaching/](https://tuftsdaily.com/news/2017/04/28/ming-chow-wins-award-for-outstanding-teaching/)
-* ["Why Security Isn’t Taught in Schools (And What We Can Do About It)"](https://codiscope.com/cybersecurity-not-taught-schools/){:target="_blank"}
+* ["Why Security Isn’t Taught in Schools (And What We Can Do About It)"](https://nationalcybersecurity.com/security-isnt-taught-schools-can/){:target="_blank"}
 * ["Most Top Computer Science Programs Skip Cybersecurity"](http://theinstitute.ieee.org/career-and-education/education/most-top-computer-science-programs-skip-cybersecurity){:target="_blank"}
 * ["Congress puts terrorism and tech in the spotlight"](http://money.cnn.com/2015/12/08/technology/encryption-congress-commission/){:target="_blank"}
 * [https://now.tufts.edu/articles/art-game-design](https://now.tufts.edu/articles/art-game-design){:target="_blank"}
