@@ -4,6 +4,8 @@ title: Talks
 permalink: /talks/
 ---
 
+[Why Git and GitHub?](/docs/sigcse2018.pdf) on _GitHub Panel GitHub: Real-World Tools, Engaged Students_. ACM SIGCSE 2018, Baltimore, MD, February 22, 2018.
+
 [The Hard Problems in Security (We Still Can't Get The Basics Right)](/docs/issa-20170802.pdf). ISSA New England Annual Sponsor Expo and Chapter Meeting
 , Verizon, Waltham, MA, August 2, 2017.
 

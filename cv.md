@@ -5,7 +5,6 @@ permalink: /cv/
 ---
 
 ## Areas of Interest
-* Web and Mobile Development
 * Web and Mobile Security
 
 ## Teaching Experience
@@ -27,20 +26,20 @@ permalink: /cv/
 
 #### Courses at Tufts University
 
+* Spring 2011, Spring 2012, Fall 2013, Fall 2014, Fall 2015, Fall 2016, Summer 2017 (online), Fall 2017, Spring 2018: _Introduction to Cyber Security_
+* Fall 2009, Fall 2010, Spring 2011, Summer 2011, Spring 2013, Spring 2014, Fall 2014, Spring 2015, Fall 2015, Spring 2016, Summer 2016 (Online), Fall 2016, Spring 2017, Summer 2017 (online), Fall 2017, Spring 2018: _Web Programming_
+	* Grew the course from 11 students in fall 2009 to 119 in spring 2013.
+* Fall 2014, Spring 2016, Spring 2018: _Mobile Medical Devices and Apps_
+	* First cross-listed with Department of Electrical and Computer Engineering in over a decade
 * Spring 2017: _Cyber Security and Cyber Warfare_
 	* Cross-listed with Department of Political Science
 * Spring 2010, Spring 2011, Fall 2011, Fall 2013, Spring 2015, Spring 2016, Spring 2017: _Web Engineering_
-* Fall 2009, Fall 2010, Spring 2011, Summer 2011, Spring 2013, Spring 2014, Fall 2014, Spring 2015, Fall 2015, Spring 2016, Summer 2016 (Online), Fall 2016, Spring 2017: _Web Programming_
-	* Grew the course from 11 students in fall 2009 to 119 in spring 2013.
-* Fall 2014, Spring 2016: _Mobile Medical Devices and Apps_
-	* Cross-listed with Department of Electrical and Computer Engineering
 * Fall 2012, Spring 2013, Fall 2013, Spring 2014: _Senior Capstone Project I and II_
 	* Formerly known as Software Engineering. Changed requirement from a one semester project experience to a one academic year project experience.
 	* Required for all undergraduate Computer Science majors through the School of Engineering.
 * Spring 2008, Spring 2009, Summer 2009, Spring 2010, Summer 2010, Fall 2010, Spring 2012, Spring 2014, Fall 2015: _Introduction to Game Development_
 	* Course was given an official course number in spring 2014.
 	* Named one of the nation's coolest engineering courses by the American Society for Engineering Education (ASEE) in 2011 (see [http://www.prism-magazine.org/summer11/feature_01.cfm](http://www.prism-magazine.org/summer11/feature_01.cfm){:target="_blank"})
-* Spring 2011, Spring 2012, Fall 2013, Fall 2014, Fall 2015: _Introduction to Computer Security_
 * Spring 2012, Spring 2013, Spring 2015: _Music Apps on the iPad_
 	*	Cross-listed with Department of Music
 * Fall 2011, Summer 2012, Fall 2012: _Data Structures_ (the second course in the Computer Science curriculum)
@@ -74,6 +73,7 @@ _Lecturer_
 	* Hosted a colloquium entitled "Building Privacy-Aware Applications" with guest speaker JC Cannon from Microsoft for the Tufts Department of Computer Science.
 
 ## Presentations and Publications
+* _Why Git and GitHub?_ on _GitHub Panel GitHub: Real-World Tools, Engaged Students_. ACM SIGCSE 2018, Baltimore, MD, February 22, 2018.
 * _Panel: Mentoring The Next Generation of Security Talent (with Sandy Carielli, Tim Ferguson, Laurene Hummer, and Daniel Nelson)_. SOURCE Conference Boston 2017, Marriott Tremont, Boston, MA, April 27, 2017.
 * _Panel: Breaking Into InfoSec (with Keith Hoodlet, Tracy Maleeff, and Justin Pagano)_. BSides Boston Security Conference, Harvard University Science Center, Cambridge, MA, April 15, 2017.
 * _Invited Talk: The Hard Problems in Security_. Rocket Build 2016, InterContinental Hotel, Boston, MA, November 30, 2016.
