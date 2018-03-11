@@ -9,13 +9,14 @@ permalink: /cv/
 
 ## Teaching Experience
 
-**Tufts University Department of Computer Science, Medford, MA 02155**
+**Tufts University, Medford, MA 02155**
 
-* _Senior Lecturer, September 2015 to present_
+* _International Relations Program Core Faculty Member, September 2017 to present_
+* _Senior Lecturer, Department of Computer Science, September 2015 to present_
 * _Lecturer, September 2009 to August 2015_
 
 * Awarded the 2017 Lerman-Neubauer Prize for Outstanding Teaching and Advising, awarded annually to a faculty member of Arts and Sciences or of Engineering who has had a profound intellectual impact on his or her students, both inside and outside the classroom.
-* Mentored Winnona DeSombre's paper "Getting Harder to Catch: Analyzing the Evolution of China’s Cyber Espionage Campaigns against the United States through a Case Study of APT1" that was published in _2017 Journal of International Relations_ by the National Office of Sigma Iota Rho (SIR), the International Relations Honor Society.
+* Mentored Winnona DeSombre's paper "Getting Harder to Catch: Analyzing the Evolution of China’s Cyber Espionage Campaigns against the United States through a Case Study of APT1" that was published in _2017 Journal of International Relations_ by the National Office of Sigma Iota Rho (SIR), the International Relations Honor Society. Poster presented at 2017 Women in Cyber Security (WiCyS) Conference in Chicago, IL.
 * Mentored Tufts semi-finalist team in the 2017 Atlantic Council Cyber 9/12 Student Competition (Kieran Green, Alice Lee, Maretta Morovitz, Winnona DeSombre).
 * Awarded the 2016 Henry and Madeline Fischer Award, awarded annually to a faculty member of the School of Engineering judged by graduating seniors of the School of Engineering to be "Engineering's Teacher of the Year."
 * Awarded the 2016 Tufts Teaching with Technology Award
@@ -169,6 +170,14 @@ _Summer Intern for the Lycos Quality Assurance Team, Summer 1999_
 * Compared the website against competing sites on usability, layout and design, and consistency of information.
 * Designed test plans for Lycos' gaming portal and safe search engine.
 
+## Professional Activities
+
+**BSides Las Vegas Security Conference Proving Ground Track Mentor**
+* 2017: Nitha Suresh
+* 2016: Filip Reesalu
+* 2015: Lokesh Pidawekar
+* 2014: Caroline Hardin
+
 ## Skills
 
 * _Languages_: C, C++, C#, Go, HTML5, Java, JavaScript, Objective-C, PHP, Perl, Python, Ruby, Swift
@@ -185,4 +194,3 @@ _Summer Intern for the Lycos Quality Assurance Team, Summer 1999_
 
 * Bachelor of Science in Computer Science, 2002, Cum Laude
 * Double-Majored in Computer Science and Mathematics
-

@@ -6,6 +6,10 @@ permalink: /talks/
 
 [Why Git and GitHub?](/docs/sigcse2018.pdf) on _GitHub Panel GitHub: Real-World Tools, Engaged Students_. ACM SIGCSE 2018, Baltimore, MD, February 22, 2018.
 
+[Poster: COMP 50 / PS 188 Cyber Security and Cyber Warfare Course](/docs/comp50ps18802-s2017-poster.pdf)
+* Accepted and presented at New England Security Day (NESD '17), Northeastern University, Boston, MA, September 29, 2017.
+* Presented at Tufts Innovates Poster Session, Tufts University Wide Teaching Conference, Boston, MA, May 23, 2017.
+
 [The Hard Problems in Security (We Still Can't Get The Basics Right)](/docs/issa-20170802.pdf). ISSA New England Annual Sponsor Expo and Chapter Meeting
 , Verizon, Waltham, MA, August 2, 2017.
 
