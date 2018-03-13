@@ -73,6 +73,14 @@ Perhaps the only statement that is missing from the above posting is:
 
 ![Hall of Shame Job Posting](/images/hos_016a.jpg)
 
+### Thanks to @ronindey for keeping this hall of shame alive!
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">HR: We are looking for Junior SOC with experience in IDS/ IPS, vulnerability detection, hands on malware analysis, reverse engineering, kernel patching, routing and switching (EIGRP/BGP) and sales experience [CISSP appreciated]<br><br>Me: I am searching for gluten free artisanal water</p>&mdash; DEY! (@ronindey) <a href="https://twitter.com/ronindey/status/972984798938624000?ref_src=twsrc%5Etfw">March 11, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Someone sent me this in DM.<br><br>(I think the only thing that recruiter didn&#39;t ask was &quot;Virginity check&quot; before being offered to SATAN) <a href="https://t.co/6Urvk4LQcr">pic.twitter.com/6Urvk4LQcr</a></p>&mdash; DEY! (@ronindey) <a href="https://twitter.com/ronindey/status/973294188308697089?ref_src=twsrc%5Etfw">March 12, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 ### Mother of God! We save the best for last as we hit the jackpot with this one. "Three years as a developer plus 5 years at least in all the other domains. In total ~55 years experience for the optimum candidate." (thanks to @sprkyco for this gem)
 
 ![Hall of Shame Job Posting](/images/hos_010.jpg)
