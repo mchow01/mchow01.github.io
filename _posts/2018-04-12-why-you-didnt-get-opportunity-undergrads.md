@@ -9,7 +9,7 @@ Having worked with a significant number of undergrad and grad students on their 
 
 <p>1. Your resume was not written well.</p>
 
-<p>2. You started your job search too late (most companies now start in the fall, and are all set by the end of fall).  See [The Best Thing To Do In Early Summer for Undergraduates: Prepare For Opportunities Next Summer.](/career/2017/06/21/prepare-for-next-summer.html)</p>
+<p>2. You started your job search too late (most companies now start in the fall, and are all set by the end of fall).  See <a href="/career/2017/06/21/prepare-for-next-summer.html">The Best Thing To Do In Early Summer for Undergraduates: Prepare For Opportunities Next Summer.</a></p>
 
 <p>3. You blindly applied to everything instead of making an effort to go out and network with a company that is one you know you would legitimately enjoy working with, and demonstrate to them that you're worth hiring.</p>
 
@@ -21,7 +21,7 @@ Having worked with a significant number of undergrad and grad students on their 
 
 <p>7. You have little to no real working experience to show for.</p>
 
-<p>8. You have little to no real tangible projects to show for. See [Understanding Why Side Projects Are Looked At So Highly in Tech.](/tech/career/education/2017/01/15/the-importance-of-side-projects.html)</p>
+<p>8. You have little to no real tangible projects to show for. See <a href="/tech/career/education/2017/01/15/the-importance-of-side-projects.html">Understanding Why Side Projects Are Looked At So Highly in Tech.</a></p>
 
 <p>9. Something came across poorly in your interview including personality, body language, didn't answer the questions, dress attire, gave canned answers, didn't ask good questions, seemed dishonest, showed up too early or too late.  More:</p>
 
