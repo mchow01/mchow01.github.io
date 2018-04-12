@@ -45,4 +45,4 @@ Having worked with a significant number of undergrad and grad students on their 
 
 Last but not least, the worst thing you did: you gave up.
 
-<sup>Special acknowledgements to Mark Bouchard, Robin Kahan, and Winnona DeSombre as the words were taken from them directly.</sup>
+<sup>Special acknowledgements to Mark Bouchard, Robin Kahan, and Winnona DeSombre as some of the words were taken from them directly.</sup>
