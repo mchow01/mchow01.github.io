@@ -23,7 +23,13 @@ Having worked with a significant number of undergrad and grad students on their 
 
 8. You have little to no real tangible projects to show for. See [Understanding Why Side Projects Are Looked At So Highly in Tech.](/tech/career/education/2017/01/15/the-importance-of-side-projects.html)
 
-9. Something came across poorly in your interview including personality, body language, didn't answer the questions, dress attire, gave canned answers, didn't ask good questions, seemed dishonest, showed up too early or too late.
+9. Something came across poorly in your interview including personality, body language, didn't answer the questions, dress attire, gave canned answers, didn't ask good questions, seemed dishonest, showed up too early or too late.  More:
+
+* You came across as privileged or arrogant or overconfident; on the other side of that coin too timid or unconfident.
+* You were unable to articulate what you want to do (sounding like you would take anything, anywhere is a bad strategy).
+* You didn't do a good job of researching the organization and/or could not articulate why you wanted to work at that particular company.
+* You couldn't demonstrate what you would bring to the party that would be relevant to the position.
+* You plan to only stay at an organization for less than a few years and you told them that.
 
 10. You need more experience working on teams, learning how you can thrive in that environment.
 
@@ -38,3 +44,5 @@ Having worked with a significant number of undergrad and grad students on their 
 15. You asked for too much or seemed too needy.
 
 Last but not least, the worst thing you did: you gave up.
+
+<sup>Special acknowledgements to Mark Bouchard, Robin Kahan, and Winnona DeSombre as the words were taken from them directly.</sup>
