@@ -85,6 +85,10 @@ Perhaps the only statement that is missing from the above posting is:
 
 ![Hall of Shame Job Posting](/images/hos_010.jpg)
 
+### (UPDATED ON MAY 24, 2018) And I thought the above was bad.  "EVEN THOUGH THIS IS AN ENTRY-LEVEL POSITION, WE STILL REQUIRE ALL APPLICANTS HAVE AT LEAST 4 TO 5 YEARS EXPERIENCE IN A ROLE WITH SIMILAR RESPONSIBILITIES" $9.50 an hour!  This job was confirmed on Reddit: [https://www.reddit.com/r/networking/comments/4jemke/new_job_get_it_while_its_hot/](https://www.reddit.com/r/networking/comments/4jemke/new_job_get_it_while_its_hot/). Screenshots of the job posting in higher resolution: [https://imgur.com/a/D7qVm](https://imgur.com/a/D7qVm).  Credit to [@J0hnnyXm4s](https://twitter.com/J0hnnyXm4s/status/999653774238117889) for the find.
+
+![Hall of Shame Job Posting](/images/hos_017.jpg)
+
 # Addendum
 
 My friend Rob Graham wrote this:
