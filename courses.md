@@ -6,19 +6,19 @@ permalink: /courses/
 
 ### Spring 2018
 * [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
-	* Enrollment (number of students): ?
-	* Overall Course Rating (of ? responses): ? / 5.0 [question 5]
-	* Overall Performance of Instructor (of ? responses):  / 5.0 [question 15]
+	* Enrollment (number of students): 80
+	* Overall Course Rating (of 72 responses): 4.32 / 5.0 [question 5]
+	* Overall Performance of Instructor (of 72 responses): 4.47 / 5.0 [question 15]
 
 * [COMP 116: Introduction to Computer Security](http://www.cs.tufts.edu/comp/116/){:target="_blank"}
-	* Enrollment (number of students): ?
-	* Overall Course Rating (of ? responses): ? / 5.0 [question 5]
-	* Overall Performance of Instructor (of ? responses):  / 5.0 [question 15]
+	* Enrollment (number of students): 79
+	* Overall Course Rating (of 63 responses): 4.43 / 5.0 [question 5]
+	* Overall Performance of Instructor (of 63 responses): 4.56 / 5.0 [question 15]
 	
-* [COMP 150-MOB: Mobile Development](http://www.cs.tufts.edu/comp/150MOB/){:target="_blank"}
-	* Enrollment (number of students): ?
-	* Overall Course Rating (of ? responses): ? / 5.0 [question 5]
-	* Overall Performance of Instructor (of ? responses):  / 5.0 [question 15]
+* COMP 150-MMD: Mobile Medical Devices &amp; Apps (cross-listed with Electrical Engineering)
+	* Enrollment (number of students): 18
+	* Overall Course Rating (of 10 responses): 4.20 / 5.0 [question 5]
+	* Overall Performance of Instructor (of 10 responses): 3.50 / 5.0 [question 15]
 
 ### Fall 2017
 * [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
@@ -127,7 +127,7 @@ permalink: /courses/
 	* Overall Course Rating (of 25 responses): 4.20 / 5.0
 	* Overall Performance of Instructor (of 25 responses): 4.44 / 5.0
 
-* COMP 150-MMD: Mobile Medical Devices (cross-listed with Electrical Engineering)
+* COMP 150-MMD: Mobile Medical Devices &amp; Apps (cross-listed with Electrical Engineering)
 	* Enrollment (number of students): 20
 	* Overall Course Rating (of 4 responses): 4.25 / 5.0
 	* Overall Performance of Instructor (of 4 responses): 4.25 / 5.0
