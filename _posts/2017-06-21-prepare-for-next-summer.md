@@ -23,10 +23,10 @@ If you currently do not have an internship, early summer is the perfect time to 
 
 <p>1. <strong>Go to meetups and networking events (this also include conferences).</strong>  The warm weather makes way for more events.  The importance of networking events:</p>
 
-* You meet people who could be your future employer.
+* You meet people who could be your future employer or mentor.
 * You meet people who are like you and perhaps in the same situation as you are.
 * You meet people in the field you are interested in getting into and what the community is like.
-* You can listen to similar or different perspectives and ideas. For example, if you have an idea for a side project, someone may tell you the pitfalls or proceeding with the idea.
+* You can listen to similar or different perspectives and ideas. For example, if you have an idea for a project, someone may tell you the pitfalls or proceeding with the idea.
 * You have the opportunity learn something.
 
 (Side note: If you want to get into Cyber Security, there is the [trio of infamous conferences in Las Vegas a.k.a., summer security camp](/security/2015/07/19/security-summer-camp.html).)
