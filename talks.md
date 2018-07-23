@@ -4,6 +4,8 @@ title: Talks
 permalink: /talks/
 ---
 
+[Lessons from an Undergraduate Course in Cybersecurity and Cyber Warfare - Is Our Children Securing?](/docs/hope2018.pdf) Presented with Matt Weinberg. Circle of HOPE, Hotel Pennsylvania, New York, NY, July 21, 2018.
+
 [Why Git and GitHub?](/docs/sigcse2018.pdf) on _GitHub Panel GitHub: Real-World Tools, Engaged Students_. ACM SIGCSE 2018, Baltimore, MD, February 22, 2018.
 
 [Poster: COMP 50 / PS 188 Cyber Security and Cyber Warfare Course](/docs/comp50ps18802-s2017-poster.pdf)
@@ -21,7 +23,7 @@ Panel: Breaking Into InfoSec (with Keith Hoodlet, Tracy Maleeff, and Justin Paga
 
 [The Hard Problems in Security](/docs/hackathon-20161130.pdf). Rocket Build 2016, InterContinental Hotel, Boston, MA, November 30, 2016.
 
-The Cyber Security Education Gap - What Do We Do Now?
+The Cyber Security Education Gap - What Do We Do Now? (Presented with Roy Wattanasin)
 
 * [Advanced Cyber Security Center (ACSC) Cyber Tuesday Meeting](/docs/acsc-20161116.pdf), Federal Reserve Bank, Boston, MA, November 15, 2016.
 * 2016 ISSA International Conference, Hyatt Regency Dallas, Dallas, TX, November 1, 2016. (declined)

@@ -74,11 +74,12 @@ _Lecturer_
 	* Hosted a colloquium entitled "Building Privacy-Aware Applications" with guest speaker JC Cannon from Microsoft for the Tufts Department of Computer Science.
 
 ## Presentations and Publications
+* _Lessons from an Undergraduate Course in Cybersecurity and Cyber Warfare - Is Our Children Securing?_ Presented with Matt Weinberg. Circle of HOPE, Hotel Pennsylvania, New York, NY, July 21, 2018.
 * _Why Git and GitHub?_ on _GitHub Panel GitHub: Real-World Tools, Engaged Students_. ACM SIGCSE 2018, Baltimore, MD, February 22, 2018.
 * _Panel: Mentoring The Next Generation of Security Talent (with Sandy Carielli, Tim Ferguson, Laurene Hummer, and Daniel Nelson)_. SOURCE Conference Boston 2017, Marriott Tremont, Boston, MA, April 27, 2017.
 * _Panel: Breaking Into InfoSec (with Keith Hoodlet, Tracy Maleeff, and Justin Pagano)_. BSides Boston Security Conference, Harvard University Science Center, Cambridge, MA, April 15, 2017.
 * _Invited Talk: The Hard Problems in Security_. Rocket Build 2016, InterContinental Hotel, Boston, MA, November 30, 2016.
-* _Computer Science Curricula's Failure - What Can We Do Now?_
+* _Computer Science Curricula's Failure - What Can We Do Now?_ (Presented with Roy Wattanasin)
   * 2016 ISSA International Conference, Hyatt Regency Dallas, Dallas, TX, November 1, 2016. (declined)
   * The Eleventh HOPE, Hotel Pennsylvania, New York, NY, July 23, 2016.
   * SOURCE Conference Boston 2016, Marriott Tremont, Boston, MA, May 18, 2016.
