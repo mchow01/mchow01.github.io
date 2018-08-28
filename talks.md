@@ -6,6 +6,8 @@ permalink: /talks/
 
 [Lessons from an Undergraduate Course in Cybersecurity and Cyber Warfare - Is Our Children Securing?](/docs/hope2018.pdf) Presented with Matt Weinberg. Circle of HOPE, Hotel Pennsylvania, New York, NY, July 21, 2018.
 
+<iframe id="ls_embed_1535422832" src="https://livestream.com/accounts/9198012/events/8286155/videos/178448367/player?width=640&height=360&enableInfo=true&defaultDrawer=&autoPlay=false&mute=false" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen> </iframe>
+
 [Why Git and GitHub?](/docs/sigcse2018.pdf) on _GitHub Panel GitHub: Real-World Tools, Engaged Students_. ACM SIGCSE 2018, Baltimore, MD, February 22, 2018.
 
 [Poster: COMP 50 / PS 188 Cyber Security and Cyber Warfare Course](/docs/comp50ps18802-s2017-poster.pdf)
