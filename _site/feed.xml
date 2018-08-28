@@ -4,11 +4,49 @@
     <title>Ming Y. Chow</title>
     <description>Ming Chow's website
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 27 Aug 2018 22:22:07 -0400</pubDate>
-    <lastBuildDate>Mon, 27 Aug 2018 22:22:07 -0400</lastBuildDate>
+    <link>https://mchow01.github.io/</link>
+    <atom:link href="https://mchow01.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 28 Aug 2018 01:48:30 -0400</pubDate>
+    <lastBuildDate>Tue, 28 Aug 2018 01:48:30 -0400</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
+    
+      <item>
+        <title>Sobering Career Fair Advice From the Perspective of an Employer</title>
+        <description>&lt;p&gt;Most colleges and universities will have a fall career fair in either September or October.  This is the more important career fair compared to the spring as &lt;a href=&quot;/career/2017/06/21/prepare-for-next-summer.html&quot;&gt;many companies / institutions and recruiters are now focusing on the fall career fair and are not going to the spring career fair.&lt;/a&gt;  Having visited all career fairs at Tufts since I became a full-time faculty member in 2010 to say hello to old friends, having many former students and friends working at career fairs, having worked at career fairs, and now having a brother working at his alma mater’s career fair, most students do career fairs wrong.  I’ve been wanting to write a sobering career fair piece for a while.  If I had to give a few pieces of sobering advice from the &lt;em&gt;perspective of an employer&lt;/em&gt;, here are the common mistakes I see year in and year out.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;You didn’t do any basic preparation.  First things first, read the career fair prep guide put out by your school.  Examples: &lt;a href=&quot;https://students.tufts.edu/sites/default/files/CareerFairTips.pdf&quot;&gt;Tufts University&lt;/a&gt;, &lt;a href=&quot;https://www.careereducation.columbia.edu/resources/career-fair-faqs&quot;&gt;Columbia University&lt;/a&gt;, &lt;a href=&quot;https://www.cmu.edu/career/students_and_alumni/prepare_for_a_career_fair/index.html&quot;&gt;Carnegie Mellon&lt;/a&gt;, &lt;a href=&quot;https://www.unh.edu/career/preparation&quot;&gt;University of New Hampshire&lt;/a&gt;.  The content in the guides are similar but if you do not make eye contact or if you bring a drink, you failed the basics which are listed in almost all guides.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You didn’t do any basic research on my company or institution.  You’re asking me “what does your company do?” or “do you have any jobs for me?”  –really?  You just wasted my time, and I will mark a “NO” on your resume.  For the love of God, do some basic research on the companies you are interested in meeting at career fair.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You didn’t leave a lasting impression to make me call you back for an interview.  More specifically: you didn’t tell my why you are interested in working at my company.  You didn’t tell me about your skillset and what you want to work on.  We didn’t have a good conversation.  I didn’t sense a match or fit.  This is a lot to ask for but at the end of a long and exhausting career fair, I will have met many people –so how do you stand out?  That’s why a one minute (max) pitch to potential employer(s) is critical to prepare for.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You just stood there or stood there with your friends.  Multiple problems here.  No job is given to you.  No company or institution will be dragging you to talk.  &lt;em&gt;You have to make the first move.&lt;/em&gt;  If you are with your friends, it is overwhelming for me to talk to multiple people at once.  It also tells me you are not serious about &lt;em&gt;your own&lt;/em&gt; career.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You rambled on-and-on about yourself.  You are inconsiderate of other people’s time as there can be a long line of people waiting to talk to me.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You dressed inappropriately.  Hey Chris, remember that student who wore a Playboy bunny pin on his suit at the BU Career Fair years ago?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Career fairs at colleges and universities are still important despite high signal-to-noise ratio of people visiting tables of employers.  As an employer, I need to fill needs for a company / institution.  It is important for you to tell me what you want and how we can combine your want with my needs.  If I am an alum of the school, it is a opportunity for me to maintain a relationship with the school and to see how much the school has progressed.  It is also no secret most people like to hire people from their alma mater.  Therefore, a career fair for the students is not only an event to seek job opportunities but also to represent the school well.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 27 Aug 2018 21:30:00 -0400</pubDate>
+        <link>https://mchow01.github.io/education/career/2018/08/27/sobering-career-fair-advice.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/education/career/2018/08/27/sobering-career-fair-advice.html</guid>
+        
+        
+        <category>education</category>
+        
+        <category>career</category>
+        
+      </item>
     
       <item>
         <title>Why You Didn't Get The Job or Opportunity (For College Students)</title>
@@ -57,8 +95,8 @@
 &lt;p&gt;&lt;sup&gt;Special acknowledgements to Mark Bouchard, Robin Kahan, and Winnona DeSombre as some of the items were taken from them, word-for-word.&lt;/sup&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 11 Apr 2018 21:00:00 -0400</pubDate>
-        <link>http://localhost:4000/education/career/2018/04/11/why-you-didnt-get-opportunity-undergrads.html</link>
-        <guid isPermaLink="true">http://localhost:4000/education/career/2018/04/11/why-you-didnt-get-opportunity-undergrads.html</guid>
+        <link>https://mchow01.github.io/education/career/2018/04/11/why-you-didnt-get-opportunity-undergrads.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/education/career/2018/04/11/why-you-didnt-get-opportunity-undergrads.html</guid>
         
         
         <category>education</category>
@@ -155,8 +193,8 @@ teddyduke:Yj-4@!k
 &lt;p&gt;Looking at password cracking contest from previous years was very very smart!&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Apr 2018 20:15:00 -0400</pubDate>
-        <link>http://localhost:4000/education/security/2018/04/01/password-cracking.html</link>
-        <guid isPermaLink="true">http://localhost:4000/education/security/2018/04/01/password-cracking.html</guid>
+        <link>https://mchow01.github.io/education/security/2018/04/01/password-cracking.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/education/security/2018/04/01/password-cracking.html</guid>
         
         
         <category>education</category>
@@ -298,8 +336,8 @@ $6$eqnUKgsJ$2AdWNgZO3k1EVtU9Q348kipdc9GJ9Q35MtRKKgNjW5fduiNzbnCjqJAo9UBUjgxRtZwX
 &lt;/blockquote&gt;
 </description>
         <pubDate>Fri, 03 Nov 2017 22:30:00 -0400</pubDate>
-        <link>http://localhost:4000/education/security/2017/11/03/password-cracking.html</link>
-        <guid isPermaLink="true">http://localhost:4000/education/security/2017/11/03/password-cracking.html</guid>
+        <link>https://mchow01.github.io/education/security/2017/11/03/password-cracking.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/education/security/2017/11/03/password-cracking.html</guid>
         
         
         <category>education</category>
@@ -365,8 +403,8 @@ $6$eqnUKgsJ$2AdWNgZO3k1EVtU9Q348kipdc9GJ9Q35MtRKKgNjW5fduiNzbnCjqJAo9UBUjgxRtZwX
 &lt;p&gt;&lt;em&gt;“Communicating your ideas is very important to work in a team.”&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 16 Aug 2017 16:30:00 -0400</pubDate>
-        <link>http://localhost:4000/career/2017/08/16/summer-internship-reports.html</link>
-        <guid isPermaLink="true">http://localhost:4000/career/2017/08/16/summer-internship-reports.html</guid>
+        <link>https://mchow01.github.io/career/2017/08/16/summer-internship-reports.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/career/2017/08/16/summer-internship-reports.html</guid>
         
         
         <category>career</category>
@@ -467,8 +505,8 @@ $6$eqnUKgsJ$2AdWNgZO3k1EVtU9Q348kipdc9GJ9Q35MtRKKgNjW5fduiNzbnCjqJAo9UBUjgxRtZwX
 &lt;p&gt;While there is truth in what Rob wrote, the problem is when recruiters spam the same job description everywhere (e.g., on LinkedIn) which wastes everyone’s time.&lt;/p&gt;
 </description>
         <pubDate>Tue, 15 Aug 2017 21:00:00 -0400</pubDate>
-        <link>http://localhost:4000/career/2017/08/15/hall-of-shame-job-postings-recruiting.html</link>
-        <guid isPermaLink="true">http://localhost:4000/career/2017/08/15/hall-of-shame-job-postings-recruiting.html</guid>
+        <link>https://mchow01.github.io/career/2017/08/15/hall-of-shame-job-postings-recruiting.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/career/2017/08/15/hall-of-shame-job-postings-recruiting.html</guid>
         
         
         <category>career</category>
@@ -546,8 +584,8 @@ teddybear:K-(*4@
 &lt;/pre&gt;
 </description>
         <pubDate>Mon, 14 Aug 2017 21:00:00 -0400</pubDate>
-        <link>http://localhost:4000/education/security/2017/08/14/password-cracking.html</link>
-        <guid isPermaLink="true">http://localhost:4000/education/security/2017/08/14/password-cracking.html</guid>
+        <link>https://mchow01.github.io/education/security/2017/08/14/password-cracking.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/education/security/2017/08/14/password-cracking.html</guid>
         
         
         <category>education</category>
@@ -597,8 +635,8 @@ teddybear:K-(*4@
 &lt;p&gt;Whether you currently have an opportunity or not, the moral of the story is &lt;em&gt;the early bird catches the worm&lt;/em&gt;.  Not understanding that timeless advice and you will be behind the eight ball after graduation –if it isn’t bad enough already due to student loan debt.&lt;/p&gt;
 </description>
         <pubDate>Wed, 21 Jun 2017 16:00:00 -0400</pubDate>
-        <link>http://localhost:4000/career/2017/06/21/prepare-for-next-summer.html</link>
-        <guid isPermaLink="true">http://localhost:4000/career/2017/06/21/prepare-for-next-summer.html</guid>
+        <link>https://mchow01.github.io/career/2017/06/21/prepare-for-next-summer.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/career/2017/06/21/prepare-for-next-summer.html</guid>
         
         
         <category>career</category>
@@ -644,8 +682,8 @@ teddybear:K-(*4@
 &lt;p&gt;P.P.S., You may be wondering why I am posting this publicly.  The reason: it is absolutely necessary to communicate to our students that we were not the ones responsible for this decision.&lt;/p&gt;
 </description>
         <pubDate>Thu, 08 Jun 2017 11:00:00 -0400</pubDate>
-        <link>http://localhost:4000/education/2017/06/08/to-tufts-cs.html</link>
-        <guid isPermaLink="true">http://localhost:4000/education/2017/06/08/to-tufts-cs.html</guid>
+        <link>https://mchow01.github.io/education/2017/06/08/to-tufts-cs.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/education/2017/06/08/to-tufts-cs.html</guid>
         
         
         <category>education</category>
@@ -775,8 +813,8 @@ teddybear:K-(*4@
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=GTt3qvdTexM&quot;&gt;The same message from BSides Boston 2014: security is a lifestyle.&lt;/a&gt;  In other words, you have to be passionate.  Too many people are in it for the parties and money.&lt;/p&gt;
 </description>
         <pubDate>Sun, 16 Apr 2017 19:00:00 -0400</pubDate>
-        <link>http://localhost:4000/tech/career/education/security/2017/04/16/breaking-into-infosec.html</link>
-        <guid isPermaLink="true">http://localhost:4000/tech/career/education/security/2017/04/16/breaking-into-infosec.html</guid>
+        <link>https://mchow01.github.io/tech/career/education/security/2017/04/16/breaking-into-infosec.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/tech/career/education/security/2017/04/16/breaking-into-infosec.html</guid>
         
         
         <category>tech</category>
@@ -786,56 +824,6 @@ teddybear:K-(*4@
         <category>education</category>
         
         <category>security</category>
-        
-      </item>
-    
-      <item>
-        <title>Understanding Why Side Projects Are Looked At So Highly in Tech</title>
-        <description>&lt;p&gt;It is no secret that tech companies place high value on side or non-classroom projects when making hiring decisions.  Most of the top companies including Google &lt;sup&gt;&lt;a href=&quot;#ref1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; and Facebook &lt;sup&gt;&lt;a href=&quot;#ref2&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; will not even consider you if you do not show any side projects.  Many students have asked me why side projects are so highly valued by tech companies for internships and full-time opportunities in tech.  Let’s delve into understanding the importance of side projects for tech opportunities.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Interviews can only go so far.&lt;/strong&gt;  Interviews can reveal your competency in a subject area, but they do not reveal your natural interest in building stuff, ability to learn quickly, or ability to work on something for a long time.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Having a side project will open up a deeper and engaging conversation.&lt;/strong&gt;  Peeking at examples of code someone has written and shared reveals a lot.  A question I always ask candidates is something along the lines of: “tell me about a project that you have worked on” &lt;sup&gt;&lt;a href=&quot;#ref3&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;.  This is where I can assess candidate’s ability to analyze costs and trade-offs, remark about programming style, passion, personality, and even assess writing abilities.  A fantastic outcome of such conversation is if both the candidate and I learn something from each other.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Side projects demonstrate your ability to build, your ability to apply what you have learned overall (e.g., in a Computer Science curriculum), and that you actually know how to program. [A bonus is if someone can build something completely with documentation, tests, bugfixes, etc.]&lt;/strong&gt;  Especially for software engineering roles, companies look for builders, hackers, the hands-on and creative types.  The building, hacking, creative, and hands-on skills are generally not reflected in the classroom setting.  Students have been trained all their life to do homework assignments, take tests, and perhaps aim to get top grades for classes.  The aim of homework assignments is to apply recent concepts learned and most assignments are one-offs.  Tests, quizzes, and certifications almost never show anything about a person’s hands-on abilities.  This cycle does not reflect how the real world works.  For most, there are not enough opportunities in the academic setting to put-it-all-together.  Sadly, the result is many students graduate with a Computer Science degree but do not feel they know how to program as evident by &lt;a href=&quot;http://softwareengineering.stackexchange.com/questions/43528/im-graduating-with-a-computer-science-degree-but-i-dont-feel-like-i-know-how-t/&quot;&gt;this sobering discussion on StackExchange&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Side projects demonstrate your ability to learn on your own and dabble with new tools and technologies.&lt;/strong&gt;  Compared to when I was a Computer Science student in the Dot-com days, there is now a plethora of JavaScript and web frameworks, Machine Learning packages, security tools, microcontrollers, databases, integrated development environments (IDEs), and the list goes on.  The barrier and cost of entry for the technologies are very low.  There is a massive collection of resources (e.g., documentation, examples, courseware) available on the Internet.  There are even communities (e.g., meet-ups) and conferences for special interest and topics.  What is certain: (1) there will be more technologies and frameworks released in the future, and (2) you will be asked to work on something using technologies you are not familiar with.  It is very difficult to keep up with the pace of technology and innovation.  The technology or framework that you are using today may be obsolete tomorrow.  You need to demonstrate your value and your ability to adapt quickly.  I didn’t take a course in web development when I was an undergraduate, and I didn’t take a course in mobile development (it didn’t even exist): I had to learn them on the job and on my spare time back in-the-days.  This is especially important if you want to delve into security: most college and certification courses do not “provide all of the skills and practical experience needed to become a desirable candidate for an entry level position” &lt;sup&gt;&lt;a href=&quot;#ref4&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; and I wholeheartedly agree with Lesley Carhart on this.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Side projects demonstrate drive, passion, self-motivation, and the ability to work on unstructured problems.&lt;/strong&gt;  This is the complete the opposite of assignments in an academic setting: the problem is defined (sometimes too defined), the answer(s) are known in advance.  This is a reason why classroom projects listed on a résumé hold little to no weight.  I’ve been appalled by how students are generally uncomfortable with working on unstructured and open-ended problems. The problem becomes glaring during students’ first internships as I constantly see comments in Curricular Practical Training (CPT) reports such as “I wish my supervisors had described the overall structure in a little more detail” or “I was simply freaking out with the fact that I did not have an assignment with a roadmap.” My response is always: “welcome to reality.”  The professional world “is unstructured, with competing priorities and decisions that need to be made on the fly. College is very task-based: take an exam, finish a paper, attend a club meeting, go to practice. The workplace is more of a mash-up of activities with no scheduled end.” &lt;sup&gt;&lt;a href=&quot;#ref5&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Side projects help build your track record and portfolio.&lt;/strong&gt;  There is a number of people who started coding or programming very recently because of the push and many initiatives to learn programming including bootcamps, &lt;a href=&quot;https://www.whitehouse.gov/blog/2016/01/30/computer-science-all&quot;&gt;White House’s Computer Science For All&lt;/a&gt;.  One of the worst-kept secrets in the last few years is the number of students who are majoring in Computer Science because that’s “where the money and opportunities are” or because “mommy and daddy told me to major in Computer Science because that’s where the money and opportunities are.”  Alas, this is a major reason for the exploding demand in Computer Science education.  You will not and cannot learn everything in classroom, it is impossible.  Just doing the bare minimum coursework is not enough to get you opportunities.  Experience and track record are paramount for any opportunity from first full-time opportunity out of college to senior-level position.  &lt;em&gt;How can people trust you and your work when you have little or nothing to show for?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;If you do not want to put in the effort to go the extra mile, &lt;em&gt;someone else already has and that person ate your lunch&lt;/em&gt;.  The amount of available tools, technologies, and frameworks now is massive and accessible.  A few years ago over lunch, my friend &lt;a href=&quot;https://twitter.com/jeffseibert&quot;&gt;Jeff Seibert&lt;/a&gt; said two words that still resonates: &lt;em&gt;no excuse&lt;/em&gt; –there is absolutely no excuse to not take advantage of the opportunities, tools, technologies, and resources that are available and accessible.  While it is impossible to learn everything that is available, there is absolutely no excuse to not learn something.&lt;/p&gt;
-
-&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a name=&quot;ref1&quot; href=&quot;https://www.linkedin.com/pulse/20140504203720-173889783-how-to-increase-your-chances-of-getting-an-internship-at-google&quot;&gt;How to Increase Your Chances of Getting an Internship at Google (LinkedIn)&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a name=&quot;ref2&quot; href=&quot;http://www.businessinsider.com/what-is-it-like-to-intern-at-facebook-2016-8/#so-what-does-facebook-look-for-in-its-interns-11&quot;&gt;Here’s what it’s really like to be an intern at Facebook (Business Insider)&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a name=&quot;ref3&quot; href=&quot;https://www.linkedin.com/pulse/preparing-technical-interview-ming-chow&quot;&gt;Preparing For A Technical Interview (LinkedIn)&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a name=&quot;ref4&quot; href=&quot;https://tisiphone.net/2016/02/10/starting-an-infosec-career-the-megamix-chapter-6/&quot;&gt;Starting an InfoSec Career – The Megamix – Chapter 6 (hacks4pancakes)&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a name=&quot;ref5&quot; href=&quot;https://www.washingtonpost.com/news/grade-point/wp/2015/10/15/many-colleges-are-failing-to-prepare-students-for-their-working-lives/&quot;&gt;Many colleges are failing to prepare students for their working lives (Washington Post)&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Sun, 15 Jan 2017 20:00:00 -0500</pubDate>
-        <link>http://localhost:4000/tech/career/education/2017/01/15/the-importance-of-side-projects.html</link>
-        <guid isPermaLink="true">http://localhost:4000/tech/career/education/2017/01/15/the-importance-of-side-projects.html</guid>
-        
-        
-        <category>tech</category>
-        
-        <category>career</category>
-        
-        <category>education</category>
         
       </item>
     
