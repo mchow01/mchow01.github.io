@@ -4,11 +4,51 @@
     <title>Ming Y. Chow</title>
     <description>Ming Chow's website
 </description>
-    <link>https://mchow01.github.io/</link>
-    <atom:link href="https://mchow01.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Aug 2018 01:48:30 -0400</pubDate>
-    <lastBuildDate>Tue, 28 Aug 2018 01:48:30 -0400</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 04 Sep 2018 22:54:32 -0400</pubDate>
+    <lastBuildDate>Tue, 04 Sep 2018 22:54:32 -0400</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
+    
+      <item>
+        <title>Preparing For A Technical Interview</title>
+        <description>&lt;p&gt;&lt;em&gt;[Originally written on July 14, 2015 on LinkedIn but now all articles on LinkedIn are closed to the public]&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I review countless résumés and give many mock job interviews a year: to students, to people in their 40s and 50s.  I really enjoy doing them.  People really appreciate them.  I naturally enjoy mentoring and coaching.  It is no surprise that those I mentor and coach land great opportunities.  In September and October (as that is the busy college recruiting time), I am frequently asked: “how do I prepare for a technical interview?”&lt;/p&gt;
+
+&lt;p&gt;First things first, be yourself. Here are the questions that I, and many good interviewers, will ask:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Tell me about yourself&lt;/em&gt;. A dreaded and open-ended question. The purposes of this question are to see if the candidate has a pulse, can communicate clearly, is prepared at all, and is interest in the job and the company.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I understand that you have worked on [put project here; bonus if it is a side project]. Explain why you did [some function or task] this way. Can you do better?&lt;/em&gt; One purpose of this question is to understand the candidate’s thinking process. I also want to see if the candidate can make tradeoffs. I can also determine candidate’s passion especially if response is related to a side project. Look, there are lots of smart people out there. Passionate people are another breed, very hard to find. For the latter question, I want to see if the candidate has reflected on the work.  As my friend Bill Langenberg said: “People who are passionate about what they do will always find things to improve, whether that’s the actual product or how they approached the problem.” For deeper technical questions, if candidate responds “I don’t know” that is a good thing, not a bad thing. There is nothing wrong with admitting to limited understanding of a deeper and specific technical question: it is a fair and honest answer. Admitting to not knowing something is always better than bullshitting through the response.&lt;/p&gt;
+
+&lt;p&gt;A follow-up question if project is a software project or tool: &lt;em&gt;did you use revision control for software project?&lt;/em&gt; A red flag if the answer is “no.”  The reason why it is a red flag: revision control is a fundamental skill in software development –to keep track of changes and for communications.  Not knowing how to use revision control means you will need to spend time on the job to learn it (e.g., Git, Subversion), and it is not a skill to pick up overnight.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;How and when did you first get involved with this field?&lt;/em&gt;  There are three things I aim to dissect from your story: your passion and enthusiasm, your intellectual curiosity, and you are not going into this field for the money.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Do you have any questions for me?&lt;/em&gt; Your questions (or lackthereof) will reveal how seriously interested are you, how badly you really want the job, and if you did your research on the position and on the company. Serious red flag if the candidate does not have any questions.&lt;/p&gt;
+
+&lt;p&gt;Notice that I did not list any “cookbook” technical questions (e.g., “Given a recursive function, can you make it into a non-recursive function?”).  The reason: they can be Googled.  Generally, I find little very value in them.  Knowing or remembering facts doesn’t tell me much about the candidate’s problem solving skills, situational awareness, and most importantly, personality.  One question I do find value in is the infamous FizzBuzz problem to check if the candidate can actually program, code (if a project the candidate talked about did not involve code which is extremely rare).  Last spring, a number of students thanked me for stressing this question as this question was asked on their interviews.&lt;/p&gt;
+
+&lt;p&gt;A few important notes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A thank you note goes a long way.  You don’t believe how few people do this.  Interviewing candidates is time-consuming and tiring.&lt;/li&gt;
+  &lt;li&gt;There are so many candidates that look amazing on paper. However, few candidates have “something to show for it.” A portfolio of some of your work will set you ahead of the pack. There is a reason why GitHub has become a de facto résumé in the tech industry.&lt;/li&gt;
+  &lt;li&gt;If you know who your interviewers are, there is nothing creepy about gathering information about them via Google, Facebook, LinkedIn, Twitter, etc. It is expected. Doing this means you are “doing your homework.”&lt;/li&gt;
+  &lt;li&gt;The converse is also true. &lt;em&gt;Assume that the interviewer(s) will know everything about you. The interview serves a confirmation of what they already know.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 04 Sep 2018 16:00:00 -0400</pubDate>
+        <link>http://localhost:4000/education/career/2018/09/04/preparing-for-technical-interview.html</link>
+        <guid isPermaLink="true">http://localhost:4000/education/career/2018/09/04/preparing-for-technical-interview.html</guid>
+        
+        
+        <category>education</category>
+        
+        <category>career</category>
+        
+      </item>
     
       <item>
         <title>Sobering Career Fair Advice From the Perspective of an Employer</title>
@@ -38,8 +78,8 @@
 &lt;p&gt;Career fairs at colleges and universities are still important despite high signal-to-noise ratio of people visiting tables of employers.  As an employer, I need to fill needs for a company / institution.  It is important for you to tell me what you want and how we can combine your want with my needs.  If I am an alum of the school, it is a opportunity for me to maintain a relationship with the school and to see how much the school has progressed.  It is also no secret most people like to hire people from their alma mater.  Therefore, a career fair for the students is not only an event to seek job opportunities but also to represent the school well.&lt;/p&gt;
 </description>
         <pubDate>Mon, 27 Aug 2018 21:30:00 -0400</pubDate>
-        <link>https://mchow01.github.io/education/career/2018/08/27/sobering-career-fair-advice.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/education/career/2018/08/27/sobering-career-fair-advice.html</guid>
+        <link>http://localhost:4000/education/career/2018/08/27/sobering-career-fair-advice.html</link>
+        <guid isPermaLink="true">http://localhost:4000/education/career/2018/08/27/sobering-career-fair-advice.html</guid>
         
         
         <category>education</category>
@@ -95,8 +135,8 @@
 &lt;p&gt;&lt;sup&gt;Special acknowledgements to Mark Bouchard, Robin Kahan, and Winnona DeSombre as some of the items were taken from them, word-for-word.&lt;/sup&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 11 Apr 2018 21:00:00 -0400</pubDate>
-        <link>https://mchow01.github.io/education/career/2018/04/11/why-you-didnt-get-opportunity-undergrads.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/education/career/2018/04/11/why-you-didnt-get-opportunity-undergrads.html</guid>
+        <link>http://localhost:4000/education/career/2018/04/11/why-you-didnt-get-opportunity-undergrads.html</link>
+        <guid isPermaLink="true">http://localhost:4000/education/career/2018/04/11/why-you-didnt-get-opportunity-undergrads.html</guid>
         
         
         <category>education</category>
@@ -193,8 +233,8 @@ teddyduke:Yj-4@!k
 &lt;p&gt;Looking at password cracking contest from previous years was very very smart!&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Apr 2018 20:15:00 -0400</pubDate>
-        <link>https://mchow01.github.io/education/security/2018/04/01/password-cracking.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/education/security/2018/04/01/password-cracking.html</guid>
+        <link>http://localhost:4000/education/security/2018/04/01/password-cracking.html</link>
+        <guid isPermaLink="true">http://localhost:4000/education/security/2018/04/01/password-cracking.html</guid>
         
         
         <category>education</category>
@@ -336,8 +376,8 @@ $6$eqnUKgsJ$2AdWNgZO3k1EVtU9Q348kipdc9GJ9Q35MtRKKgNjW5fduiNzbnCjqJAo9UBUjgxRtZwX
 &lt;/blockquote&gt;
 </description>
         <pubDate>Fri, 03 Nov 2017 22:30:00 -0400</pubDate>
-        <link>https://mchow01.github.io/education/security/2017/11/03/password-cracking.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/education/security/2017/11/03/password-cracking.html</guid>
+        <link>http://localhost:4000/education/security/2017/11/03/password-cracking.html</link>
+        <guid isPermaLink="true">http://localhost:4000/education/security/2017/11/03/password-cracking.html</guid>
         
         
         <category>education</category>
@@ -403,8 +443,8 @@ $6$eqnUKgsJ$2AdWNgZO3k1EVtU9Q348kipdc9GJ9Q35MtRKKgNjW5fduiNzbnCjqJAo9UBUjgxRtZwX
 &lt;p&gt;&lt;em&gt;“Communicating your ideas is very important to work in a team.”&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 16 Aug 2017 16:30:00 -0400</pubDate>
-        <link>https://mchow01.github.io/career/2017/08/16/summer-internship-reports.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/career/2017/08/16/summer-internship-reports.html</guid>
+        <link>http://localhost:4000/career/2017/08/16/summer-internship-reports.html</link>
+        <guid isPermaLink="true">http://localhost:4000/career/2017/08/16/summer-internship-reports.html</guid>
         
         
         <category>career</category>
@@ -505,8 +545,8 @@ $6$eqnUKgsJ$2AdWNgZO3k1EVtU9Q348kipdc9GJ9Q35MtRKKgNjW5fduiNzbnCjqJAo9UBUjgxRtZwX
 &lt;p&gt;While there is truth in what Rob wrote, the problem is when recruiters spam the same job description everywhere (e.g., on LinkedIn) which wastes everyone’s time.&lt;/p&gt;
 </description>
         <pubDate>Tue, 15 Aug 2017 21:00:00 -0400</pubDate>
-        <link>https://mchow01.github.io/career/2017/08/15/hall-of-shame-job-postings-recruiting.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/career/2017/08/15/hall-of-shame-job-postings-recruiting.html</guid>
+        <link>http://localhost:4000/career/2017/08/15/hall-of-shame-job-postings-recruiting.html</link>
+        <guid isPermaLink="true">http://localhost:4000/career/2017/08/15/hall-of-shame-job-postings-recruiting.html</guid>
         
         
         <category>career</category>
@@ -584,8 +624,8 @@ teddybear:K-(*4@
 &lt;/pre&gt;
 </description>
         <pubDate>Mon, 14 Aug 2017 21:00:00 -0400</pubDate>
-        <link>https://mchow01.github.io/education/security/2017/08/14/password-cracking.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/education/security/2017/08/14/password-cracking.html</guid>
+        <link>http://localhost:4000/education/security/2017/08/14/password-cracking.html</link>
+        <guid isPermaLink="true">http://localhost:4000/education/security/2017/08/14/password-cracking.html</guid>
         
         
         <category>education</category>
@@ -635,8 +675,8 @@ teddybear:K-(*4@
 &lt;p&gt;Whether you currently have an opportunity or not, the moral of the story is &lt;em&gt;the early bird catches the worm&lt;/em&gt;.  Not understanding that timeless advice and you will be behind the eight ball after graduation –if it isn’t bad enough already due to student loan debt.&lt;/p&gt;
 </description>
         <pubDate>Wed, 21 Jun 2017 16:00:00 -0400</pubDate>
-        <link>https://mchow01.github.io/career/2017/06/21/prepare-for-next-summer.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/career/2017/06/21/prepare-for-next-summer.html</guid>
+        <link>http://localhost:4000/career/2017/06/21/prepare-for-next-summer.html</link>
+        <guid isPermaLink="true">http://localhost:4000/career/2017/06/21/prepare-for-next-summer.html</guid>
         
         
         <category>career</category>
@@ -682,148 +722,11 @@ teddybear:K-(*4@
 &lt;p&gt;P.P.S., You may be wondering why I am posting this publicly.  The reason: it is absolutely necessary to communicate to our students that we were not the ones responsible for this decision.&lt;/p&gt;
 </description>
         <pubDate>Thu, 08 Jun 2017 11:00:00 -0400</pubDate>
-        <link>https://mchow01.github.io/education/2017/06/08/to-tufts-cs.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/education/2017/06/08/to-tufts-cs.html</guid>
+        <link>http://localhost:4000/education/2017/06/08/to-tufts-cs.html</link>
+        <guid isPermaLink="true">http://localhost:4000/education/2017/06/08/to-tufts-cs.html</guid>
         
         
         <category>education</category>
-        
-      </item>
-    
-      <item>
-        <title>The BSides Boston 2017 Breaking Into InfoSec Panel Questions</title>
-        <description>&lt;p&gt;At the BSides Boston 2017 Security Conference held at Harvard University’s Science Center, there was an afternoon panel “Breaking Into infosec.”  The invited panelists: Tracy Z. Maleeff, Justin Pagano, and myself.  The moderator was Keith Hoodlet.  The abstract of the panel as written on the &lt;a href=&quot;https://bsidesboston2017.sched.com/event/9xRn/panel-breaking-into-infosec&quot;&gt;schedule&lt;/a&gt;:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Are you interested in Information Security, but you don’t know where to start? Are you a professional in another field, wanting to switch into Information Security? Or maybe you’re a Security Professional looking to make a move, andwant to know what hiring managers are looking for. In this panel we will cover various topics for sheperding your career in Information Security from three different perspectives. The panelists - including an educator, a recent convert, and a hiring manager - will field a series of questions on topics including:&lt;/em&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;What skills are employers looking for?&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;What resources are students currently leveraging?&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;How can you get involved in Security (even if it’s outside your current role)?… and any other questions you might have!&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We had a fantastic time on the panel.  Sadly, the panel was only an hour long and we did not answer all the planned questions or answer any questions from the audience.  The panel could have continued for a very long time.  Before the conference, panelists were given a list of ten questions to prepare for: Keith wrote the questions (thanks again Keith).  Only six of the questions were asked in the panel due to limited time.  Here were the ten questions that were planned and my response to each question:&lt;/p&gt;
-
-&lt;h3 id=&quot;question-1&quot;&gt;Question 1:&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;(To Tracy) What have you found to be the biggest challenge for entering into the industry?&lt;/li&gt;
-  &lt;li&gt;(To Justin) What have you found to be the biggest challenge in hiring for the industry?&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;(To Me) What have you found to be the biggest challenge in preparing students for the industry?&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Working on open-ended problems.  I am appalled by how students are generally uncomfortable with working on unstructured and open-ended problems. The problem becomes glaring during students’ first internships as I constantly see comments in Curricular Practical Training (CPT) reports such as “I wish my supervisors had described the overall structure in a little more detail” or “I was simply freaking out with the fact that I did not have an assignment with a roadmap.” That’s normal and reality. Generally speaking in the real world, you will not be given detailed specifications as in most academic classes.&lt;/li&gt;
-      &lt;li&gt;Get students to talk through vague and open-ended problems.&lt;/li&gt;
-      &lt;li&gt;Getting them to get experience early and often. There is no substitute for real work experience.&lt;/li&gt;
-      &lt;li&gt;No hand-holding (I do not do that).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;question-2&quot;&gt;Question 2:&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;(To Tracy) What skills have you focused on developing for building your career?&lt;/li&gt;
-  &lt;li&gt;(To Justin) What skills are you looking to hire for?&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;(To Me) What skill are students focusing on learning today?&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Taking responsibility for one’s own learning; college is not an end.&lt;/li&gt;
-      &lt;li&gt;I did not take a course in web development, mobile development, or security when I was an undergrad (1998-2002).&lt;/li&gt;
-      &lt;li&gt;Reading&lt;/li&gt;
-      &lt;li&gt;Writing&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;question-3&quot;&gt;Question 3:&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;(To Tracy) What resources have you found useful in preparing for job interviews?&lt;/li&gt;
-  &lt;li&gt;(To Justin) What resources does your team leverage on a regular basis?&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;(To Me) What resources are students leveraging to develop their skills?&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://news.ycombinator.com/&quot;&gt;Hacker News: https://news.ycombinator.com/&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;Nick Davis, Rapid7 (he took my Security course in fall 2013, Tufts Class of 2014)&lt;/li&gt;
-      &lt;li&gt;Sarah Gibson, Veracode (she took my Security course in fall 2016)&lt;/li&gt;
-      &lt;li&gt;Me&lt;/li&gt;
-      &lt;li&gt;Guest speakers and alumni network&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;question-4-not-asked-in-the-panel&quot;&gt;Question 4 (not asked in the panel):&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;(To Tracy) As you started your career, what did you do to get involved in Security?&lt;/li&gt;
-  &lt;li&gt;(To Justin) What are some of the ways internal personal can help amplify the Security message in the workkplace?&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;(To Me) What are your students doing to be involved in the Security Community?&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Personal Engagement Project in my Cyber Security and Cyber Warfare course (a joint Computer Science and Political Science course this semester)&lt;/li&gt;
-      &lt;li&gt;What: Because Cyber Security is a very broad field that encompasses many disciplines and changes rapidly, we expect every student in the class to participate in ways not explicitly defined by the curriculum and syllabus.&lt;/li&gt;
-      &lt;li&gt;Why: We want our students to be strong in: (1) taking responsibility for one’s own learning, (2) actively engaging with a larger community outside the classroom (e.g., a professional group), (3) be active citizens, and (4) work on an open-ended project. Cyber Security presents many opportunities outside the classroom&lt;/li&gt;
-      &lt;li&gt;We can’t teach everything about Cyber Security in this class nor can we show all the opportunities that are out there.&lt;/li&gt;
-      &lt;li&gt;We want to give students’ the flexibility and freedom to pursue to explore what is out there with regards to Cyber Security.&lt;/li&gt;
-      &lt;li&gt;We want to grow students’ intellectual curiosity and make you take responsibility of your own learning.&lt;/li&gt;
-      &lt;li&gt;We want to see students engaged with the community in some capacity outside of the classroom –that’s where the real learning is.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;question-5&quot;&gt;Question 5:&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;(To Tracy) Have you pursued certifications as a mechanism for growing your career? Why or why not?&lt;/li&gt;
-  &lt;li&gt;(To Justin) When reviewing resumes, do you find that you’re more likely to interview someone with a certification? Why or why not?&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;(To Me) Do you encourage your students to pursue additional certifications? Why or Why Not?&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Ask yourself: do you need it? (thanks to Peter Sullivan back in 2007).  Some jobs (e.g., working at the Department of Defense) require certifications.&lt;/li&gt;
-      &lt;li&gt;The dubious value of some certifications is well documented.&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://twitter.com/Viss/status/851912114008498176&quot;&gt;@viss: “2 people who know their shit and did “real work” before infosec can do 100x more than 5 cissps with zero experience.” Source: https://twitter.com/Viss/status/851912114008498176&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;I advocate for the SANS Institute because I am an alumnus and I am very grateful for what I got out of the SANS SEC504 course (GCIH certified from 2007-2011).  I give each student in my Security class a SANS poster before the CTF game.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;question-6-what-transferable-non-infosec-skills-have-you-find-to-be-assets-within-the-security-industry&quot;&gt;Question 6: What transferable non-infosec skills have you find to be assets within the security industry?&lt;/h3&gt;
-
-&lt;p&gt;I worked at Harvard for ten years at the Department of Environmental Health &amp;amp; Safety (EH&amp;amp;S).  Looking back, I am now more grateful for working there.  The reasons:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;I was the only tech person in the Department.  Thus, I had to communicate to mostly non-technical personnel.&lt;/li&gt;
-  &lt;li&gt;I learned the business context of Environmental Health &amp;amp; Safety (EH&amp;amp;S).  I applied my technical knowledge to build tools to support the Department, most of those tools are now still in production.&lt;/li&gt;
-  &lt;li&gt;I was exposed to the importance of industrial hygiene, occupational safety, and public health.  As Chris Wysopal once said to me, something along the lines of: “you can’t graduate from a Civil and Environmental Engineering program without learning about health and safety but you can graduate from a Computer Science program without learning learning about security, hygiene, and safety.”  Alas, we are still facing the same issues we have for the last decades.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;question-7-what-standards-or-practices-do-you-see-other-fields-using-that-you-think-infosec-could-benefit-from-adopting-not-asked-in-the-panel&quot;&gt;Question 7: What standards or practices do you see other fields using that you think infosec could benefit from adopting? (not asked in the panel)&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A standard glossary of terms.  There is still a vocabulary problem in this field.  The problem is compounded when working with policymakers and non-tech folks. A good read: &lt;a href=&quot;http://www.syssec-project.eu/m/page-media/3/zanero_login.pdf&quot;&gt;“Why Offensive Security Needs Engineering Textbooks” by Sergey Bratus, Ivan Arce, and Michael Locasto (USENIX ;login: August 2014)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Professional Engineers (PE) exam.  A good read: &lt;a href=&quot;https://www.theatlantic.com/technology/archive/2015/11/programmers-should-not-call-themselves-engineers/414271/&quot;&gt;“Programmers: Stop Calling Yourselves Engineers” https://www.theatlantic.com/technology/archive/2015/11/programmers-should-not-call-themselves-engineers/414271/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;question-8-how-important-is-it-that-individuals-participate-in-extra-curricular-activities-to-expand-their-knowledge-and-build-their-resume-not-asked-in-the-panel&quot;&gt;Question 8: How important is it that individuals participate in extra-curricular activities to expand their knowledge and build their resume? (not asked in the panel)&lt;/h3&gt;
-
-&lt;p&gt;HUGE. Examples: &lt;a href=&quot;http://www.atlanticcouncil.org/programs/brent-scowcroft-center/cyber-statecraft/cyber-9-12&quot;&gt;Atlantic Council Cyber 9/12 Student Competition&lt;/a&gt; (Josh Corman is the Director), &lt;a href=&quot;http://mitrecyberacademy.org/competitions/embedded/&quot;&gt;MITRE Embedded Capture The Flag Competition&lt;/a&gt;, &lt;a href=&quot;https://builditbreakit.org/&quot;&gt;Build It Break It Fix It&lt;/a&gt; .  Not only for the open-ended problems but also for the networking alone.  Real work experience and &lt;a href=&quot;/tech/career/education/2017/01/16/the-importance-of-side-projects.html&quot;&gt;projects are paramount&lt;/a&gt;. One will learn as much from the competitions, if not more, than in the classroom.&lt;/p&gt;
-
-&lt;h3 id=&quot;question-9-in-your-opinion-what-is-the-most-valuable-skill-to-develop-or-posses-to-be-successful-in-information-security-not-asked-in-the-panel&quot;&gt;Question 9: In your opinion, what is the most valuable skill to develop or posses to be successful in Information Security? (not asked in the panel)&lt;/h3&gt;
-
-&lt;p&gt;Communications and empathy.  I’ve seen it first hand what happens when someone does not communicate well.  Problems ripples down, affects others.&lt;/p&gt;
-
-&lt;h3 id=&quot;question-10-what-parting-wisdom-do-you-want-to-share-for-those-that-want-to-break-into-infosec&quot;&gt;Question 10: What parting wisdom do you want to share for those that want to break into infosec?&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=GTt3qvdTexM&quot;&gt;The same message from BSides Boston 2014: security is a lifestyle.&lt;/a&gt;  In other words, you have to be passionate.  Too many people are in it for the parties and money.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 16 Apr 2017 19:00:00 -0400</pubDate>
-        <link>https://mchow01.github.io/tech/career/education/security/2017/04/16/breaking-into-infosec.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/tech/career/education/security/2017/04/16/breaking-into-infosec.html</guid>
-        
-        
-        <category>tech</category>
-        
-        <category>career</category>
-        
-        <category>education</category>
-        
-        <category>security</category>
         
       </item>
     
