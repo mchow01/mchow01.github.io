@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Preparing For A Technical Interview"
-date:   2018-09-04 20:00:00
+date:   2018-09-04 23:57:00
 categories: education career
 ---
 
