@@ -6,9 +6,143 @@
 </description>
     <link>https://mchow01.github.io/</link>
     <atom:link href="https://mchow01.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 04 Sep 2018 23:57:33 -0400</pubDate>
-    <lastBuildDate>Tue, 04 Sep 2018 23:57:33 -0400</lastBuildDate>
-    <generator>Jekyll v3.8.3</generator>
+    <pubDate>Sat, 10 Nov 2018 12:06:57 -0500</pubDate>
+    <lastBuildDate>Sat, 10 Nov 2018 12:06:57 -0500</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Results of a Password Cracking Contest for My Security Class (Fall 2018)</title>
+        <description>&lt;p&gt;Each time I teach my Security class, I give a month-long lab to crack as many passwords as possible.  For this fall’s contest &lt;a href=&quot;https://twitter.com/0xmchow/status/1049064581073707008&quot;&gt;(opened on October 7, 2018&lt;/a&gt;), I used three different hash types: NTLM, MD5, and SHA-512.  The password hashes (16 total):&lt;/p&gt;
+
+&lt;pre&gt;
+yogibear:$1$4mcBroGf$v8ApneilDTE18VgvWDBiE.:1003:1003:,,,:/home/yogibear:/bin/bash
+bigbear:$1$wxHHsG3L$aHlS./vEc/PEerbNGTWFI1:1004:1004:,,,:/home/bigbear:/bin/bash
+grizzlybear:$1$erDsB6Qw$CtTm7jozAV51faPrtbQzL/:1005:1005:,,,:/home/grizzlybear:/bin/bash
+pandabear:$1$eFeGh1B.$ysteI0kbYwHAaJYg7gPyo/:1006:1006:,,,:/home/pandabear:/bin/bash
+yolandabear:$1$QZGinKKl$mjiuTcAIdf6bfxMKTTkNw.:1007:1007:,,,:/home/yolandabear:/bin/bash
+fancybear:$1$RgXw6iaq$PNNEqOsiIMKxLSOHvmkK51:1008:1008:,,,:/home/fancybear:/bin/bash
+jojobear:$1$9YPIeyVm$jygTtWr33r.eY..C5JD/31:1009:1009:,,,:/home/jojobear:/bin/bash
+smokeybear:$6$FYh4KT1Z$AVDRWEyvasw1xbOO6nrPYJOdVsXYMU58XOrQeXwi8Qts2tGmPwf8HQbJC0qE659iJI0ykiIFX6UUsYm9m/hdj.:1000:1000:,,,:/home/smokeybear:/bin/bash
+cocobear:$6$9q3u2Fux$WqZ9V6RQ6w7GNfzedbe1cEnVm3b.XAuZEi8uLDuBoYVsH7Cf3/9M8IkQziuFRnZ/hbcC1JG/1MLyy7NGPxi5A.:1001:1001:,,,:/home/cocobear:/bin/bash
+yetibear:$6$/.446T8c$OTqZH8903n6LhUBKpVNtIQQf.so0EprZAym1IUeOLVsZKPMBwb5OgGeLkhJ4xKWLavFrhhuq5N1OEyCFrig.F.:1002:1002:,,,:/home/yetibear:/bin/bash
+blackbear:$6$vLklyaUy$HavS8mKYsF0v8Om2XzcqPdwhwywQCzlUp6ZAq3INu9ejYik9BOj9/yzsPTMPy5SniYeWWVrIctg9pVnqdoTxG/:1003:1003:,,,:/home/blackbear:/bin/bash
+fozziebear:$6$pT7CDuxB$hpm1p.8c4Q9.dXtljrLhWZ.i4kc2TA5G9xGR.v0RBdJKVz7E9p9esZZjN8Ng6SjlMLPTI7L86o7iXixn2.uYy/:1004:1004:,,,:/home/fozziebear:/bin/bash
+pedrobear:$6$uOhp6Hr0$lIZE8oXgf67eZkYNj8VGM1wpbjCiL6xEvuv6rmXweYM/faFKYyRBxW7Dc1X7vgEiNiX3uwfy7HPHBB/wCWNXE0:1005:1005:,,,:/home/pedrobear:/bin/bash
+chicagobear:1009:aad3b435b51404eeaad3b435b51404ee:cb8538754ecafad5d2ae67ecc709f459:::
+cozybear:1008:aad3b435b51404eeaad3b435b51404ee:8c5f236d8d0e37ef9dc1d827044d0ad5:::
+teddybear:1010:aad3b435b51404eeaad3b435b51404ee:c55da69af31a31d7d8e0773c368f0da8:::
+&lt;/pre&gt;
+
+&lt;p&gt;65 total submissions.  The answers:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;(MD5) yogibear:L1verpool! =&amp;gt; 11 students cracked this&lt;/li&gt;
+  &lt;li&gt;(MD5) bigbear:unbelievable =&amp;gt; 60 students cracked this&lt;/li&gt;
+  &lt;li&gt;(MD5) grizzlybear:zxcasdqwe123 =&amp;gt; 56 students cracked this&lt;/li&gt;
+  &lt;li&gt;(MD5) pandabear:vulmjz =&amp;gt; 7 students cracked this&lt;/li&gt;
+  &lt;li&gt;(MD5) yolandabear:kx7yy4 =&amp;gt; 5 students cracked this&lt;/li&gt;
+  &lt;li&gt;(MD5) fancybear:sx708n =&amp;gt; 7 students cracked this&lt;/li&gt;
+  &lt;li&gt;(MD5) jojobear:wmOhL3u4J =&amp;gt; 0 students cracked this&lt;/li&gt;
+  &lt;li&gt;(SHA512) smokeybear:asdf =&amp;gt; 60 students cracked this&lt;/li&gt;
+  &lt;li&gt;(SHA512) cocobear:meatball =&amp;gt; 60 students cracked this&lt;/li&gt;
+  &lt;li&gt;(SHA512) yetibear:06mulesystems =&amp;gt; 8 students cracked this&lt;/li&gt;
+  &lt;li&gt;(SHA512) blackbear:mzpixl =&amp;gt; 3 students cracked this&lt;/li&gt;
+  &lt;li&gt;(SHA512) fozziebear:320299 =&amp;gt; 18 students cracked this&lt;/li&gt;
+  &lt;li&gt;(SHA512) pedrobear:R6iLFUgG =&amp;gt; 0 students cracked this&lt;/li&gt;
+  &lt;li&gt;(NTLM) cozybear:doofus =&amp;gt; 62 students cracked this&lt;/li&gt;
+  &lt;li&gt;(NTLM) chicagobear:ihateyou =&amp;gt; 62 students cracked this&lt;/li&gt;
+  &lt;li&gt;(NTLM) teddybear:w7zbyt =&amp;gt; 45 students cracked this&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To earn all 10 points for the lab, students had to crack 6 passwords.  The final distribution:&lt;/p&gt;
+
+&lt;pre&gt;
+14 14
+12 12
+11
+9 9 9 9
+8 8 8 8 8 8 8 8 8 8 8
+7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7
+6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6
+5 5
+3
+2 2
+&lt;/pre&gt;
+
+&lt;p&gt;The winners (tied) cracked 14 of the 16 passwords.&lt;/p&gt;
+
+&lt;p&gt;Student 1’s haul and methodology:&lt;/p&gt;
+&lt;pre&gt;
+pandabear : vulmjz               -&amp;gt; 10milliontop1000000
+bigbear : unbelievable          -&amp;gt; 10milliontop1000000
+yolandabear : kx7yy4           -&amp;gt; bruteforce 6 char
+grizzlybear : zxcasdqwe123 -&amp;gt; 10milliontop1000000
+fancybear : sx708n               -&amp;gt; bruteforce 6 char
+yogibear : L1verpool!            -&amp;gt; rockyou + best64 aws
+jojobear : ???
+
+sha512:
+smokeybear : asdf            -&amp;gt; 10milliontop1000000
+cocobear : meatball          -&amp;gt; 10millinotop1000000
+yetibear : 06mulesystems -&amp;gt; masterlist.txt google cloud
+blackbear : mzpixl             -&amp;gt; bruteforce 6 char
+fozziebear : 320299          -&amp;gt; lookup service
+pedrobear : ???
+
+
+NTLM:
+teddybear : w7zbyt        -&amp;gt; 10milliontop1000000 + ORTRTA
+cozybear : doofus          -&amp;gt; same
+chicagobear : ihateyou  -&amp;gt; same
+&lt;/pre&gt;
+
+&lt;p&gt;Student 2’s haul:&lt;/p&gt;
+
+&lt;pre&gt;
+yogibear:L1verpool!
+bigbear:unbelievable
+grizzlybear:zxcasdqwe123
+pandabear:vulmjz
+yolandabear:kx7yy4
+fancybear:sx708n
+smokeybear:asdf
+cocobear:meatball
+yetibear:06mulesystems
+blackbear:mzpixl
+fozziebear:320299
+chicagobear:ihateyou
+cozybear:doofus
+teddybear:w7zbyt
+&lt;/pre&gt;
+
+&lt;p&gt;Student 2’s methodology:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;To crack the majority of the passwords I’ve completed so far, I used John the Ripper and Hashcat. I began by using a series of wordlists on both the MD5 and SHA512 passwords, which I divided into two separate files consisting of only passwords hashed with the respective algorithms. To this point, I’ve used a scattering of the wordlists from the &lt;code class=&quot;highlighter-rouge&quot;&gt;Seclists/Leaked-Databases&lt;/code&gt; folder, and have had the most success with &lt;code class=&quot;highlighter-rouge&quot;&gt;rockyou.txt&lt;/code&gt;. Using &lt;code class=&quot;highlighter-rouge&quot;&gt;rockyou.txt&lt;/code&gt;, I cracked two of the MD5 hashes and three of the SHA512 hashes.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I then applied a series of different rules to some of these wordlists, for both MD5 and SHA512 hashed passwords. For the SHA512 passwords, I have been using my computer at home (with a decent graphics card) to speed up the process. Using these rules, and Hashcat which I’ve found to be a better option for GPU cracking, I cracked another of the MD5 hashed passwords.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;After using a number of wordlists with a collection of different rules, I turned to brute force incremental cracking, as well as Hashcat’s mask attack. Using these two brute force methods, I’ve cracked another three MD5 hashes, and one SHA512 hash.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;For the NTLM passwords, I ran JtR (John the Ripper) with the default settings to crack two of the hashes. I considered using wordlists with rules to crack the remaining NTLM password, but ended up using a site (hashkiller.co.uk/ntlm-decrypter.aspx) with a huge number of computed NTLM hashes (since I noticed that these hashes weren’t salted) to crack this one.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Sat, 10 Nov 2018 07:00:00 -0500</pubDate>
+        <link>https://mchow01.github.io/education/security/2018/11/10/password-cracking.html</link>
+        <guid isPermaLink="true">https://mchow01.github.io/education/security/2018/11/10/password-cracking.html</guid>
+        
+        
+        <category>education</category>
+        
+        <category>security</category>
+        
+      </item>
     
       <item>
         <title>(Updated for 2018-2019) Finding Internships, Technical Interviews, Side Projects, Grad School </title>
@@ -705,55 +839,6 @@ teddybear:K-(*4@
         <category>education</category>
         
         <category>security</category>
-        
-      </item>
-    
-      <item>
-        <title>The Best Thing To Do In Early Summer for Undergraduates: Prepare For Opportunities Next Summer</title>
-        <description>&lt;p&gt;One of the best thing undergraduates can do in the early summer: prepare for the opportunity next summer –whether you currently have an internship / research opportunity or not.  There is no substitute for real experience.  Experience and track record are paramount for any opportunity from first full-time opportunity out of college to senior-level position. &lt;em&gt;How can people trust you and your work when you have little or nothing to show for?&lt;/em&gt;  Case-in-point, on Turner Construction’s website:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.turnerconstruction.com/careers/recruits/internship&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;“In today’s competitive professional world, the most qualified job candidates have more than classroom experience. They leave college and enter the workforce with hands-on exposure in their chosen fields. Turner places high value on internship experience when making hiring decisions.&lt;/em&gt;”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;My career advice to undergraduate students is to get experience early and often.  Chantel McCabe said it best: &lt;a href=&quot;https://issuu.com/tnhstaff/docs/issue_24&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;“I interned every single semester. No classroom curriculum can replace the lessons you learn by doing and interacting. The most difficult part is getting acclimated: knowing where to go and who to go to for what and feeling comfortable.”&lt;/em&gt;&lt;/a&gt;  Many undergraduates do not realize the enormous payoff of working and gaining experience early including higher pay and retroactive accrual of benefits.&lt;/p&gt;
-
-&lt;p&gt;If you currently have an internship, you already have an advantage but that does not mean you should be too comfortable.  If you have already made an impact and people around you know it, there is good chance you will be offered a full-time opportunity after graduation or be asked to return next summer.  I have even seen undergraduates being asked to quit school and work full-time.  This is a good time to ask yourself a few important questions:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Do you see yourself continuing the work that you are doing?&lt;/li&gt;
-  &lt;li&gt;Do you like the people who you are working with?&lt;/li&gt;
-  &lt;li&gt;If offered the opportunity to return next summer, would you stay?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;If graduate school is on your radar for the future, another consideration is to do summer research via Research Experience for Undergraduates (REU).  That will give you first hand research experience, perhaps a publication opportunity which will give you a significant advantage over other graduate school applicants in the future, and you will still get to build stuff.  Example: my friend and colleague Ben Shapiro at the University of Colorado, Boulder currently have two summer REU students building a framework for real-time machine learning in browser, using web-Bluetooth to get input from tangible devices.  That skillset is incredibly valuable for future opportunities, industry or academia.&lt;/p&gt;
-
-&lt;p&gt;If you currently do not have an internship, early summer is the perfect time to start preparing for your search for opportunities for next summer.  Action items on how to take advantage of the time that you have:&lt;/p&gt;
-
-&lt;p&gt;1. &lt;strong&gt;Go to meetups and networking events (this also include conferences).&lt;/strong&gt;  The warm weather makes way for more events.  The importance of networking events:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;You meet people who could be your future employer or mentor.&lt;/li&gt;
-  &lt;li&gt;You meet people who are like you and perhaps in the same situation as you are.&lt;/li&gt;
-  &lt;li&gt;You meet people in the field you are interested in getting into and what the community is like.&lt;/li&gt;
-  &lt;li&gt;You can listen to similar or different perspectives and ideas. For example, if you have an idea for a project, someone may tell you the pitfalls or proceeding with the idea.&lt;/li&gt;
-  &lt;li&gt;You have the opportunity learn something.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;(Side note: If you want to get into Cyber Security, there is the &lt;a href=&quot;/security/2015/07/19/security-summer-camp.html&quot;&gt;trio of infamous conferences in Las Vegas a.k.a., summer security camp&lt;/a&gt;.)&lt;/p&gt;
-
-&lt;p&gt;2. &lt;strong&gt;Start making a list companies / institutions that you want to talk to in the fall.&lt;/strong&gt; While you may not know who will be at the fall career fair, you can base it on the list of institutions and companies at the previous year's fall career fair.  Many companies / institutions and recruiters are now only focusing on the fall career fair and are not going to the spring career fair.  The reason: competition for talent is fierce and companies / institutions want to fill their summer slots early with the best possible talents.  Alas, I hear many students say that when they went to the spring career fair, it was &lt;strike&gt;slim&lt;/strike&gt; no pickings.  Also, don't limit yourself to only talking to companies / institutions who will be at your school's fall career fair, cast a wider net (go back to the first point above).&lt;/p&gt;
-
-&lt;p&gt;3. &lt;strong&gt;Keep yourself busy.&lt;/strong&gt;  If you receive an interview for an opportunity for next summer and your resume has gaps, you can bet you will be asked the question or something of-the-like: &quot;What did you do last summer?&quot;&lt;/p&gt;
-
-&lt;p&gt;4. &lt;strong&gt;If you are in tech, learn something, do something tangible.&lt;/strong&gt; There is absolutely no excuse to not take advantage of the opportunities, tools, technologies, and resources that are now available. The points of learning something are to build your skills and to demonstrate to others that you can learn quickly. There is a concern from many Computer Science undergraduates that they must work on a side project: that is not what I am saying here.  Working on a side project for the sake of putting a side project on your resume is not a good thing, but there is absolutely no excuse to not learn or dabble with something.  Chances are, the small learning project or event that you do (e.g., a simple Facebook login button using the Facebook API or listing all your Spotify playlists using the Spotify API, participating in a Security Capture The Flag game) will give you more ideas for an even bigger project.&lt;/p&gt;
-
-&lt;p&gt;Whether you currently have an opportunity or not, the moral of the story is &lt;em&gt;the early bird catches the worm&lt;/em&gt;.  Not understanding that timeless advice and you will be behind the eight ball after graduation –if it isn’t bad enough already due to student loan debt.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 21 Jun 2017 16:00:00 -0400</pubDate>
-        <link>https://mchow01.github.io/career/2017/06/21/prepare-for-next-summer.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/career/2017/06/21/prepare-for-next-summer.html</guid>
-        
-        
-        <category>career</category>
         
       </item>
     
