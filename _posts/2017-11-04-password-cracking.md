@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Results of a Password Cracking Contest for My Security Class (Fall 2017)"
+title:  "Results of a Password Cracking Contest in My Security Class (Fall 2017)"
 date:   2017-11-04 02:30:00
 categories: education security
 ---

@@ -6,12 +6,12 @@
 </description>
     <link>https://mchow01.github.io/</link>
     <atom:link href="https://mchow01.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 Nov 2018 12:06:57 -0500</pubDate>
-    <lastBuildDate>Sat, 10 Nov 2018 12:06:57 -0500</lastBuildDate>
+    <pubDate>Sat, 10 Nov 2018 12:12:11 -0500</pubDate>
+    <lastBuildDate>Sat, 10 Nov 2018 12:12:11 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Results of a Password Cracking Contest for My Security Class (Fall 2018)</title>
+        <title>Results of a Password Cracking Contest in My Security Class (Fall 2018)</title>
         <description>&lt;p&gt;Each time I teach my Security class, I give a month-long lab to crack as many passwords as possible.  For this fall’s contest &lt;a href=&quot;https://twitter.com/0xmchow/status/1049064581073707008&quot;&gt;(opened on October 7, 2018&lt;/a&gt;), I used three different hash types: NTLM, MD5, and SHA-512.  The password hashes (16 total):&lt;/p&gt;
 
 &lt;pre&gt;
@@ -354,7 +354,7 @@ teddybear:w7zbyt
       </item>
     
       <item>
-        <title>Results of a Password Cracking Contest for My Security Class (Spring 2018)</title>
+        <title>Results of a Password Cracking Contest in My Security Class (Spring 2018)</title>
         <description>&lt;p&gt;Each time I teach my Security class, I give a month-long lab to crack as many passwords as possible.  For this spring’s contest &lt;a href=&quot;https://twitter.com/0xmchow/status/967850845042806784&quot;&gt;(opened on February 25, 2018&lt;/a&gt;), I used three different hash types: NTLM, MD5, and SHA-512.  The password hashes:&lt;/p&gt;
 
 &lt;pre&gt;
@@ -452,7 +452,7 @@ teddyduke:Yj-4@!k
       </item>
     
       <item>
-        <title>Results of a Password Cracking Contest for My Security Class (Fall 2017)</title>
+        <title>Results of a Password Cracking Contest in My Security Class (Fall 2017)</title>
         <description>&lt;p&gt;Each time I teach my Security class, I give a month-long lab to crack as many passwords as possible.  For this fall’s contest &lt;a href=&quot;https://twitter.com/0xmchow/status/914531472656228354&quot;&gt;(opened on October 1, 2017 coinciding with the start of National Cyber Security Awareness Month&lt;/a&gt;), I used three different hash types: NTLM, MD5, and SHA-512.  The password hashes:&lt;/p&gt;
 
 &lt;pre&gt;
@@ -762,7 +762,7 @@ $6$eqnUKgsJ$2AdWNgZO3k1EVtU9Q348kipdc9GJ9Q35MtRKKgNjW5fduiNzbnCjqJAo9UBUjgxRtZwX
       </item>
     
       <item>
-        <title>Results of a Password Cracking Contest for My Online Security Class (Summer 2017)</title>
+        <title>Results of a Password Cracking Contest in My Online Security Class (Summer 2017)</title>
         <description>&lt;p&gt;I offered my &lt;a href=&quot;https://tuftsdev.github.io/DefenseAgainstTheDarkArts&quot;&gt;Introduction to Computer Security&lt;/a&gt; class as an online course for the first time.  I give a month-long summer lab to crack as many passwords as possible.  For this summer’s contest &lt;a href=&quot;https://twitter.com/0xmchow/status/882073476886089731&quot;&gt;(opened on July 3, 2017&lt;/a&gt;), I used three different hash types: NTLM, MD5, and SHA-512.  The password hashes:&lt;/p&gt;
 
 &lt;pre&gt;
