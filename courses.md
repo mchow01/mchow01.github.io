@@ -6,19 +6,19 @@ permalink: /courses/
 
 ### Fall 2018
 * [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
-        * Enrollment (number of students): 78
-        * Overall Course Rating (of 74 responses): 4.20 / 5.0 [question 5]
-        * Overall Performance of Instructor (of 74 responses): 4.45 / 5.0 [question 15]
+	* Enrollment (number of students): 78
+	* Overall Course Rating (of 74 responses): 4.20 / 5.0 [question 5]
+	* Overall Performance of Instructor (of 74 responses): 4.45 / 5.0 [question 15]
 
 * [COMP 97: Senior Capstone](http://www.cs.tufts.edu/comp/97/){:target="_blank"}
-        * Enrollment (number of students): 49
-        * Overall Course Rating (of 44 responses): 4.09 / 5.0 [question 5]
-        * Overall Performance of Instructor (of 44 responses): 4.36 / 5.0 [question 15]
+	* Enrollment (number of students): 49
+	* Overall Course Rating (of 44 responses): 4.09 / 5.0 [question 5]
+	* Overall Performance of Instructor (of 44 responses): 4.36 / 5.0 [question 15]
 
 * [COMP 116: Introduction to Computer Security](http://www.cs.tufts.edu/comp/116/){:target="_blank"}
-        * Enrollment (number of students): 68
-        * Overall Course Rating (of 59 responses): 4.41 / 5.0 [question 5]
-        * Overall Performance of Instructor (of 59 responses): 4.58 / 5.0 [question 15]
+	* Enrollment (number of students): 68
+	* Overall Course Rating (of 59 responses): 4.41 / 5.0 [question 5]
+	* Overall Performance of Instructor (of 59 responses): 4.58 / 5.0 [question 15]
 
 ### Spring 2018
 * [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
