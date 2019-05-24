@@ -3,6 +3,21 @@ layout: page
 title: Courses @ Tufts
 permalink: /courses/
 ---
+### Spring 2019
+* [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
+	* Enrollment (number of students): 81
+	* Overall Course Rating (of 72 responses): 4.43 / 5.0 [question 5]
+	* Overall Performance of Instructor (of 72 responses): 4.60 / 5.0 [question 15]
+
+* [COMP 98: Senior Capstone](http://www.cs.tufts.edu/comp/98/){:target="_blank"}
+	* Enrollment (number of students): 48
+	* Overall Course Rating (of 40 responses): 4.08 / 5.0 [question 5]
+	* Overall Performance of Instructor (of 40 responses):  4.41 / 5.0 [question 15]
+
+* COMP 50 / PS 188: Cyber Security and Cyber Warfare
+	* Enrollment (number of students): 47
+	* Overall Course Rating (of 41 responses): 3.54 / 5.0
+	* Overall Performance of Instructor (of 41 responses): 4.0 / 5.0
 
 ### Fall 2018
 * [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
