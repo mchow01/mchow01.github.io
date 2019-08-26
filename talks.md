@@ -90,6 +90,8 @@ Use of the Internet in Fraud Investigations
 * Greater Boston Chapter of the Association of Certified Fraud Examiners (ACFE), Boston, MA, September 21, 2007.
 
 ## Additional Media and Press
+* ["DEFCON 27 & BSidesLV 2019 Takeaways: Part Two"](https://www.hurricanelabs.com/blog/defcon-27-bsideslv-2019-takeaways-part-two)
+* ["My first DEFCON"](https://medium.com/@tmursch/my-first-defcon-bbe4c7fd4f1a)
 * ["Failings in Cybersecurity Education: An Interview with Professor Ming Chow"](https://clutch.co/it-services/failings-cybersecurity-education-interview-professor-ming-chow){:target="_blank"}
 * ["Why version control is required for Comp 20 at Tufts University"](https://github.com/blog/2343-why-version-control-is-required-for-comp-20-at-tufts-university){:target="_blank"}
 * [https://tuftsdaily.com/news/2017/04/28/ming-chow-wins-award-for-outstanding-teaching/](https://tuftsdaily.com/news/2017/04/28/ming-chow-wins-award-for-outstanding-teaching/)

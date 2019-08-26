@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "(Updated for 2018-2019) Finding Internships, Technical Interviews, Side Projects, Grad School "
+title:  "Finding Internships, Technical Interviews, Side Projects, Grad School "
 date:   2018-09-05 00:00:00
 categories: education career
 ---
