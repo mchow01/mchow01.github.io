@@ -11,3 +11,4 @@ linkedin_username: mchow01
 
 # Build settings
 markdown: kramdown
+host: 0.0.0.0

@@ -17,6 +17,6 @@ Most colleges and universities will have a fall career fair in either September 
 
 5. You rambled on-and-on about yourself.  You are inconsiderate of other people's time as there can be a long line of people waiting to talk to me.
 
-6. You dressed inappropriately.  Hey Chris, remember that student who wore a Playboy bunny pin on his suit at the BU Career Fair years ago?
+6. You dressed inappropriately.
 
 Career fairs at colleges and universities are still important despite high signal-to-noise ratio of people visiting tables of employers.  As an employer, I need to fill needs for a company / institution.  It is important for you to tell me what you want and how we can combine your want with my needs.  If I am an alum of the school, it is a opportunity for me to maintain a relationship with the school and to see how much the school has progressed.  It is also no secret most people like to hire people from their alma mater.  Therefore, a career fair for the students is not only an event to seek job opportunities but also to represent the school well.
