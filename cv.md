@@ -11,8 +11,9 @@ permalink: /cv/
 
 **Tufts University, Medford, MA 02155**
 
+* _Associate Teaching Professor, September 2019 to present_
 * _International Relations Program Core Faculty Member, September 2017 to present_
-* _Senior Lecturer, Department of Computer Science, September 2015 to present_
+* _Senior Lecturer, Department of Computer Science, September 2015 to August 2019_
 * _Lecturer, September 2009 to August 2015_
 
 * Awarded the 2017 Lerman-Neubauer Prize for Outstanding Teaching and Advising, awarded annually to a faculty member of Arts and Sciences or of Engineering who has had a profound intellectual impact on his or her students, both inside and outside the classroom.
@@ -27,34 +28,37 @@ permalink: /cv/
 
 #### Courses at Tufts University
 
-* _COMP 116: Computer System Security_ (a.k.a., _Introduction to Cyber Security_)
-	* Taught Spring 2011, Spring 2012, Fall 2013, Fall 2014, Fall 2015, Fall 2016, Summer 2017 (online), Fall 2017, Spring 2018, Summer 2018 (online), Fall 2018, Summer 2019 (online)
+* _COMP 116: Computer System Security_ (a.k.a., _Introduction to Security_)
+	* Taught in Spring 2011, Spring 2012, Fall 2013, Fall 2014, Fall 2015, Fall 2016, Summer 2017 (online), Fall 2017, Spring 2018, Summer 2018 (online), Fall 2018, Summer 2019 (online), Fall 2019, Spring 2020
 * _COMP 20: Web Programming_
-	* Taught Fall 2009, Fall 2010, Spring 2011, Summer 2011, Spring 2013, Spring 2014, Fall 2014, Spring 2015, Fall 2015, Spring 2016, Summer 2016 (Online), Fall 2016, Spring 2017, Summer 2017 (online), Fall 2017, Spring 2018, Summer 2018 (online), Fall 2018, Spring 2019, Summer 2019 (online)
+	* Taught in Fall 2009, Fall 2010, Spring 2011, Summer 2011, Spring 2013, Spring 2014, Fall 2014, Spring 2015, Fall 2015, Spring 2016, Summer 2016 (Online), Fall 2016, Spring 2017, Summer 2017 (online), Fall 2017, Spring 2018, Summer 2018 (online), Fall 2018, Spring 2019, Summer 2019 (online)
 	* Grew the course from 11 students in fall 2009 to 119 in spring 2013.
 * _COMP 97 and 98: Senior Capstone Project I and II_
-	* Taught 2012 - 2013, 2013 - 2014, 2018 - 2019 academic years 
+	* Taught in 2012 - 2013, 2013 - 2014, 2018 - 2019, 2019 - 2020 academic years 
 	* Formerly known as Software Engineering. Changed requirement from a one semester project experience to a one academic year project experience.
 	* Required for all undergraduate Computer Science majors through the School of Engineering.
+* _COMP 50: Computer Science for Future Presidents_
+    * Taught in Fall 2019 with Susan Landau
+	* Created course with Susan Landau as first course in Cyber Security and Public Policy Master's Program
 * _COMP 50 / PS 188: Cyber Security and Cyber Warfare_
-	* Taught Spring 2017, Spring 2019
+	* Taught in Spring 2017, Spring 2019, Spring 2020
 	* Cross-listed with Department of Political Science
 * _COMP 150-MMD: Mobile Medical Devices and Apps_
-	* Taught Fall 2014, Spring 2016, Spring 2018
+	* Taught in Fall 2014, Spring 2016, Spring 2018
 	* First cross-listed with Department of Electrical and Computer Engineering in over a decade
 * _COMP 120: Web Engineering_
-	* Taught Spring 2010, Spring 2011, Fall 2011, Fall 2013, Spring 2015, Spring 2016, Spring 2017
+	* Taught in Spring 2010, Spring 2011, Fall 2011, Fall 2013, Spring 2015, Spring 2016, Spring 2017
 * _COMP 23: Introduction to Game Development_
-	* Taught Spring 2008, Spring 2009, Summer 2009, Spring 2010, Summer 2010, Fall 2010, Spring 2012, Spring 2014, Fall 2015
+	* Taught in Spring 2008, Spring 2009, Summer 2009, Spring 2010, Summer 2010, Fall 2010, Spring 2012, Spring 2014, Fall 2015
 	* Course was given an official course number in spring 2014.
 	* Named one of the nation's coolest engineering courses by the American Society for Engineering Education (ASEE) in 2011 (see [http://www.prism-magazine.org/summer11/feature_01.cfm](http://www.prism-magazine.org/summer11/feature_01.cfm){:target="_blank"})
 * _COMP 150-ISW: Music Apps on the iPad_
-	* Taught Spring 2012, Spring 2013, Spring 2015
+	* Taught in Spring 2012, Spring 2013, Spring 2015
 	* Cross-listed with Department of Music
 * _COMP 15: Data Structures_ (the second course in the Computer Science curriculum)
-	* Taught Fall 2011, Summer 2012, Fall 2012
+	* Taught in Fall 2011, Summer 2012, Fall 2012
 * _Developing Computer & Interactive Media_ (Precollege Course for High School Students)
-	* Taught Summer 2012
+	* Taught in Summer 2012
 * Course websites, overall course ratings, and overall performance of instructor ratings available at [http://mchow01.github.io/courses/](/courses/)
 
 **Middlesex Community College, Lowell, MA 01852**

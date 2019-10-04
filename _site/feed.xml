@@ -4,10 +4,10 @@
     <title>Ming Y. Chow</title>
     <description>Ming Chow's website
 </description>
-    <link>https://mchow01.github.io/</link>
-    <atom:link href="https://mchow01.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 26 Sep 2019 03:32:38 +0000</pubDate>
-    <lastBuildDate>Thu, 26 Sep 2019 03:32:38 +0000</lastBuildDate>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 04 Oct 2019 20:27:19 +0000</pubDate>
+    <lastBuildDate>Fri, 04 Oct 2019 20:27:19 +0000</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -59,8 +59,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Thu, 26 Sep 2019 01:00:00 +0000</pubDate>
-        <link>https://mchow01.github.io/tech/career/education/2019/09/26/the-importance-of-outside_projects.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/tech/career/education/2019/09/26/the-importance-of-outside_projects.html</guid>
+        <link>http://0.0.0.0:4000/tech/career/education/2019/09/26/the-importance-of-outside_projects.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/tech/career/education/2019/09/26/the-importance-of-outside_projects.html</guid>
         
         
         <category>tech</category>
@@ -195,8 +195,8 @@ teddybear:w7zbyt
 &lt;/blockquote&gt;
 </description>
         <pubDate>Sat, 10 Nov 2018 12:00:00 +0000</pubDate>
-        <link>https://mchow01.github.io/education/security/2018/11/10/password-cracking.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/education/security/2018/11/10/password-cracking.html</guid>
+        <link>http://0.0.0.0:4000/education/security/2018/11/10/password-cracking.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/education/security/2018/11/10/password-cracking.html</guid>
         
         
         <category>education</category>
@@ -269,8 +269,8 @@ teddybear:w7zbyt
 &lt;p&gt;Even friend and colleague Norman Ramsey wrote on Stack Exchange: &lt;em&gt;“If you didn’t get the chance to build a number of interesting projects during your education, shame on your instructors. But you can build those projects now. Scour web sites for interesting problems.”&lt;/em&gt; Source: &lt;a href=&quot;https://programmers.stackexchange.com/questions/43528/im-graduating-with-a-computer-science-degree-but-i-dont-feel-like-i-know-how-t/43545#43545&quot;&gt;https://programmers.stackexchange.com/questions/43528/im-graduating-with-a-computer-science-degree-but-i-dont-feel-like-i-know-how-t/43545#43545&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
-        <link>https://mchow01.github.io/education/career/2018/09/05/career-prep.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/education/career/2018/09/05/career-prep.html</guid>
+        <link>http://0.0.0.0:4000/education/career/2018/09/05/career-prep.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/education/career/2018/09/05/career-prep.html</guid>
         
         
         <category>education</category>
@@ -309,8 +309,8 @@ teddybear:w7zbyt
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 04 Sep 2018 23:57:00 +0000</pubDate>
-        <link>https://mchow01.github.io/education/career/2018/09/04/preparing-for-technical-interview.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/education/career/2018/09/04/preparing-for-technical-interview.html</guid>
+        <link>http://0.0.0.0:4000/education/career/2018/09/04/preparing-for-technical-interview.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/education/career/2018/09/04/preparing-for-technical-interview.html</guid>
         
         
         <category>education</category>
@@ -347,8 +347,8 @@ teddybear:w7zbyt
 &lt;p&gt;Career fairs at colleges and universities are still important despite high signal-to-noise ratio of people visiting tables of employers.  As an employer, I need to fill needs for a company / institution.  It is important for you to tell me what you want and how we can combine your want with my needs.  If I am an alum of the school, it is an opportunity for me to maintain a relationship with the school and to see how much the school has progressed.  It is also no secret most people like to hire people from their alma mater.  Therefore, a career fair for the students is not only an event to seek job opportunities but also to represent the school well.&lt;/p&gt;
 </description>
         <pubDate>Tue, 28 Aug 2018 01:30:00 +0000</pubDate>
-        <link>https://mchow01.github.io/education/career/2018/08/28/sobering-career-fair-advice.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/education/career/2018/08/28/sobering-career-fair-advice.html</guid>
+        <link>http://0.0.0.0:4000/education/career/2018/08/28/sobering-career-fair-advice.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/education/career/2018/08/28/sobering-career-fair-advice.html</guid>
         
         
         <category>education</category>
@@ -404,8 +404,8 @@ teddybear:w7zbyt
 &lt;p&gt;&lt;sup&gt;Special acknowledgements to Mark Bouchard, Robin Kahan, and Winnona DeSombre as some of the items were taken from them, word-for-word.&lt;/sup&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 12 Apr 2018 01:00:00 +0000</pubDate>
-        <link>https://mchow01.github.io/education/career/2018/04/12/why-you-didnt-get-opportunity-undergrads.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/education/career/2018/04/12/why-you-didnt-get-opportunity-undergrads.html</guid>
+        <link>http://0.0.0.0:4000/education/career/2018/04/12/why-you-didnt-get-opportunity-undergrads.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/education/career/2018/04/12/why-you-didnt-get-opportunity-undergrads.html</guid>
         
         
         <category>education</category>
@@ -502,8 +502,8 @@ teddyduke:Yj-4@!k
 &lt;p&gt;Looking at password cracking contest from previous years was very very smart!&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Apr 2018 00:15:00 +0000</pubDate>
-        <link>https://mchow01.github.io/education/security/2018/04/02/password-cracking.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/education/security/2018/04/02/password-cracking.html</guid>
+        <link>http://0.0.0.0:4000/education/security/2018/04/02/password-cracking.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/education/security/2018/04/02/password-cracking.html</guid>
         
         
         <category>education</category>
@@ -645,8 +645,8 @@ $6$eqnUKgsJ$2AdWNgZO3k1EVtU9Q348kipdc9GJ9Q35MtRKKgNjW5fduiNzbnCjqJAo9UBUjgxRtZwX
 &lt;/blockquote&gt;
 </description>
         <pubDate>Sat, 04 Nov 2017 02:30:00 +0000</pubDate>
-        <link>https://mchow01.github.io/education/security/2017/11/04/password-cracking.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/education/security/2017/11/04/password-cracking.html</guid>
+        <link>http://0.0.0.0:4000/education/security/2017/11/04/password-cracking.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/education/security/2017/11/04/password-cracking.html</guid>
         
         
         <category>education</category>
@@ -712,8 +712,8 @@ $6$eqnUKgsJ$2AdWNgZO3k1EVtU9Q348kipdc9GJ9Q35MtRKKgNjW5fduiNzbnCjqJAo9UBUjgxRtZwX
 &lt;p&gt;&lt;em&gt;“Communicating your ideas is very important to work in a team.”&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 16 Aug 2017 20:30:00 +0000</pubDate>
-        <link>https://mchow01.github.io/career/2017/08/16/summer-internship-reports.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/career/2017/08/16/summer-internship-reports.html</guid>
+        <link>http://0.0.0.0:4000/career/2017/08/16/summer-internship-reports.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/career/2017/08/16/summer-internship-reports.html</guid>
         
         
         <category>career</category>
@@ -814,8 +814,8 @@ $6$eqnUKgsJ$2AdWNgZO3k1EVtU9Q348kipdc9GJ9Q35MtRKKgNjW5fduiNzbnCjqJAo9UBUjgxRtZwX
 &lt;p&gt;While there is truth in what Rob wrote, the problem is when recruiters spam the same job description everywhere (e.g., on LinkedIn) which wastes everyone’s time.&lt;/p&gt;
 </description>
         <pubDate>Wed, 16 Aug 2017 01:00:00 +0000</pubDate>
-        <link>https://mchow01.github.io/career/2017/08/16/hall-of-shame-job-postings-recruiting.html</link>
-        <guid isPermaLink="true">https://mchow01.github.io/career/2017/08/16/hall-of-shame-job-postings-recruiting.html</guid>
+        <link>http://0.0.0.0:4000/career/2017/08/16/hall-of-shame-job-postings-recruiting.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/career/2017/08/16/hall-of-shame-job-postings-recruiting.html</guid>
         
         
         <category>career</category>
