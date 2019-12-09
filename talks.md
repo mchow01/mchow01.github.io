@@ -104,5 +104,5 @@ Use of the Internet in Fraud Investigations
 * [http://bostinno.com/2012/04/12/tufts-hosts-their-first-hackathon-with-the-help-of-evernote-offering-winners-a-trip-to-silicon-valley/](http://bostinno.com/2012/04/12/tufts-hosts-their-first-hackathon-with-the-help-of-evernote-offering-winners-a-trip-to-silicon-valley/){:target="_blank"}
 * [http://www.veracode.com/blog/2012/03/demystifying-binary-static-analysis/](http://www.veracode.com/blog/2012/03/demystifying-binary-static-analysis/){:target="_blank"}
 * [http://venturebeat.com/2011/08/11/old-hacking-tricks-work-too-easily-in-attacks-on-html5-security-expert-says/](http://venturebeat.com/2011/08/11/old-hacking-tricks-work-too-easily-in-attacks-on-html5-security-expert-says/){:target="_blank"}
-* [http://www.prism-magazine.org/summer11/feature_01.cfm](http://www.prism-magazine.org/summer11/feature_01.cfm){:target="_blank"}
+* [http://www.asee-prism.org/summer-2011/](http://www.asee-prism.org/summer-2011/){:target="_blank"}
 * [http://enews.tufts.edu/stories/1664/2010/08/24/MobileApps](http://enews.tufts.edu/stories/1664/2010/08/24/MobileApps){:target="_blank"}
