@@ -3,6 +3,23 @@ layout: page
 title: Courses @ Tufts
 permalink: /courses/
 ---
+
+### Fall 2019
+* COMP 55: Computer Science for Future Presidents
+	* Enrollment (number of students): 9
+	* Overall Course Rating (of 7 responses): 4.0 / 5.0 [question 5]
+	* Overall Performance of Instructor (of 7 responses): 4.71 / 5.0 [question 15]
+
+* [COMP 97: Senior Capstone](http://www.cs.tufts.edu/comp/97/){:target="_blank"}
+	* Enrollment (number of students): 62
+	* Overall Course Rating (of 47 responses): 4.0 / 5.0 [question 5]
+	* Overall Performance of Instructor (of 47 responses): 4.36 / 5.0 [question 15]
+
+* [COMP 116: Introduction to Computer Security](http://www.cs.tufts.edu/comp/116/){:target="_blank"}
+	* Enrollment (number of students): 82
+	* Overall Course Rating (of 67 responses): 4.43 / 5.0 [question 5]
+	* Overall Performance of Instructor (of 67 responses): 4.58 / 5.0 [question 15]
+
 ### Spring 2019
 * [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
 	* Enrollment (number of students): 81
