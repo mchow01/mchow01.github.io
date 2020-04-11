@@ -1,2 +1,0 @@
-I"~<p>Each time I teach my Security class, I give a month-long lab to crack as many passwords as possible.  For this fall’s contest <a href="https://twitter.com/0xmchow/status/914531472656228354">(opened on October 1, 2017 coinciding with the start of National Cyber Security Awareness Month</a>), I used three different hash types: NTLM, MD5, and SHA-512.  The password hashes:</p>
-:ET

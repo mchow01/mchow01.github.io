@@ -1,2 +1,0 @@
-I"|<p>For my <a href="https://tuftsdev.github.io/DefenseAgainstTheDarkArts">Introduction to Computer Security</a> class that I teach once an academic year since 2012, I give a month-long lab in October to crack as many passwords as possible.  For this year’s contest (opened on October 3, 2016), I used three different hash types: NTLM, MD5, and SHA-512.  The password hashes:</p>
-:ET
