@@ -4,6 +4,8 @@ title: Talks
 permalink: /talks/
 ---
 
+[Packet Analysis Using Wireshark](/docs/introseccon2020.pdf) Intro Sec Con, Virtual Conference, April 25, 2020.
+
 [Lessons from an Undergraduate Course in Cybersecurity and Cyber Warfare - Is Our Children Securing?](/docs/hope2018.pdf) Presented with Matt Weinberg. Circle of HOPE, Hotel Pennsylvania, New York, NY, July 21, 2018.
 
 <iframe id="ls_embed_1535422832" src="https://livestream.com/accounts/9198012/events/8286155/videos/178448367/player?width=640&height=360&enableInfo=true&defaultDrawer=&autoPlay=false&mute=false" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen> </iframe>
@@ -90,6 +92,7 @@ Use of the Internet in Fraud Investigations
 * Greater Boston Chapter of the Association of Certified Fraud Examiners (ACFE), Boston, MA, September 21, 2007.
 
 ## Additional Media and Press
+* ["The Evolution of Cyber Security Education and How to Break into the Industry"](https://www.netspi.com/agent-of-influence/the-evolution-of-cyber-security-education-and-how-to-break-into-the-industry/){:target="_blank"}
 * ["DEFCON 27 & BSidesLV 2019 Takeaways: Part Two"](https://www.hurricanelabs.com/blog/defcon-27-bsideslv-2019-takeaways-part-two)
 * ["My first DEFCON"](https://medium.com/@tmursch/my-first-defcon-bbe4c7fd4f1a)
 * ["Failings in Cybersecurity Education: An Interview with Professor Ming Chow"](https://clutch.co/it-services/failings-cybersecurity-education-interview-professor-ming-chow){:target="_blank"}
