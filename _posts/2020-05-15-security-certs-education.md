@@ -70,6 +70,5 @@ Ph.D/research route:
 * Cornell
 * Princeton
 * Columbia
-* Brown
 * Virginia
 * Stanford
