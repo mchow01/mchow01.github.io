@@ -6,6 +6,8 @@ permalink: /talks/
 
 [Packet Analysis Using Wireshark](/docs/introseccon2020.pdf) Intro Sec Con (@IntroSecCon), Virtual Conference, April 25, 2020.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/05rHdlOoLGE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [Lessons from an Undergraduate Course in Cybersecurity and Cyber Warfare - Is Our Children Securing?](/docs/hope2018.pdf) Presented with Matt Weinberg. Circle of HOPE, Hotel Pennsylvania, New York, NY, July 21, 2018.
 
 <iframe id="ls_embed_1535422832" src="https://livestream.com/accounts/9198012/events/8286155/videos/178448367/player?width=640&height=360&enableInfo=true&defaultDrawer=&autoPlay=false&mute=false" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen> </iframe>
