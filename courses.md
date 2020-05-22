@@ -4,6 +4,22 @@ title: Courses @ Tufts
 permalink: /courses/
 ---
 
+### Spring 2020
+* [COMP 98: Senior Capstone](http://www.cs.tufts.edu/comp/98/){:target="_blank"}
+	* Enrollment (number of students): 60
+	* Overall Course Rating (of 46 responses): 4.07 / 5.0 [question 5]
+	* Overall Performance of Instructor (of 46 responses):  4.30 / 5.0 [question 15]
+
+* COMP 55 / PS 188: Cyber Security and Cyber Warfare
+	* Enrollment (number of students): 34
+	* Overall Course Rating (of 24 responses): 4.38 / 5.0
+	* Overall Performance of Instructor (of 24 responses): 4.58 / 5.0
+
+* [COMP 116: Introduction to Computer Security](http://www.cs.tufts.edu/comp/116/){:target="_blank"}
+	* Enrollment (number of students): 74
+	* Overall Course Rating (of 68 responses): 4.37 / 5.0 [question 5]
+	* Overall Performance of Instructor (of 68 responses): 4.54 / 5.0 [question 15]
+
 ### Fall 2019
 * COMP 55: Computer Science for Future Presidents
 	* Enrollment (number of students): 9
