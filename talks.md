@@ -95,6 +95,7 @@ Use of the Internet in Fraud Investigations
 
 ## Additional Media and Press
 * ["The Evolution of Cyber Security Education and How to Break into the Industry"](https://www.netspi.com/agent-of-influence/the-evolution-of-cyber-security-education-and-how-to-break-into-the-industry/){:target="_blank"}
+* ["Confessions of a Former Spy Kid"](https://www.linkedin.com/pulse/confessions-former-spy-kid-hayley-cohen)
 * ["DEFCON 27 & BSidesLV 2019 Takeaways: Part Two"](https://www.hurricanelabs.com/blog/defcon-27-bsideslv-2019-takeaways-part-two)
 * ["My first DEFCON"](https://medium.com/@tmursch/my-first-defcon-bbe4c7fd4f1a)
 * ["Failings in Cybersecurity Education: An Interview with Professor Ming Chow"](https://clutch.co/it-services/failings-cybersecurity-education-interview-professor-ming-chow){:target="_blank"}
