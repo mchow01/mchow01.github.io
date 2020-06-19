@@ -82,4 +82,6 @@ What really prompted me to write this blog was this tweet by friend Marcus Carey
 
 If all you know is how to fire up and run Metasploit and other security tools on Kali Linux, then you're just a script kiddie.
 
-If you have an interest in understanding how things work underneath the hood, that goes a very long way.  The point of these projects is to understand how systems work and fail --which is the core of Security. 
+If you have an interest in understanding how things work underneath the hood, that goes a very long way.  *The point of these projects is to understand how systems work and fail --which is the core of Security.*
+
+Once you know the fundamentals and how systems work, you will have a much better sense of what's going on when you use security tools like Metasploit, wpscan, Burp Suite, THC Hydra, Nmap, and countless security tools.
