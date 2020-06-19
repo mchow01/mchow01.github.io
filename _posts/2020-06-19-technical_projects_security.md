@@ -8,7 +8,7 @@ categories: education security projects
 Quite often, I am asked about _technical_ Cyber Security project ideas to do from people who want to get into the field.  I have never been able to produce a concrete list of technical project ideas --until now.  Looking back at my career, the knowledge gained from doing these projects helped me immensely.  Each of these projects has an underlying big idea that will prove to be very valuable for the long term in the Security field.  Each of these projects can start out very small and can morph into something big.  These projects do not have a significant financial cost, all under $75.00.  I am mindful of the issue of financial cost, so I did not include project ideas such as building a home lab.  The only requirement is to have access to a computer of some sort.
 
 ### Create a Virtual Machine in VirtualBox
-Download ISO of either a Linux distribution or a version of Windows.  Using VirtualBox, create a virtual machine (VM) using the ISO.  Upon successfully creating the virtual machine, run it, and play around inside the VM.
+Download ISO of either a Linux distribution or a version of [Windows](https://www.microsoft.com/en-us/software-download/windows10ISO).  There are numerous Linux distributions, including [Ubuntu](https://ubuntu.com/download/desktop), [Debian](https://www.debian.org/distrib/), [Arch Linux](https://www.archlinux.org/download/), [Red Hat](https://developers.redhat.com/products/rhel/download).  Using VirtualBox, create a virtual machine (VM) using the ISO.  Upon successfully creating the virtual machine, run it, and play around inside the VM.
 
 Get comfortable with creating and running virtual machines.  This skill is necessary for various activities including creating a lab environment for malware analysis.  Virtualization is also what makes cloud computing works.
 
@@ -56,9 +56,11 @@ Building a mobile app is very different than building a web site or an app for d
 
 ### Write a Program That Uses a Third-Party API
 
-Pick a programming language of your choice (e.g., Python).  Write a program to get data from a third-party API of your choice (e.g., [Twitter](https://developer.twitter.com/en/docs)).  For example, a write Python program that get tweets about COVID-19 or #covid19.
+Pick a programming language of your choice (e.g., Python).  Write a program to get data from a third-party API of your choice (e.g., [Twitter](https://developer.twitter.com/en/docs)).  Examples:
+* Write a program in Go that get tweets about COVID-19 or #covid19.
+* Write a program in Python that uses the (unofficial) [Mitre-Attack-API](https://github.com/annamcabee/Mitre-Attack-API).
 
-Most modern applications now use multiple third-party APIs to integrate with what people already use and know.  Doing this project will help you learn the fundamentals including basic programming, parsing data in JSON (JavaScript Object Notation) which most third-party APIs use, and how to use and store API keys --correctly or [incorrectly](https://www.zdnet.com/article/over-100000-github-repos-have-leaked-api-or-cryptographic-keys/).
+Most modern applications now use multiple third-party APIs to integrate with what people already use and know.  Doing this project will help you learn the fundamentals including basic programming, parsing data in JSON (JavaScript Object Notation) which most third-party APIs use, and how to use and store API keys --correctly or [incorrectly](https://www.zdnet.com/article/over-100000-github-repos-have-leaked-api-or-cryptographic-keys/).  Finally, some APIs are open source on GitHub.  Using such APIs will give you exposure reading other people's code and documentation.
 
 ### Build a Blog App Using a Web Application Framework
 
@@ -66,9 +68,9 @@ Using a web application framework like Django (Python), Ruby on Rails (Ruby), Fl
 
 A web application framework allows developers to write software with less code.  That is, some common tasks can be done with as little as one line --which is both a good and a bad thing.  Less code means faster development at the cost of abstracting away how things work.  Building a web application will also help you see the many different components (i.e., distributed system) required including database and middleware.  Using a web application framework also makes it easy for developers to include third-party libraries via programming language's package manager (e.g., `gem` for Ruby, `pip` for Python, `npm` for Node).  The latest OWASP Top 10 now lists ["Using Components with Known Vulnerabilities" as A9](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A9-Using_Components_with_Known_Vulnerabilities.html).
 
-### Build a Temperature Sensor Using Arduino and Send Data to Server Somewhere
+### Build a Small IoT / Embedded System
 
-I had to throw in an Internet of Things / embedded systems project of some sort.
+I had to throw in an Internet of Things / embedded systems project of some sort.  An example: build a temperature sensor using Arduino, and send data to a server.
 
 ### The Point of These Projects
 
@@ -76,7 +78,7 @@ Each of the project ideas started with the word "build", "create", or "write".  
 
 What really prompted me to write this blog was this tweet by friend Marcus Carey:
 
-> More often than not if all you know if ethical hacking, OSINT, and social engineering it's going to be hard to get your first job in cybersecurity.
+> More often than not if all you know (is) ethical hacking, OSINT, and social engineering it's going to be hard to get your first job in cybersecurity.
 
 [https://twitter.com/marcusjcarey/status/1270876203306627072?s=21](https://twitter.com/marcusjcarey/status/1270876203306627072?s=21)
 
@@ -85,3 +87,7 @@ If all you know is how to fire up and run Metasploit and other security tools on
 If you have an interest in understanding how things work underneath the hood, that goes a very long way.  *The point of these projects is to understand how systems work and fail --which is the core of Security.*
 
 Once you know the fundamentals and how systems work, you will have a much better sense of what's going on when you use security tools like Metasploit, wpscan, Burp Suite, THC Hydra, Nmap, and countless others.
+
+#### Acknowledgements
+
+Many thanks to Gabby Roncone and Marcus Carey for reviewing this piece!
