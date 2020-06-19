@@ -5,7 +5,7 @@ date:   2020-06-19 00:00:00
 categories: education security projects
 ---
 
-Quite often, I am asked about _technical_ Cyber Security project ideas to do from people who want to get into the Security field.  I have never been able to produce a concrete list of technical project ideas --until now.  Looking back at my career, the knowledge I gained from doing these projects helped me immensely.  Each of these projects has an underlying big idea that will prove to be very valuable for the long term in the Security field.  Each of these projects can start out very small and can morph into something big.  These projects do not have a significant financial cost (all under $75.00).  I am mindful of the issue of financial cost, so I did not include project ideas such as building a home lab.  The only requirement is to have access to a computer of some sort.
+Quite often, I am asked about _technical_ Cyber Security project ideas to do from people who want to get into the field.  I have never been able to produce a concrete list of technical project ideas --until now.  Looking back at my career, the knowledge gained from doing these projects helped me immensely.  Each of these projects has an underlying big idea that will prove to be very valuable for the long term in the Security field.  Each of these projects can start out very small and can morph into something big.  These projects do not have a significant financial cost, all under $75.00.  I am mindful of the issue of financial cost, so I did not include project ideas such as building a home lab.  The only requirement is to have access to a computer of some sort.
 
 ### Create a Virtual Machine in VirtualBox
 Download ISO of either a Linux distribution or a version of Windows.  Using VirtualBox, create a virtual machine (VM) using the ISO.  Upon successfully creating the virtual machine, run it, and play around inside the VM.
@@ -26,9 +26,9 @@ This project provides skills of installing software and using a cloud environmen
 
 ### Build a Static Website Using HTML, CSS, JavaScript, and Amazon S3
 
-Without using a front-end framework such as Bootstrap, write a simple static website using HTML, CSS, JavaScript, and Amazon S3.  One idea for a website is a personal website.  It is not recommended use a front-end framework for this project because it provides so much for you where you don't need to understand how things really work.  Build the website using a good code editor (e.g., Atom, Sublime, Visual Studio Code).
+Without using a front-end framework such as Bootstrap, write a simple static website using HTML, CSS, JavaScript, and Amazon S3.  One idea for a website is a personal website.  I do not recommended using a front-end framework for this project because it provides so much for you where you don't need to understand how things really work.  Build the website using a good code editor (e.g., Atom, Sublime, Visual Studio Code).
 
-If your goal is to do web application security, it is necessary to know how the web works.  This includes the syntax and structure of HTML, CSS, and JavaScript files.  I also include Amazon S3 in this project, not because it is part of AWS, but because of the rash of security incidents involving open S3 buckets exposing troves of secrets.  Hence, this is a system that security practitioners should know about.
+If your goal is to do web application security, it is necessary to know how the web works.  This includes the syntax and structure of HTML, CSS, and JavaScript files.  I also included Amazon S3 in this project, not because it is part of AWS, but because of the rash of security incidents involving open S3 buckets exposing troves of secrets.  Hence, this is a system that security practitioners should know about.
 
 ### Create a Blog Using WordPress
 
@@ -64,7 +64,7 @@ Most modern applications now use multiple third-party APIs to integrate with wha
 
 Using a web application framework like Django (Python), Ruby on Rails (Ruby), Flask (Python), Express (Node.js), build a blog app.  The official [Ruby on Rails tutorial](https://guides.rubyonrails.org/getting_started.html) is building a blog app.
 
-A web application framework allows developers to write software with less code.  That is, some common tasks can be done with as little as one line --which is both a good and a bad thing.  Less code means faster development at the cost of abstracting away how things work.  Building a web application will also help you see the many different components (i.e., distributed system) required including database and middlewear.  Using a web application framework also makes it easy for developers to include third-party libraries via programming language's package manager (e.g., `gem` for Ruby, `pip` for Python, `npm` for Node).  The latest OWASP Top 10 now lists ["Using Components with Known Vulnerabilities" as A9](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A9-Using_Components_with_Known_Vulnerabilities.html).
+A web application framework allows developers to write software with less code.  That is, some common tasks can be done with as little as one line --which is both a good and a bad thing.  Less code means faster development at the cost of abstracting away how things work.  Building a web application will also help you see the many different components (i.e., distributed system) required including database and middleware.  Using a web application framework also makes it easy for developers to include third-party libraries via programming language's package manager (e.g., `gem` for Ruby, `pip` for Python, `npm` for Node).  The latest OWASP Top 10 now lists ["Using Components with Known Vulnerabilities" as A9](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A9-Using_Components_with_Known_Vulnerabilities.html).
 
 ### Build a Temperature Sensor Using Arduino and Send Data to Server Somewhere
 
