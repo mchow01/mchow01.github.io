@@ -94,6 +94,7 @@ Use of the Internet in Fraud Investigations
 * Greater Boston Chapter of the Association of Certified Fraud Examiners (ACFE), Boston, MA, September 21, 2007.
 
 ## Additional Media and Press
+* ["How One College Professor Is Trying to Address the Cybersecurity Skills Gap"](https://www.veracode.com/how-one-college-professor-trying-address-cybersecurity-skills-gap){:target="_blank"}
 * ["The Evolution of Cyber Security Education and How to Break into the Industry"](https://www.netspi.com/agent-of-influence/the-evolution-of-cyber-security-education-and-how-to-break-into-the-industry/){:target="_blank"}
 * ["Confessions of a Former Spy Kid"](https://www.linkedin.com/pulse/confessions-former-spy-kid-hayley-cohen)
 * ["DEFCON 27 & BSidesLV 2019 Takeaways: Part Two"](https://www.hurricanelabs.com/blog/defcon-27-bsideslv-2019-takeaways-part-two)
