@@ -80,14 +80,24 @@ Perhaps the only statement that is missing from the above posting is:
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Someone sent me this in DM.<br><br>(I think the only thing that recruiter didn&#39;t ask was &quot;Virginity check&quot; before being offered to SATAN) <a href="https://t.co/6Urvk4LQcr">pic.twitter.com/6Urvk4LQcr</a></p>&mdash; DEY! (@ronindey) <a href="https://twitter.com/ronindey/status/973294188308697089?ref_src=twsrc%5Etfw">March 12, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-### Mother of God! We save the best for last as we hit the jackpot with this one. "Three years as a developer plus 5 years at least in all the other domains. In total ~55 years experience for the optimum candidate." (thanks to @sprkyco for this gem)
+### "Three years as a developer plus 5 years at least in all the other domains. In total ~55 years experience for the optimum candidate." (thanks to @sprkyco for this gem)
 
 ![Hall of Shame Job Posting](/images/hos_010.jpg)
 
-### (UPDATED ON MAY 24, 2018) And I thought the above was bad.  "EVEN THOUGH THIS IS AN ENTRY-LEVEL POSITION, WE STILL REQUIRE ALL APPLICANTS HAVE AT LEAST 4 TO 5 YEARS EXPERIENCE IN A ROLE WITH SIMILAR RESPONSIBILITIES" $9.50 an hour!  This job was confirmed on Reddit: [https://www.reddit.com/r/networking/comments/4jemke/new_job_get_it_while_its_hot/](https://www.reddit.com/r/networking/comments/4jemke/new_job_get_it_while_its_hot/). Screenshots of the job posting in higher resolution: [https://imgur.com/a/D7qVm](https://imgur.com/a/D7qVm).  Credit to [@J0hnnyXm4s](https://twitter.com/J0hnnyXm4s/status/999653774238117889) for the find.
+### (Added on May 24, 2018) And I thought the above was bad.  "EVEN THOUGH THIS IS AN ENTRY-LEVEL POSITION, WE STILL REQUIRE ALL APPLICANTS HAVE AT LEAST 4 TO 5 YEARS EXPERIENCE IN A ROLE WITH SIMILAR RESPONSIBILITIES" $9.50 an hour!  This job was confirmed on Reddit: [https://www.reddit.com/r/networking/comments/4jemke/new_job_get_it_while_its_hot/](https://www.reddit.com/r/networking/comments/4jemke/new_job_get_it_while_its_hot/). Screenshots of the job posting in higher resolution: [https://imgur.com/a/D7qVm](https://imgur.com/a/D7qVm).  Credit to [@J0hnnyXm4s](https://twitter.com/J0hnnyXm4s/status/999653774238117889) for the find.
 
 ![Hall of Shame Job Posting](/images/hos_017.jpg)
+
+### (Added on July 8, 2020) This is an _internship_. Thanks to @ki_twyce_ for this.
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">I have an alert set up for information security internships on LinkedIn and this was one of them. These requirements are crazy. <a href="https://t.co/sVIxd1TiXQ">pic.twitter.com/sVIxd1TiXQ</a></p>&mdash; Beatrix_Kiddo (@ki_twyce_) <a href="https://twitter.com/ki_twyce_/status/1280939693920661505?ref_src=twsrc%5Etfw">July 8, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+![Hall of Shame Job Posting](/images/hos_018-1.jpg)
+![Hall of Shame Job Posting](/images/hos_018-2.jpg)
+
+### (Added on July 8, 2020) Dafuq? Thanks to @blowdart for this. Source: [https://twitter.com/blowdart/status/1280156185774051328](https://twitter.com/blowdart/status/1280156185774051328)
+
+![Hall of Shame Job Posting](/images/hos_019.jpg)
 
 # Addendum
 
