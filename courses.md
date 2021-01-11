@@ -4,6 +4,27 @@ title: Courses @ Tufts
 permalink: /courses/
 ---
 
+### Fall 2020
+* [COMP 97: Senior Capstone](http://www.cs.tufts.edu/comp/97/){:target="_blank"}
+	* Enrollment (number of students): 37
+	* Overall Course Rating (of 29 responses): 4.66 / 5.0 [question 5]
+	* Overall Performance of Instructor (of 29 responses): 4.76 / 5.0 [question 15]
+
+* [COMP 116: Introduction to Security](http://www.cs.tufts.edu/comp/116/){:target="_blank"}
+	* Enrollment (number of students): 104
+	* Overall Course Rating (of 82 responses): 4.66 / 5.0 [question 5]
+	* Overall Performance of Instructor (of 82 responses): 4.71 / 5.0 [question 15]
+
+* [OMSCS 116: Introduction to Security](http://www.cs.tufts.edu/comp/116/){:target="_blank"}
+	* Enrollment (number of students): 12
+	* Overall Course Rating (of 8 responses): 4.0 / 5.0 [question 5]
+	* Overall Performance of Instructor (of 8 responses): 4.5 / 5.0 [question 15]
+
+* ES 85: Cooperative Education
+	* Enrollment (number of students): 7
+	* Overall Course Rating (of 5 responses): 3.80 / 5.0 [question 5]
+	* Overall Performance of Instructor (of 5 responses): 3.60 / 5.0 [question 15]
+
 ### Spring 2020
 * [COMP 98: Senior Capstone](http://www.cs.tufts.edu/comp/98/){:target="_blank"}
 	* Enrollment (number of students): 60
