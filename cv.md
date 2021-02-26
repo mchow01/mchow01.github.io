@@ -9,12 +9,21 @@ permalink: /cv/
 
 ## Teaching Experience
 
+**O'Reilly Media, Sebastopol​, CA**
+
+_Live Online Training (LOT) Instructor, January 2021 to present_
+
+* Designed and led Live Online Training session "Web Application Security Fundamentals".  First session on January 19, 2021 had 201 live attendees.
+
 **Tufts University, Medford, MA 02155**
 
-* _Associate Teaching Professor, September 2019 to present_
-* _International Relations Program Core Faculty Member, September 2017 to present_
-* _Senior Lecturer, Department of Computer Science, September 2015 to August 2019_
-* _Lecturer, September 2009 to August 2015_
+_Associate Teaching Professor, September 2019 to present_
+
+_International Relations Program Core Faculty Member, September 2017 to present_
+
+_Senior Lecturer, Department of Computer Science, September 2015 to August 2019_
+
+_Lecturer, September 2009 to August 2015_
 
 * Awarded the 2017 Lerman-Neubauer Prize for Outstanding Teaching and Advising, awarded annually to a faculty member of Arts and Sciences or of Engineering who has had a profound intellectual impact on his or her students, both inside and outside the classroom.
 * Mentored Winnona DeSombre's paper "Getting Harder to Catch: Analyzing the Evolution of China’s Cyber Espionage Campaigns against the United States through a Case Study of APT1" that was published in _2017 Journal of International Relations_ by the National Office of Sigma Iota Rho (SIR), the International Relations Honor Society. Poster presented at 2017 Women in Cyber Security (WiCyS) Conference in Chicago, IL.
@@ -29,12 +38,12 @@ permalink: /cv/
 #### Courses at Tufts University
 
 * _COMP 116: Computer System Security_ (a.k.a., _Introduction to Security_)
-	* Taught in Spring 2011, Spring 2012, Fall 2013, Fall 2014, Fall 2015, Fall 2016, Summer 2017 (online), Fall 2017, Spring 2018, Summer 2018 (online), Fall 2018, Summer 2019 (online), Fall 2019, Spring 2020
+	* Taught in Spring 2011, Spring 2012, Fall 2013, Fall 2014, Fall 2015, Fall 2016, Summer 2017 (online), Fall 2017, Spring 2018, Summer 2018 (online), Fall 2018, Summer 2019 (online), Fall 2019, Spring 2020, Summer 2020, Fall 2020, Spring 2021
 * _COMP 20: Web Programming_
 	* Taught in Fall 2009, Fall 2010, Spring 2011, Summer 2011, Spring 2013, Spring 2014, Fall 2014, Spring 2015, Fall 2015, Spring 2016, Summer 2016 (Online), Fall 2016, Spring 2017, Summer 2017 (online), Fall 2017, Spring 2018, Summer 2018 (online), Fall 2018, Spring 2019, Summer 2019 (online)
 	* Grew the course from 11 students in fall 2009 to 119 in spring 2013.
 * _COMP 97 and 98: Senior Capstone Project I and II_
-	* Taught in 2012 - 2013, 2013 - 2014, 2018 - 2019, 2019 - 2020 academic years 
+	* Taught in 2012 - 2013, 2013 - 2014, 2018 - 2019, 2019 - 2020, 2020 - 2021 academic years 
 	* Formerly known as Software Engineering. Changed requirement from a one semester project experience to a one academic year project experience.
 	* Required for all undergraduate Computer Science majors through the School of Engineering.
 * _COMP 50: Computer Science for Future Presidents_
@@ -88,6 +97,7 @@ _Lecturer_
 	* Hosted a colloquium entitled "Building Privacy-Aware Applications" with guest speaker JC Cannon from Microsoft for the Tufts Department of Computer Science.
 
 ## Presentations and Publications
+* _Packet Analysis Using Wireshark_. Intro Sec Con (@IntroSecCon), Virtual Conference, April 25, 2020.
 * _Lessons from an Undergraduate Course in Cybersecurity and Cyber Warfare - Is Our Children Securing?_ Presented with Matt Weinberg. Circle of HOPE, Hotel Pennsylvania, New York, NY, July 21, 2018.
 * _Why Git and GitHub?_ on _GitHub Panel GitHub: Real-World Tools, Engaged Students_. ACM SIGCSE 2018, Baltimore, MD, February 22, 2018.
 * _Panel: Mentoring The Next Generation of Security Talent (with Sandy Carielli, Tim Ferguson, Laurene Hummer, and Daniel Nelson)_. SOURCE Conference Boston 2017, Marriott Tremont, Boston, MA, April 27, 2017.
