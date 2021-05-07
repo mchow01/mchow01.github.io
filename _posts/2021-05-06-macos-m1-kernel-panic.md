@@ -5,7 +5,7 @@ date:   2021-05-06 21:04:00
 categories: macos system internals wtf
 ---
 
-The problem: it takes a very long time for my Mac to shutdown (I have a Mac Mini M1).  In fact, it doesn't shutdown, but reboots after a long while.  The stackshot is below.
+The problem: it was taking a very long time for my Mac Mini M1 to shutdown.  In fact, it wouldn't shutdown, but rebooted after a long while.  The stackshot is below.
 
 I searched for "watchdog timeout: no checkins from watchdogd" and came across this: [https://apple.stackexchange.com/questions/412584/m1-mac-kernel-panic-on-reboot-no-checkins-from-watchdogd](https://apple.stackexchange.com/questions/412584/m1-mac-kernel-panic-on-reboot-no-checkins-from-watchdogd)
 
