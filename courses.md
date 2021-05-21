@@ -4,18 +4,34 @@ title: Courses @ Tufts
 permalink: /courses/
 ---
 
+### Spring 2021
+* [COMP 98: Senior Capstone](https://www.cs.tufts.edu/comp/98/){:target="_blank"}
+	* Enrollment (number of students): 38
+	* Overall Course Rating (of 34 responses): 4.62 / 5.0 [question 5]
+	* Overall Performance of Instructor (of 34 responses): 4.76 / 5.0 [question 15]
+
+* [COMP 116: Introduction to Security](https://www.cs.tufts.edu/comp/116/){:target="_blank"}
+	* Enrollment (number of students): 97
+	* Overall Course Rating (of 83 responses): 4.58 / 5.0 [question 5]
+	* Overall Performance of Instructor (of 83 responses): 4.75 / 5.0 [question 15]
+
+* ES 85: Cooperative Education
+	* Enrollment (number of students): 11
+	* Overall Course Rating (of 8 responses): 4.50 / 5.0 [question 5]
+	* Overall Performance of Instructor (of 8 responses): 4.63 / 5.0 [question 15]
+
 ### Fall 2020
-* [COMP 97: Senior Capstone](http://www.cs.tufts.edu/comp/97/){:target="_blank"}
+* [COMP 97: Senior Capstone](https://www.cs.tufts.edu/comp/97/){:target="_blank"}
 	* Enrollment (number of students): 37
 	* Overall Course Rating (of 29 responses): 4.66 / 5.0 [question 5]
 	* Overall Performance of Instructor (of 29 responses): 4.76 / 5.0 [question 15]
 
-* [COMP 116: Introduction to Security](http://www.cs.tufts.edu/comp/116/){:target="_blank"}
+* [COMP 116: Introduction to Security](https://www.cs.tufts.edu/comp/116/){:target="_blank"}
 	* Enrollment (number of students): 104
 	* Overall Course Rating (of 82 responses): 4.66 / 5.0 [question 5]
 	* Overall Performance of Instructor (of 82 responses): 4.71 / 5.0 [question 15]
 
-* [OMSCS 116: Introduction to Security](http://www.cs.tufts.edu/comp/116/){:target="_blank"}
+* [OMSCS 116: Introduction to Security](https://www.cs.tufts.edu/comp/116/){:target="_blank"}
 	* Enrollment (number of students): 12
 	* Overall Course Rating (of 8 responses): 4.0 / 5.0 [question 5]
 	* Overall Performance of Instructor (of 8 responses): 4.5 / 5.0 [question 15]
@@ -26,7 +42,7 @@ permalink: /courses/
 	* Overall Performance of Instructor (of 5 responses): 3.60 / 5.0 [question 15]
 
 ### Spring 2020
-* [COMP 98: Senior Capstone](http://www.cs.tufts.edu/comp/98/){:target="_blank"}
+* [COMP 98: Senior Capstone](https://www.cs.tufts.edu/comp/98/){:target="_blank"}
 	* Enrollment (number of students): 60
 	* Overall Course Rating (of 46 responses): 4.07 / 5.0 [question 5]
 	* Overall Performance of Instructor (of 46 responses):  4.30 / 5.0 [question 15]
@@ -36,7 +52,7 @@ permalink: /courses/
 	* Overall Course Rating (of 24 responses): 4.38 / 5.0
 	* Overall Performance of Instructor (of 24 responses): 4.58 / 5.0
 
-* [COMP 116: Introduction to Computer Security](http://www.cs.tufts.edu/comp/116/){:target="_blank"}
+* [COMP 116: Introduction to Computer Security](https://www.cs.tufts.edu/comp/116/){:target="_blank"}
 	* Enrollment (number of students): 74
 	* Overall Course Rating (of 68 responses): 4.37 / 5.0 [question 5]
 	* Overall Performance of Instructor (of 68 responses): 4.54 / 5.0 [question 15]
@@ -47,23 +63,23 @@ permalink: /courses/
 	* Overall Course Rating (of 7 responses): 4.0 / 5.0 [question 5]
 	* Overall Performance of Instructor (of 7 responses): 4.71 / 5.0 [question 15]
 
-* [COMP 97: Senior Capstone](http://www.cs.tufts.edu/comp/97/){:target="_blank"}
+* [COMP 97: Senior Capstone](https://www.cs.tufts.edu/comp/97/){:target="_blank"}
 	* Enrollment (number of students): 62
 	* Overall Course Rating (of 47 responses): 4.0 / 5.0 [question 5]
 	* Overall Performance of Instructor (of 47 responses): 4.36 / 5.0 [question 15]
 
-* [COMP 116: Introduction to Computer Security](http://www.cs.tufts.edu/comp/116/){:target="_blank"}
+* [COMP 116: Introduction to Computer Security](https://www.cs.tufts.edu/comp/116/){:target="_blank"}
 	* Enrollment (number of students): 82
 	* Overall Course Rating (of 67 responses): 4.43 / 5.0 [question 5]
 	* Overall Performance of Instructor (of 67 responses): 4.58 / 5.0 [question 15]
 
 ### Spring 2019
-* [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
+* [COMP 20: Web Programming](https://www.cs.tufts.edu/comp/20/){:target="_blank"}
 	* Enrollment (number of students): 81
 	* Overall Course Rating (of 72 responses): 4.43 / 5.0 [question 5]
 	* Overall Performance of Instructor (of 72 responses): 4.60 / 5.0 [question 15]
 
-* [COMP 98: Senior Capstone](http://www.cs.tufts.edu/comp/98/){:target="_blank"}
+* [COMP 98: Senior Capstone](https://www.cs.tufts.edu/comp/98/){:target="_blank"}
 	* Enrollment (number of students): 48
 	* Overall Course Rating (of 40 responses): 4.08 / 5.0 [question 5]
 	* Overall Performance of Instructor (of 40 responses):  4.41 / 5.0 [question 15]
@@ -74,28 +90,28 @@ permalink: /courses/
 	* Overall Performance of Instructor (of 41 responses): 4.0 / 5.0
 
 ### Fall 2018
-* [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
+* [COMP 20: Web Programming](https://www.cs.tufts.edu/comp/20/){:target="_blank"}
 	* Enrollment (number of students): 78
 	* Overall Course Rating (of 74 responses): 4.20 / 5.0 [question 5]
 	* Overall Performance of Instructor (of 74 responses): 4.45 / 5.0 [question 15]
 
-* [COMP 97: Senior Capstone](http://www.cs.tufts.edu/comp/97/){:target="_blank"}
+* [COMP 97: Senior Capstone](https://www.cs.tufts.edu/comp/97/){:target="_blank"}
 	* Enrollment (number of students): 49
 	* Overall Course Rating (of 44 responses): 4.09 / 5.0 [question 5]
 	* Overall Performance of Instructor (of 44 responses): 4.36 / 5.0 [question 15]
 
-* [COMP 116: Introduction to Computer Security](http://www.cs.tufts.edu/comp/116/){:target="_blank"}
+* [COMP 116: Introduction to Computer Security](https://www.cs.tufts.edu/comp/116/){:target="_blank"}
 	* Enrollment (number of students): 68
 	* Overall Course Rating (of 59 responses): 4.41 / 5.0 [question 5]
 	* Overall Performance of Instructor (of 59 responses): 4.58 / 5.0 [question 15]
 
 ### Spring 2018
-* [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
+* [COMP 20: Web Programming](https://www.cs.tufts.edu/comp/20/){:target="_blank"}
 	* Enrollment (number of students): 80
 	* Overall Course Rating (of 72 responses): 4.32 / 5.0 [question 5]
 	* Overall Performance of Instructor (of 72 responses): 4.47 / 5.0 [question 15]
 
-* [COMP 116: Introduction to Computer Security](http://www.cs.tufts.edu/comp/116/){:target="_blank"}
+* [COMP 116: Introduction to Computer Security](https://www.cs.tufts.edu/comp/116/){:target="_blank"}
 	* Enrollment (number of students): 79
 	* Overall Course Rating (of 63 responses): 4.43 / 5.0 [question 5]
 	* Overall Performance of Instructor (of 63 responses): 4.56 / 5.0 [question 15]
@@ -106,28 +122,28 @@ permalink: /courses/
 	* Overall Performance of Instructor (of 10 responses): 3.50 / 5.0 [question 15]
 
 ### Fall 2017
-* [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
+* [COMP 20: Web Programming](https://www.cs.tufts.edu/comp/20/){:target="_blank"}
 	* Enrollment (number of students): 80
 	* Overall Course Rating (of 77 responses):  4.18 / 5.0 [question 5]
 	* Overall Performance of Instructor (of 77 responses): 4.43 / 5.0 [question 15]
 
-* [COMP 116: Introduction to Computer Security](http://www.cs.tufts.edu/comp/116/){:target="_blank"}
+* [COMP 116: Introduction to Computer Security](https://www.cs.tufts.edu/comp/116/){:target="_blank"}
 	* Enrollment (number of students): 86
 	* Overall Course Rating (of 80 responses): 4.11 / 5.0
 	* Overall Performance of Instructor (of 80 responses): 4.26 / 5.0
 	
-* [COMP 150-MOB: Mobile Development](http://www.cs.tufts.edu/comp/150MOB/){:target="_blank"}
+* [COMP 150-MOB: Mobile Development](https://www.cs.tufts.edu/comp/150MOB/){:target="_blank"}
 	* Enrollment (number of students): 40
 	* Overall Course Rating (of 35 responses):  4.11 / 5.0
 	* Overall Performance of Instructor (of 35 responses): 4.31 / 5.0
 
 ### Spring 2017
-* [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
+* [COMP 20: Web Programming](https://www.cs.tufts.edu/comp/20/){:target="_blank"}
 	* Enrollment (number of students): 124
 	* Overall Course Rating (of 115 responses): 4.17 / 5.0 [question 5]
 	* Overall Performance of Instructor (of 115 responses): 4.42 / 5.0 [question 15]
 
-* [COMP 120: Web Engineering](http://www.cs.tufts.edu/comp/120/){:target="_blank"}
+* [COMP 120: Web Engineering](https://www.cs.tufts.edu/comp/120/){:target="_blank"}
 	* Enrollment (number of students): 47
 	* Overall Course Rating (of 42 responses):  3.60 / 5.0
 	* Overall Performance of Instructor (of 42 responses): 4.10 / 5.0
@@ -138,28 +154,28 @@ permalink: /courses/
 	* Overall Performance of Instructor (of 37 responses): 4.08 / 5.0
 
 ### Fall 2016
-* [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
+* [COMP 20: Web Programming](https://www.cs.tufts.edu/comp/20/){:target="_blank"}
 	* Enrollment (number of students): 87
 	* Overall Course Rating (of 81 responses): 4.27 / 5.0 [question 5]
 	* Overall Performance of Instructor (of 81 responses): 4.53 / 5.0 [question 15]
 
-* [COMP 116: Introduction to Computer Security](http://www.cs.tufts.edu/comp/116/){:target="_blank"}
+* [COMP 116: Introduction to Computer Security](https://www.cs.tufts.edu/comp/116/){:target="_blank"}
 	* Enrollment (number of students): 75
 	* Overall Course Rating (of 69 responses):  4.26 / 5.0
 	* Overall Performance of Instructor (of 69 responses): 4.49 / 5.0
 	
-* [COMP 150-MOB: Mobile Development](http://www.cs.tufts.edu/comp/150MOB/){:target="_blank"}
+* [COMP 150-MOB: Mobile Development](https://www.cs.tufts.edu/comp/150MOB/){:target="_blank"}
 	* Enrollment (number of students): 43
 	* Overall Course Rating (of 23 responses): 3.65 / 5.0
 	* Overall Performance of Instructor (of 23 responses): 4.17 / 5.0
 
 ### Spring 2016
-* [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
+* [COMP 20: Web Programming](https://www.cs.tufts.edu/comp/20/){:target="_blank"}
 	* Enrollment (number of students): 113
 	* Overall Course Rating (of 100 responses): 4.21 / 5.0 [question 5]
 	* Overall Performance of Instructor (of 100 responses): 4.40 / 5.0 [question 15]
 
-* [COMP 120: Web Engineering](http://www.cs.tufts.edu/comp/120/){:target="_blank"}
+* [COMP 120: Web Engineering](https://www.cs.tufts.edu/comp/120/){:target="_blank"}
 	* Enrollment (number of students): 48
 	* Overall Course Rating (of 41 responses):  3.98 / 5.0
 	* Overall Performance of Instructor (of 41 responses): 4.37 / 5.0
@@ -170,44 +186,44 @@ permalink: /courses/
 	* Overall Performance of Instructor (of 21 responses): 3.57 / 5.0
 
 ### Fall 2015
-* [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
+* [COMP 20: Web Programming](https://www.cs.tufts.edu/comp/20/){:target="_blank"}
 	* Enrollment (number of students): 76
 	* Overall Course Rating (of 69 responses): 4.23 / 5.0 [question 5]
 	* Overall Performance of Instructor (of 69 responses): 4.45 / 5.0 [question 15]
 
-* [COMP 23: Introduction to Game Development](http://www.cs.tufts.edu/comp/23/){:target="_blank"}
+* [COMP 23: Introduction to Game Development](https://www.cs.tufts.edu/comp/23/){:target="_blank"}
 	* Enrollment (number of students): 37
 	* Overall Course Rating (of 22 responses):  3.95 / 5.0
 	* Overall Performance of Instructor (of 22 responses): 4.14 / 5.0
 	
-* [COMP 116: Introduction to Computer Security](http://www.cs.tufts.edu/comp/116/){:target="_blank"}
+* [COMP 116: Introduction to Computer Security](https://www.cs.tufts.edu/comp/116/){:target="_blank"}
 	* Enrollment (number of students): 66
 	* Overall Course Rating (of 27 responses): 4.33 / 5.0
 	* Overall Performance of Instructor (of 27 responses): 4.44 / 5.0
 
 ### Spring 2015
-* [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
+* [COMP 20: Web Programming](https://www.cs.tufts.edu/comp/20/){:target="_blank"}
 	* Enrollment (number of students): 109
 	* Overall Course Rating (of 73 responses): 4.14 / 5.0
 	* Overall Performance of Instructor (of 73 responses): 4.38 / 5.0
 	
-* [COMP 120: Web Engineering](http://www.cs.tufts.edu/comp/120/){:target="_blank"}
+* [COMP 120: Web Engineering](https://www.cs.tufts.edu/comp/120/){:target="_blank"}
 	* Enrollment (number of students): 59
 	* Overall Course Rating (of 41 responses): 3.98 / 5.0
 	* Overall Performance of Instructor (of 41 responses): 4.20 / 5.0
 	
-* [COMP 150-ISW: Music Apps on the iPad](http://www.cs.tufts.edu/comp/150ISW/){:target="_blank"}
+* [COMP 150-ISW: Music Apps on the iPad](https://www.cs.tufts.edu/comp/150ISW/){:target="_blank"}
 	* Enrollment (number of students): 21
 	* Overall Course Rating (of 15 responses): 4.67 / 5.0
 	* Overall Performance of Instructor (of 15 responses): 4.53 / 5.0
 	
 ### Fall 2014
-* [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
+* [COMP 20: Web Programming](https://www.cs.tufts.edu/comp/20/){:target="_blank"}
 	* Enrollment (number of students): 77
 	* Overall Course Rating (of 33 responses): 4.39 / 5.0
 	* Overall Performance of Instructor (of 33 responses): 4.48 / 5.0
 
-* [COMP 116: Introduction to Computer Security](http://www.cs.tufts.edu/comp/116/){:target="_blank"}
+* [COMP 116: Introduction to Computer Security](https://www.cs.tufts.edu/comp/116/){:target="_blank"}
 	* Enrollment (number of students): 48
 	* Overall Course Rating (of 25 responses): 4.20 / 5.0
 	* Overall Performance of Instructor (of 25 responses): 4.44 / 5.0
@@ -219,12 +235,12 @@ permalink: /courses/
 	
 ### Spring 2014
 
-* [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
+* [COMP 20: Web Programming](https://www.cs.tufts.edu/comp/20/){:target="_blank"}
 	* Enrollment (number of students): 100
 	* Overall Course Rating (of 72 responses):  4.42 / 5.0
 	* Overall Performance of Instructor (of 72 responses): 4.47 / 5.0
 	
-* [COMP 23: Introduction to Game Development](http://www.cs.tufts.edu/comp/23/){:target="_blank"}
+* [COMP 23: Introduction to Game Development](https://www.cs.tufts.edu/comp/23/){:target="_blank"}
 	* Enrollment (number of students): 38
 	* Overall Course Rating (of 27 responses):  4.41 / 5.0
 	* Overall Performance of Instructor (of 27 responses): 4.56 / 5.0
@@ -241,19 +257,19 @@ permalink: /courses/
 	* Overall Course Rating (of 5 responses):  3.60 / 5.0
 	* Overall Performance of Instructor (of 5 responses): 3.60 / 5.0
 
-* [COMP 116: Introduction to Computer Security](http://www.cs.tufts.edu/comp/116/){:target="_blank"}
+* [COMP 116: Introduction to Computer Security](https://www.cs.tufts.edu/comp/116/){:target="_blank"}
 	* Enrollment (number of students): 56
 	* Overall Course Rating (of 22 responses):  3.95 / 5.0
 	* Overall Performance of Instructor (of 22 responses):  3.95 / 5.0
 
-* [COMP 120: Web Engineering](http://www.cs.tufts.edu/comp/120/){:target="_blank"}
+* [COMP 120: Web Engineering](https://www.cs.tufts.edu/comp/120/){:target="_blank"}
 	* Enrollment (number of students): 37
 	* Overall Course Rating (of 15 responses):  3.93 / 5.0
 	* Overall Performance of Instructor (of 15 responses):  4.13 / 5.0
 
 ### Spring 2013
 
-* [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
+* [COMP 20: Web Programming](https://www.cs.tufts.edu/comp/20/){:target="_blank"}
 	* Enrollment (number of students): 119
 	* Overall Course Rating: 3.88 / 5.0
 	* Overall Performance of Instructor: 4.05 / 5.0
@@ -263,7 +279,7 @@ permalink: /courses/
 	* Overall Course Rating: 3.56 / 5.0
 	* Overall Performance of Instructor: 3.78 / 5.0
 
-* [COMP 120: COMP 150-ISW: Music Apps on the iPad](http://www.cs.tufts.edu/comp/150ISW/){:target="_blank"}
+* [COMP 120: COMP 150-ISW: Music Apps on the iPad](https://www.cs.tufts.edu/comp/150ISW/){:target="_blank"}
 	* Enrollment (number of students): 15
 	* Overall Course Rating: 3.25 / 5.0
 	* Overall Performance of Instructor: 3.88 / 5.0
@@ -286,7 +302,7 @@ permalink: /courses/
 
 ### Spring 2012
 
-* COMP 50-GD: Introduction to Game Development *(This course has been donated to Tufts OpenCourseWare: [http://ocw.tufts.edu/Course/75](http://ocw.tufts.edu/Course/75){:target="_blank"})*
+* COMP 50-GD: Introduction to Game Development *(This course has been donated to Tufts OpenCourseWare: [https://ocw.tufts.edu/Course/75](https://ocw.tufts.edu/Course/75){:target="_blank"})*
 	* Enrollment (number of students): 35
 	* Overall Course Rating: 4.0 / 5.0
 	* Overall Performance of Instructor: 4.3 / 5.0
