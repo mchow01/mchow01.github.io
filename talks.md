@@ -4,6 +4,8 @@ title: Talks
 permalink: /talks/
 ---
 
+[Lessons Not Learned in the Last Ten Years](/docs/tacticaledge20210623.pdf) Tactical Edge Virtual Summit 2021, June 23, 2021.
+
 [Packet Analysis Using Wireshark](/docs/introseccon2020.pdf) Intro Sec Con (@IntroSecCon), Virtual Conference, April 25, 2020.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/05rHdlOoLGE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
