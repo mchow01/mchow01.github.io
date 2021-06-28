@@ -6,13 +6,15 @@ permalink: /talks/
 
 [Lessons Not Learned in the Last Ten Years](/docs/tacticaledge20210623.pdf) Tactical Edge Virtual Summit 2021, June 23, 2021.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qkTJ1qoM8yA" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [Packet Analysis Using Wireshark](/docs/introseccon2020.pdf) Intro Sec Con (@IntroSecCon), Virtual Conference, April 25, 2020.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/05rHdlOoLGE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/05rHdlOoLGE" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Lessons from an Undergraduate Course in Cybersecurity and Cyber Warfare - Is Our Children Securing?](/docs/hope2018.pdf) Presented with Matt Weinberg. Circle of HOPE, Hotel Pennsylvania, New York, NY, July 21, 2018.
 
-<iframe id="ls_embed_1535422832" src="https://livestream.com/accounts/9198012/events/8286155/videos/178448367/player?width=640&height=360&enableInfo=true&defaultDrawer=&autoPlay=false&mute=false" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen> </iframe>
+<iframe id="ls_embed_1535422832" src="https://livestream.com/accounts/9198012/events/8286155/videos/178448367/player?width=640&height=360&enableInfo=true&defaultDrawer=&autoPlay=false&mute=false" width="640" height="360" scrolling="no" allowfullscreen> </iframe>
 
 [Why Git and GitHub?](/docs/sigcse2018.pdf) on _GitHub Panel GitHub: Real-World Tools, Engaged Students_. ACM SIGCSE 2018, Baltimore, MD, February 22, 2018.
 
@@ -36,7 +38,7 @@ The Cyber Security Education Gap - What Do We Do Now? (Presented with Roy Wattan
 * [Advanced Cyber Security Center (ACSC) Cyber Tuesday Meeting](/docs/acsc-20161116.pdf), Federal Reserve Bank, Boston, MA, November 15, 2016.
 * 2016 ISSA International Conference, Hyatt Regency Dallas, Dallas, TX, November 1, 2016. (declined)
 * [The Eleventh HOPE](/docs/hope2016.pdf), Hotel Pennsylvania, New York, NY, July 23, 2016.
-* <iframe id="lsembed_1470786843" src="//livestream.com/accounts/9198012/events/5834263/videos/131672227/player?autoPlay=false&amp;height=360&amp;mute=false&amp;width=640" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen></iframe> 
+* <iframe id="lsembed_1470786843" src="//livestream.com/accounts/9198012/events/5834263/videos/131672227/player?autoPlay=false&amp;height=360&amp;mute=false&amp;width=640" width="640" height="360" scrolling="no" allowfullscreen></iframe> 
 * [SOURCE Conference Boston 2016](/docs/source2016.pdf), Marriott Tremont, Boston, MA, May 18, 2016.
 * New England Security Day Spring 2016, Harvard University, Cambridge, MA, April 28, 2016.
 
@@ -96,15 +98,18 @@ Use of the Internet in Fraud Investigations
 * Greater Boston Chapter of the Association of Certified Fraud Examiners (ACFE), Boston, MA, September 21, 2007.
 
 ## Additional Media and Press
+* ["Top Florida Law Official Describes 'Extremely Lax' Security At Hacked Water Plant"](https://news.wjct.org/post/top-florida-law-official-describes-extremely-lax-security-hacked-water-plant){:target="_blank"}
+* ["Veracode Hacker Games: The Results Are In!"](https://www.veracode.com/blog/secure-development/veracode-hacker-games-results-are-in){:target="_blank"}
+* ["Veracode Tackles Cybersecurity Skills Gap with Launch of The Hacker Games"](https://www.businesswire.com/news/home/20210311005180/en/Veracode-Tackles-Cybersecurity-Skills-Gap-with-Launch-of-The-Hacker-Games){:target="_blank"}
 * ["Engineering Success in the Virtual Classroom"](https://now.tufts.edu/articles/engineering-success-virtual-classroom){:target="_blank"}
 * ["How One College Professor Is Trying to Address the Cybersecurity Skills Gap"](https://www.veracode.com/how-one-college-professor-trying-address-cybersecurity-skills-gap){:target="_blank"}
 * ["The Evolution of Cyber Security Education and How to Break into the Industry"](https://www.netspi.com/agent-of-influence/the-evolution-of-cyber-security-education-and-how-to-break-into-the-industry/){:target="_blank"}
-* ["Confessions of a Former Spy Kid"](https://www.linkedin.com/pulse/confessions-former-spy-kid-hayley-cohen)
-* ["DEFCON 27 & BSidesLV 2019 Takeaways: Part Two"](https://www.hurricanelabs.com/blog/defcon-27-bsideslv-2019-takeaways-part-two)
-* ["My first DEFCON"](https://medium.com/@tmursch/my-first-defcon-bbe4c7fd4f1a)
+* ["Confessions of a Former Spy Kid"](https://www.linkedin.com/pulse/confessions-former-spy-kid-hayley-cohen){:target="_blank"}
+* ["DEFCON 27 & BSidesLV 2019 Takeaways: Part Two"](https://www.hurricanelabs.com/blog/defcon-27-bsideslv-2019-takeaways-part-two){:target="_blank"}
+* ["My first DEFCON"](https://medium.com/@tmursch/my-first-defcon-bbe4c7fd4f1a){:target="_blank"}
 * ["Failings in Cybersecurity Education: An Interview with Professor Ming Chow"](https://clutch.co/it-services/failings-cybersecurity-education-interview-professor-ming-chow){:target="_blank"}
 * ["Why version control is required for Comp 20 at Tufts University"](https://github.com/blog/2343-why-version-control-is-required-for-comp-20-at-tufts-university){:target="_blank"}
-* [https://tuftsdaily.com/news/2017/04/28/ming-chow-wins-award-for-outstanding-teaching/](https://tuftsdaily.com/news/2017/04/28/ming-chow-wins-award-for-outstanding-teaching/)
+* [https://tuftsdaily.com/news/2017/04/28/ming-chow-wins-award-for-outstanding-teaching/](https://tuftsdaily.com/news/2017/04/28/ming-chow-wins-award-for-outstanding-teaching/){:target="_blank"}
 * ["Why Security Isn’t Taught in Schools (And What We Can Do About It)"](https://nationalcybersecurity.com/security-isnt-taught-schools-can/){:target="_blank"}
 * ["Most Top Computer Science Programs Skip Cybersecurity"](http://theinstitute.ieee.org/career-and-education/education/most-top-computer-science-programs-skip-cybersecurity){:target="_blank"}
 * ["Congress puts terrorism and tech in the spotlight"](http://money.cnn.com/2015/12/08/technology/encryption-congress-commission/){:target="_blank"}
