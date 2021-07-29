@@ -109,35 +109,64 @@ I'll look at it again.
 Lastly, hashcat gave me the cracks as hash:password, so I had to manually
 re-insert the usernames. Please forgive any errors in re-alignment.</pre>
 
-<pre>Methodology: separated passwords into files for those encoded with MD5 and SHA512, then used john. First used basic wordlist, then downloaded a bunch of files from Daniel Miessler's SecLists and used those with John. Passwords above were found in: dutch_passwordlist, darkc0de, darkweb2017-top10000, xato-net-10-million-passwords-1000000, and the horrendously enormous wordlist I downloaded from crackstation.
+<pre>Methodology: separated passwords into files for those encoded
+with MD5 and SHA512, then used john. First used basic wordlist, then
+downloaded a bunch of files from Daniel Miessler's SecLists and used
+those with John. Passwords above were found in: dutch_passwordlist,
+darkc0de, darkweb2017-top10000, xato-net-10-million-passwords-1000000,
+and the horrendously enormous wordlist I downloaded from crackstation.
 
-I've tried a bit with hashcat but I'm mostly missing the SHA512 passwords now and John is a bit faster at those. I'm still plodding away with John on Kali on VMware - I have tried many times and wasted many hours trying to install John on native, both using a linux emulator and straight Windows, and cannot for the life of me get it to work - despite being a CS student, I am NOT tech inclined.</pre>
+I've tried a bit with hashcat but I'm mostly missing the SHA512
+passwords now and John is a bit faster at those. I'm still plodding
+away with John on Kali on VMware - I have tried many times and wasted
+many hours trying to install John on native, both using a linux
+emulator and straight Windows, and cannot for the life of me get it to
+work - despite being a CS student, I am NOT tech inclined.</pre>
 
-<pre>
-My methodology was exceedingly simple. I started by googling any extra information and similar projects that I could find online
-as references and jumping off points. I stumbled upon a certain blog with some very relevant information. I found that by far the 
-most successful strategies were just throwing dictionaries and dictionaries and dictionaries at the hashes to see if anything sticks.
-I spent about 10 minutes with a python script to try to download every dictionary off the seclists github repo that I could programatically
-until I said screw it there aren't that many anyway and hand downloaded the raw files of each. I started with John The Ripper and used a GUI
-called Johnny because I'm a weak, weak person. I threw all the dictionaries I could find at all of the hashes, obviously separated into
-MD5 and SHA files using Johnny. 
+<pre> My methodology was exceedingly simple. I started by googling any
+extra information and similar projects that I could find online as
+references and jumping off points. I stumbled upon a certain blog with
+some very relevant information. I found that by far the most
+successful strategies were just throwing dictionaries and dictionaries
+and dictionaries at the hashes to see if anything sticks.  I spent
+about 10 minutes with a python script to try to download every
+dictionary off the seclists github repo that I could programatically
+until I said screw it there aren't that many anyway and hand
+downloaded the raw files of each. I started with John The Ripper and
+used a GUI called Johnny because I'm a weak, weak person. I threw all
+the dictionaries I could find at all of the hashes, obviously
+separated into MD5 and SHA files using Johnny.
 
-I also found out that John the Ripper wants '.lst' files, which from research seem to be just Linux plaintext
-files. My machine being Windows threw me a weird little quirk that took me a while to fix and I hope to save time for someone in the future if
-they run into the same problem. You can download a '.txt' file and change the extension to '.lst', and John will accept the file UNLESS you open
-the file even once with Notepad, which seems to leave artifacts in the file that violate the '.lst' protocol. So if you're using John on Windows
-with '.txt' files, DON'T OPEN THEM!!!
+I also found out that John the Ripper wants '.lst' files, which from
+research seem to be just Linux plaintext files. My machine being
+Windows threw me a weird little quirk that took me a while to fix and
+I hope to save time for someone in the future if they run into the
+same problem. You can download a '.txt' file and change the extension
+to '.lst', and John will accept the file UNLESS you open the file even
+once with Notepad, which seems to leave artifacts in the file that
+violate the '.lst' protocol. So if you're using John on Windows with
+'.txt' files, DON'T OPEN THEM!!!
 
-After messing with dictionaries for a while to great success, which took me all the way into the 10/10 zone, I decided to just brute force and
-see if I could get anything else. I got Hashcat working on my computer, which had some issues with my AMD graphics card, and having to use the
-'-O' flag for optimized kernel mode. I used Hashcat since, from my research, Hashcat uses the GPU and John the CPU, and Hashcat has various
-levels of 'intensity' on the device. I cranked that bad boy up and let it rip on both password files. I tried 6 and 7 character passwords with
-the '?l', '?u', and '?d' default charsets, basically '[a-z][A-Z][0-9]'. This took about a week to finish, then I added in the '?s' special
-character charset '[ !"$#.....]' and the expected time of completion rocketed up. I could do 6 character passwords with this extended alphabet,
-and then stopped, because 7 character passwords were expected to take 330 days to exhaust. Goes to show how potent added special characters
-to your password is, and structuring your password in such a way that a brute force attack is necessary. It got me thinking of going back
-to all of my current passwords and appending a '
-$$' string or something to the end, which I feel would make them significantly stronger.
+After messing with dictionaries for a while to great success, which
+took me all the way into the 10/10 zone, I decided to just brute force
+and see if I could get anything else. I got Hashcat working on my
+computer, which had some issues with my AMD graphics card, and having
+to use the '-O' flag for optimized kernel mode. I used Hashcat since,
+from my research, Hashcat uses the GPU and John the CPU, and Hashcat
+has various levels of 'intensity' on the device. I cranked that bad
+boy up and let it rip on both password files. I tried 6 and 7
+character passwords with the '?l', '?u', and '?d' default charsets,
+basically '[a-z][A-Z][0-9]'. This took about a week to finish, then I
+added in the '?s' special character charset '[ !"$#.....]' and the
+expected time of completion rocketed up. I could do 6 character
+passwords with this extended alphabet, and then stopped, because 7
+character passwords were expected to take 330 days to exhaust. Goes to
+show how potent added special characters to your password is, and
+structuring your password in such a way that a brute force attack is
+necessary. It got me thinking of going back to all of my current
+passwords and appending a ' $$' string or something to the end, which
+I feel would make them significantly stronger.
 
-So that was my overexplanation for a very simple strategy. Dictionaries, and when I ran out, brute force attacks of increasing complexity.
-</pre>
+So that was my overexplanation for a very simple
+strategy. Dictionaries, and when I ran out, brute force attacks of
+increasing complexity.  </pre>
