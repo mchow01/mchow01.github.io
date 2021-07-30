@@ -48,17 +48,17 @@ hungary:$6$pk1.ySvrRtpqJSHJ$/BOSLqcSueNIsrhAf/b46gR6qk1V34krQs3vWUag97RmQ0eeI0V2
 * (MD5) austria:LAlNzChRcJ => 0 student cracked this
 * (MD5) nmacedonia:Wh@t3ver! => 0 student cracked this
 * (SHA-512) czechrepublic:AMC => 12 students cracked this
-* (SHA-512)england:H31icid43 => 9 students cracked this
-* (SHA-512)scotland:Fiend => 12 students cracked this
-* (SHA-512)croatia:Tristram => 13 students cracked this
-* (SHA-512)slovakia:aaron431 => 12 students cracked this
-* (SHA-512)spain:laak36 => 4 students cracked this
-* (SHA-512)sweden:76394953 => 0 student cracked this
-* (SHA-512)poland:ohfg => 3 students cracked this
-* (SHA-512)portugal:OzHcji => 2 students cracked this
-* (SHA-512)france:6RiZDfCXic => 0 student cracked this
-* (SHA-512)germany:=[Jh~BPc4e => 0 student cracked this
-* (SHA-512)hungary:k>Y.6%2JtD => 0 student cracked this
+* (SHA-512) england:H31icid43 => 9 students cracked this
+* (SHA-512) scotland:Fiend => 12 students cracked this
+* (SHA-512) croatia:Tristram => 13 students cracked this
+* (SHA-512) slovakia:aaron431 => 12 students cracked this
+* (SHA-512) spain:laak36 => 4 students cracked this
+* (SHA-512) sweden:76394953 => 0 student cracked this
+* (SHA-512) poland:ohfg => 3 students cracked this
+* (SHA-512) portugal:OzHcji => 2 students cracked this
+* (SHA-512) france:6RiZDfCXic => 0 student cracked this
+* (SHA-512) germany:=[Jh~BPc4e => 0 student cracked this
+* (SHA-512) hungary:k>Y.6%2JtD => 0 student cracked this
 
 To earn all 10 / 10 points for the lab, students had to crack 8 or more passwords.  The final distribution:
 
@@ -75,7 +75,36 @@ To earn all 10 / 10 points for the lab, students had to crack 8 or more password
 2
 </pre>
 
-Methodologies used:
+The winner's methodology:
+
+<pre>
+I installed John The Ripper (bleeding jumbo edition) and the latest
+version of hashcat.Then I would submit slurm jobs in parallel (one of
+JTR and one of hashcat) to either 2-4 Nvidia a100 GPUs or 3 Nvidia
+p100 GPUs. Then I divided up the md5 and sha512 hashes to separate
+files and got to work.
+ 
+For dictionary attacks, I wrote a script that ran through all of
+Daniel Meissler's SecLists. I also tried wordlists from crackstation
+and the > 10GB weakpass list. With the dictionary attacks, I used
+exclusivley John The Ripper.
+ 
+For mask and brute force attacks I used hashcat. The cloud
+infrastructure I utilized would trigger job failures if the GPUs
+reached 90 degrees Celsius, so that foiled my plans for brute force of
+more than 6 characters. Also I used a preempt partition for the a100
+GPUs, so other jobs would sometimes take precedence over what I was
+running. Overall, the a100 GPUs were amazing which I could get several
+hours or days uninterrupted.
+
+Since I was using a login server, I wrote a cronjob that emailed
+myself the potfiles from JTR and hashcat every hour.
+
+After the first 12-14 passwords, it got exponentially harder to crack
+subsequent passwords, so I would check the emails less frequently
+overtime.</pre>
+
+Methodologies used by students:
 
 <pre>Overall strategy:
 I initially used John the Ripper, then switched to hashcat to check my work
