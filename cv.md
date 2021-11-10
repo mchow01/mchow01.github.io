@@ -38,7 +38,7 @@ _Lecturer, September 2009 to August 2015_
 #### Courses at Tufts University
 
 * _COMP 116: Computer System Security_ (a.k.a., _Introduction to Security_)
-	* Taught in Spring 2011, Spring 2012, Fall 2013, Fall 2014, Fall 2015, Fall 2016, Summer 2017 (online), Fall 2017, Spring 2018, Summer 2018 (online), Fall 2018, Summer 2019 (online), Fall 2019, Spring 2020, Summer 2020, Fall 2020, Spring 2021
+	* Taught in Spring 2011, Spring 2012, Fall 2013, Fall 2014, Fall 2015, Fall 2016, Summer 2017 (online), Fall 2017, Spring 2018, Summer 2018 (online), Fall 2018, Summer 2019 (online), Fall 2019, Spring 2020, Summer 2020, Fall 2020, Spring 2021, Summer 2021, Fall 2021, Spring 2022
 * _COMP 20: Web Programming_
 	* Taught in Fall 2009, Fall 2010, Spring 2011, Summer 2011, Spring 2013, Spring 2014, Fall 2014, Spring 2015, Fall 2015, Spring 2016, Summer 2016 (Online), Fall 2016, Spring 2017, Summer 2017 (online), Fall 2017, Spring 2018, Summer 2018 (online), Fall 2018, Spring 2019, Summer 2019 (online)
 	* Grew the course from 11 students in fall 2009 to 119 in spring 2013.
@@ -49,14 +49,14 @@ _Lecturer, September 2009 to August 2015_
 * _COMP 50: Computer Science for Future Presidents_
     * Taught in Fall 2019 with Susan Landau
 	* Created course with Susan Landau as first course in Cyber Security and Public Policy Master's Program
-* _COMP 50 / PS 188: Cyber Security and Cyber Warfare_
+* _COMP 28 / PS 188: Cyber Security and Cyber Warfare_
 	* Taught in Spring 2017, Spring 2019, Spring 2020
 	* Cross-listed with Department of Political Science
 * _COMP 150-MMD: Mobile Medical Devices and Apps_
 	* Taught in Fall 2014, Spring 2016, Spring 2018
 	* First cross-listed with Department of Electrical and Computer Engineering in over a decade
 * _COMP 120: Web Engineering_
-	* Taught in Spring 2010, Spring 2011, Fall 2011, Fall 2013, Spring 2015, Spring 2016, Spring 2017
+	* Taught in Spring 2010, Spring 2011, Fall 2011, Fall 2013, Spring 2015, Spring 2016, Spring 2017, Summer 2020 (online), Summer 2021 (online)
 * _COMP 23: Introduction to Game Development_
 	* Taught in Spring 2008, Spring 2009, Summer 2009, Spring 2010, Summer 2010, Fall 2010, Spring 2012, Spring 2014, Fall 2015
 	* Course was given an official course number in spring 2014.
@@ -97,6 +97,7 @@ _Lecturer_
 	* Hosted a colloquium entitled "Building Privacy-Aware Applications" with guest speaker JC Cannon from Microsoft for the Tufts Department of Computer Science.
 
 ## Presentations and Publications
+* _Lessons Not Learned in the Last Ten Years_. Tactical Edge Virtual Summit 2021, June 23, 2021.
 * _Packet Analysis Using Wireshark_. Intro Sec Con (@IntroSecCon), Virtual Conference, April 25, 2020.
 * _Lessons from an Undergraduate Course in Cybersecurity and Cyber Warfare - Is Our Children Securing?_ Presented with Matt Weinberg. Circle of HOPE, Hotel Pennsylvania, New York, NY, July 21, 2018.
 * _Why Git and GitHub?_ on _GitHub Panel GitHub: Real-World Tools, Engaged Students_. ACM SIGCSE 2018, Baltimore, MD, February 22, 2018.
