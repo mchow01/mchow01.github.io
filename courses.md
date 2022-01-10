@@ -4,6 +4,12 @@ title: Courses @ Tufts
 permalink: /courses/
 ---
 
+### Fall 2021
+* [CS 116: Introduction to Security](https://www.cs.tufts.edu/comp/116/){:target="_blank"}
+	* Enrollment (number of students): 96
+	* Overall Course Rating (of 79 responses): 4.44 / 5.0 [question 5]
+	* Overall Performance of Instructor (of 79 responses): 4.68 / 5.0 [question 15]
+
 ### Spring 2021
 * [COMP 98: Senior Capstone](https://www.cs.tufts.edu/comp/98/){:target="_blank"}
 	* Enrollment (number of students): 38
