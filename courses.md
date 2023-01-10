@@ -4,6 +4,23 @@ title: Courses @ Tufts
 permalink: /courses/
 ---
 
+### Fall 2022
+
+* [CS 116: Introduction to Computer Security](https://www.cs.tufts.edu/comp/116/){:target="_blank"}
+	* Enrollment (number of students): 103
+	* Overall Course Rating (of 82 responses): 4.57 / 5.0 [question 5]
+	* Overall Performance of Instructor (of 82 responses): 4.74 / 5.0 [question 15]
+
+* [CS 116: Introduction to Computer Security --Online Master's](https://www.cs.tufts.edu/comp/116/){:target="_blank"}
+	* Enrollment (number of students): 18
+	* Overall Course Rating (of 15 responses): 4.8 / 5.0 [question 5]
+	* Overall Performance of Instructor (of 15 responses): 4.87 / 5.0 [question 15]
+
+* CS 120: Web Programming and Engineering --Online Master's
+	* Enrollment (number of students): 16
+	* Overall Course Rating (of 7 responses): 4.57 / 5.0
+	* Overall Performance of Instructor (of 7 responses): 4.71 / 5.0
+
 ### Spring 2022
 
 * CS 28/ PS 188: Cyber Security and Cyber Warfare
