@@ -4,6 +4,8 @@ title: Talks
 permalink: /talks/
 ---
 
+[ChatGPT](/docs/chatgpt-20230405.pdf) Tufts University AS&E Spring 2023 Faculty Forum, April 5, 2023.
+
 [Lessons Not Learned in the Last Ten Years](/docs/tacticaledge20210623.pdf) Tactical Edge Virtual Summit 2021, June 23, 2021.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qkTJ1qoM8yA" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
