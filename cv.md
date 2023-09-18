@@ -25,8 +25,12 @@ _Senior Lecturer, Department of Computer Science, September 2015 to August 2019_
 
 _Lecturer, September 2009 to August 2015_
 
+* [Awarded the 2022 Tufts Teaching with Technology Award](https://sites.tufts.edu/teaching/2022/06/21/congratulations-to-the-2022-teaching-with-technology-award-recipients/)
+* [Mentored runner-up team in inaugural Veracode Hacker Games](https://www.veracode.com/events/hacker-games)
+* [Led the establishment of the Cooperative Education program with the School of Engineering; created new ES 85 Cooperative Education course which launched in fall 2020](https://engineering.tufts.edu/undergraduate/coop-programs)
+* [Launched the CS + STS Co-Major](https://engineering.tufts.edu/cs/current-students/undergraduate/sts-comajor)
 * Awarded the 2017 Lerman-Neubauer Prize for Outstanding Teaching and Advising, awarded annually to a faculty member of Arts and Sciences or of Engineering who has had a profound intellectual impact on his or her students, both inside and outside the classroom.
-* Mentored Winnona DeSombre's paper "Getting Harder to Catch: Analyzing the Evolution of China’s Cyber Espionage Campaigns against the United States through a Case Study of APT1" that was published in _2017 Journal of International Relations_ by the National Office of Sigma Iota Rho (SIR), the International Relations Honor Society. Poster presented at 2017 Women in Cyber Security (WiCyS) Conference in Chicago, IL.
+* Mentored Winnona DeSombre's paper "Getting Harder to Catch: Analyzing the Evolution of China's Cyber Espionage Campaigns against the United States through a Case Study of APT1" that was published in _2017 Journal of International Relations_ by the National Office of Sigma Iota Rho (SIR), the International Relations Honor Society. Poster presented at 2017 Women in Cyber Security (WiCyS) Conference in Chicago, IL.
 * Mentored Tufts semi-finalist team in the 2017 Atlantic Council Cyber 9/12 Student Competition (Kieran Green, Alice Lee, Maretta Morovitz, Winnona DeSombre).
 * Awarded the 2016 Henry and Madeline Fischer Award, awarded annually to a faculty member of the School of Engineering judged by graduating seniors of the School of Engineering to be "Engineering's Teacher of the Year."
 * Awarded the 2016 Tufts Teaching with Technology Award
@@ -37,34 +41,34 @@ _Lecturer, September 2009 to August 2015_
 
 #### Courses at Tufts University
 
-* _COMP 116: Computer System Security_ (a.k.a., _Introduction to Security_)
-	* Taught in Spring 2011, Spring 2012, Fall 2013, Fall 2014, Fall 2015, Fall 2016, Summer 2017 (online), Fall 2017, Spring 2018, Summer 2018 (online), Fall 2018, Summer 2019 (online), Fall 2019, Spring 2020, Summer 2020, Fall 2020, Spring 2021, Summer 2021, Fall 2021, Spring 2022
-* _COMP 20: Web Programming_
+* _CS 116: Computer System Security_ (a.k.a., _Introduction to Security_)
+	* Taught in Spring 2011, Spring 2012, Fall 2013, Fall 2014, Fall 2015, Fall 2016, Summer 2017 (online), Fall 2017, Spring 2018, Summer 2018 (online), Fall 2018, Summer 2019 (online), Fall 2019, Spring 2020, Summer 2020, Fall 2020, Spring 2021, Summer 2021, Fall 2021, Spring 2022, Fall 2022, Spring 2023, Fall 2023
+* _CS 120: Web Programming and Engineering_
+	* Taught in Spring 2010, Spring 2011, Fall 2011, Fall 2013, Spring 2015, Spring 2016, Spring 2017, Summer 2020 (online), Summer 2021 (online), Fall 2023 (online), Spring 2023 (onlne)
+* _CS 20: Web Programming_
 	* Taught in Fall 2009, Fall 2010, Spring 2011, Summer 2011, Spring 2013, Spring 2014, Fall 2014, Spring 2015, Fall 2015, Spring 2016, Summer 2016 (Online), Fall 2016, Spring 2017, Summer 2017 (online), Fall 2017, Spring 2018, Summer 2018 (online), Fall 2018, Spring 2019, Summer 2019 (online)
 	* Grew the course from 11 students in fall 2009 to 119 in spring 2013.
-* _COMP 97 and 98: Senior Capstone Project I and II_
+* _CS 97 and 98: Senior Capstone Project I and II_
 	* Taught in 2012 - 2013, 2013 - 2014, 2018 - 2019, 2019 - 2020, 2020 - 2021 academic years 
 	* Formerly known as Software Engineering. Changed requirement from a one semester project experience to a one academic year project experience.
 	* Required for all undergraduate Computer Science majors through the School of Engineering.
-* _COMP 50: Computer Science for Future Presidents_
+* _CS 50: Computer Science for Future Presidents_
     * Taught in Fall 2019 with Susan Landau
 	* Created course with Susan Landau as first course in Cyber Security and Public Policy Master's Program
-* _COMP 28 / PS 188: Cyber Security and Cyber Warfare_
+* _CS 28 / PS 188: Cyber Security and Cyber Warfare_
 	* Taught in Spring 2017, Spring 2019, Spring 2020
 	* Cross-listed with Department of Political Science
-* _COMP 150-MMD: Mobile Medical Devices and Apps_
+* _CS 150-MMD: Mobile Medical Devices and Apps_
 	* Taught in Fall 2014, Spring 2016, Spring 2018
 	* First cross-listed with Department of Electrical and Computer Engineering in over a decade
-* _COMP 120: Web Engineering_
-	* Taught in Spring 2010, Spring 2011, Fall 2011, Fall 2013, Spring 2015, Spring 2016, Spring 2017, Summer 2020 (online), Summer 2021 (online)
-* _COMP 23: Introduction to Game Development_
+* _CS 23: Introduction to Game Development_
 	* Taught in Spring 2008, Spring 2009, Summer 2009, Spring 2010, Summer 2010, Fall 2010, Spring 2012, Spring 2014, Fall 2015
 	* Course was given an official course number in spring 2014.
 	* Named one of the nation's coolest engineering courses by the American Society for Engineering Education (ASEE) in 2011 (see [http://www.prism-magazine.org/summer11/feature_01.cfm](http://www.prism-magazine.org/summer11/feature_01.cfm){:target="_blank"})
-* _COMP 150-ISW: Music Apps on the iPad_
+* _CS 150-ISW: Music Apps on the iPad_
 	* Taught in Spring 2012, Spring 2013, Spring 2015
 	* Cross-listed with Department of Music
-* _COMP 15: Data Structures_ (the second course in the Computer Science curriculum)
+* _CS 15: Data Structures_ (the second course in the Computer Science curriculum)
 	* Taught in Fall 2011, Summer 2012, Fall 2012
 * _Developing Computer & Interactive Media_ (Precollege Course for High School Students)
 	* Taught in Summer 2012
@@ -75,7 +79,7 @@ _Lecturer, September 2009 to August 2015_
 _Instructor_
 
 * Spring 2008, Spring 2009: _Cyber Security_
-	* Taught classroom-based sessions for Middlesex Community College, who received a grant from the University of Pittsburgh Medical Center (UPMC) to offer the course.   The course was part of the Community Preparedness Schoolhouse, which is a component of UPMC’s Strategic Bio-Defense Emergency Operations and Communication System.
+	* Taught classroom-based sessions for Middlesex Community College, who received a grant from the University of Pittsburgh Medical Center (UPMC) to offer the course.   The course was part of the Community Preparedness Schoolhouse, which is a component of UPMC's Strategic Bio-Defense Emergency Operations and Communication System.
 	* Lectured on the goals of cyber security, laws and regulations, threats, vulnerabilities, information resources, and cyber security policy.
 	* Created basic demonstrations on password cracking, packet sniffing, scanning, and backdoors.
 
@@ -146,7 +150,20 @@ _Lecturer_
 * _Joint Educational Initiatives to Address Cybercrime Incident Response_.  High Technology Crime Investigation Association - New England Chapter (HTCIA-NE), Boston, MA, August 9, 2007. 
 * _Google: The Search Engine and Its Tools_.  New England Association of Insurance Fraud Investigators (NEAIFI) 2nd Annual Training, Westford, MA, June 13, 2007. 
 * _Teaching Computer Security, Privacy and Politics to the Masses_, ;login: The Magazine of USENIX & Sage, vol. 30, no. 6, pp. 62-63, December 2005. 
-* _What is Outstanding in Your Security and Compliance Practice?_ Northeast Regional Computing Program (NERCOMP) Workshop: Achieving Optimal Security and Compliance in Higher Education, University of Massachusetts Amherst, November 14, 2005.
+* _What is Outstanding in Your Security and Compliance Practice?_ Northeast Regional Computing Program (NERCS) Workshop: Achieving Optimal Security and Compliance in Higher Education, University of Massachusetts Amherst, November 14, 2005.
+
+## Professional Activities
+**Board Memberships**
+* [Massachusetts Cybersecurity Mentorship Program Steering Committee](https://masscybercenter.org/news/2020-massachusetts-cybersecurity-forum-highlights-workforce-diversity-municipal-resiliency), Fall 2020 - current
+* UMass Dartmouth Cybersecurity Program (NSA CAE) Board of Advisors, current
+
+**BSides Las Vegas Security Conference Proving Ground Track Mentor**
+* 2019: Joe O' Connell
+* 2018: Andrew Gish-Johnson
+* 2017: Nitha Suresh
+* 2016: Filip Reesalu
+* 2015: Lokesh Pidawekar
+* 2014: Caroline Hardin
 
 ## Professional Experience
 
@@ -159,8 +176,8 @@ _Program Support Specialist, July 2004 - June 30, 2010_
 * Designed and developed web application for tracking asbestos waste shipment records for construction projects at the University. System allows the University to track regulatory compliance dates and ensure all asbestos waste is disposed at Harvard approved disposal sites in an appropriate manner and timeframe.
 * 2006 Harvard Heroes honoree: for leadership, teamwork, adaptability, and work that set new standards for performance at Harvard University.
 * Spearheaded the redesign of the University Operations Services (UOS) service organization website that receives over 20,000 unique visitors per month.  Redesigned UOS website was rolled-out in June 2008. See http://www.uos.harvard.edu/.
-* Coordinated the migration of 45,000 Social Security Numbers to an alternative form of ID in the EH&S Radiation Protection Office’s electronic recordkeeping system and in all Harvard accounts managed by vendor Landauer, Inc., in compliance with the Harvard University Enterprise Security Policy.
-* Performed a risk analysis and mitigation strategy for the EH&S Radiation Protection Office’s electronic recordkeeping system.
+* Coordinated the migration of 45,000 Social Security Numbers to an alternative form of ID in the EH&S Radiation Protection Office's electronic recordkeeping system and in all Harvard accounts managed by vendor Landauer, Inc., in compliance with the Harvard University Enterprise Security Policy.
+* Performed a risk analysis and mitigation strategy for the EH&S Radiation Protection Office's electronic recordkeeping system.
 * Developed the Harvard EH&S Daytime and After-Hours On-Call web application to coordinate weekly emergency responders for the EH&S department and the Harvard University Operations Center.
 
 **Harvard University Department of Environmental Health & Safety (EH&S), Cambridge, MA 02139**
@@ -195,16 +212,6 @@ _Summer Intern for the Lycos Quality Assurance Team, Summer 1999_
 * Ran automated test tools to scan for defects on the Lycos web site.
 * Compared the website against competing sites on usability, layout and design, and consistency of information.
 * Designed test plans for Lycos' gaming portal and safe search engine.
-
-## Professional Activities
-
-**BSides Las Vegas Security Conference Proving Ground Track Mentor**
-* 2019: Joe O' Connell
-* 2018: Andrew Gish-Johnson
-* 2017: Nitha Suresh
-* 2016: Filip Reesalu
-* 2015: Lokesh Pidawekar
-* 2014: Caroline Hardin
 
 ## Skills
 
