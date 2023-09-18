@@ -43,6 +43,9 @@ _Lecturer, September 2009 to August 2015_
 
 * _CS 116: Computer System Security_ (a.k.a., _Introduction to Security_)
 	* Taught in Spring 2011, Spring 2012, Fall 2013, Fall 2014, Fall 2015, Fall 2016, Summer 2017 (online), Fall 2017, Spring 2018, Summer 2018 (online), Fall 2018, Summer 2019 (online), Fall 2019, Spring 2020, Summer 2020, Fall 2020, Spring 2021, Summer 2021, Fall 2021, Spring 2022, Fall 2022, Spring 2023, Fall 2023
+* _CS 28 / PS 188: Cyber Security and Cyber Warfare_
+	* Taught in Spring 2017, Spring 2019, Spring 2020, Spring 2022
+	* Cross-listed with Department of Political Science
 * _CS 120: Web Programming and Engineering_
 	* Taught in Spring 2010, Spring 2011, Fall 2011, Fall 2013, Spring 2015, Spring 2016, Spring 2017, Summer 2020 (online), Summer 2021 (online), Fall 2023 (online), Spring 2023 (onlne)
 * _CS 20: Web Programming_
@@ -55,9 +58,6 @@ _Lecturer, September 2009 to August 2015_
 * _CS 50: Computer Science for Future Presidents_
     * Taught in Fall 2019 with Susan Landau
 	* Created course with Susan Landau as first course in Cyber Security and Public Policy Master's Program
-* _CS 28 / PS 188: Cyber Security and Cyber Warfare_
-	* Taught in Spring 2017, Spring 2019, Spring 2020
-	* Cross-listed with Department of Political Science
 * _CS 150-MMD: Mobile Medical Devices and Apps_
 	* Taught in Fall 2014, Spring 2016, Spring 2018
 	* First cross-listed with Department of Electrical and Computer Engineering in over a decade
