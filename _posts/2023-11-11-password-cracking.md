@@ -45,7 +45,7 @@ cozybear:$6$delqV7KMicfdLoR1$AxREbM10wv0CQTRci0.eQiDQPAElqMuZ.lrsJ1vMH8P2u522Xp8
 * (SHA-512) carebear:4n7id370n47in6 => 35 students cracked this
 * (SHA-512) cozybear:eminem123 => 100 students cracked this
 
-The passwords barneybear, bluebear, and mamabear were randomly generated; all other passwords were taken from wordlists, namely from [Daniel Miessler's SecLists](https://github.com/danielmiessler/SecLists).  UPDATE: I forgot that I made the password for yogibear from someone's LinkedIn account 😂.
+The passwords barneybear, bluebear, and mamabear were randomly generated; all other passwords were taken from wordlists, namely from [Daniel Miessler's SecLists](https://github.com/danielmiessler/SecLists).  UPDATE: I forgot that I made the password for yogibear --it's this semester's troll password 😂.
 
 To earn all 10 / 10 points for the lab, students had to crack 8 or more passwords.  The final distribution:
 
@@ -84,7 +84,7 @@ Methodologies and hauls from students:
 > 
 > #### ./hashcat -m 1800 Other/sha512.txt Other/Passwords/Leaked-Databases/md5decryptor-uk.txt -o Other/cracked_sha512.txt
 > 
-> #### tried using the crazy hri lab computer
+> #### tried using a crazy tufts cs lab computer
 > cozybear:eminem123
 > 
 > sisterbear:jeremiah
