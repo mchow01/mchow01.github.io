@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Results of a Password Cracking Contest in My Security Class (Spring 2023)"
+title:  "Results of a Password Cracking Contest in My Security Class (Fall 2023)"
 date:   2023-11-11 20:20:00
 categories: education security
 ---
@@ -64,96 +64,69 @@ To earn all 10 / 10 points for the lab, students had to crack 8 or more password
 
 Methodologies and hauls from students:
 
-<pre>
-# john crackme-fall2023.txt (default wordlist)
-
-papabear:buggs
-
-brotherbear:200368
-
-pandabear:chudy
-
- 
-
-# john --wordlist=SecLists/Passwords/xato-net-10-million-passwords.txt crackme-fall2023.txt
-
-fancybear:jeronimo
-
-grizzlybear:lovehurts
-
- 
-
-# hashcat -m 1800 sha512.txt SecLists/Passwords/xato-net-10-million-passwords.txt -o cracked_sha512.txt
-
-polarbear:Arthur1
-
- 
-
-# hashcat -m 1800 sha512.txt SecLists/Passwords/openwall.net-all.txt -o cracked_sha512.txt
-
-blackbear:procaccio
-
- 
-
-# ./hashcat -m 1800 Other/sha512.txt Other/Passwords/Leaked-Databases/md5decryptor-uk.txt -o Other/cracked_sha512.txt
-
-# tried using the crazy hri lab computer
-
-cozybear:eminem123
-
-sisterbear:jeremiah
-
- 
-
-# ./hashcat -m 1800 Other/sha512.txt Other/Passwords/Leaked-Databases/alleged-gmail-passwords.txt -o Other/cracked_sha512.txt
-
-bluebear:182365
-
-carebear:4n7id370n47in6
-
- 
-
-# cat dblist.txt | xargs -I {} ./hashcat -m 1800 Other/sha512.txt {} -o Other/cracked_sha512.txt
-
-# with dblist.txt containing Other/Passwords/mssql-passwords-nansh0u-guardicore.txt
-
-teddybear:1980-04-24
-
- 
-
-# cat dblist.txt | xargs -I {} ./hashcat -m 500 Other/md5.txt {} -o Other/cracked_md5.txt
-
-# with dblist.txt containing Other/Passwords/scraped-JWT-secrets.txt
-
-jackbear:Everyb0dyKnow$My$ecret
-</pre>
-
-<pre>
-Used John the Ripper with these password lists:
-
-https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10-million-password-list-top-100000.txtLinks to an external site.
-
-https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htmLinks to an external site. 
-
- 
-
-Used hashcat with the first list to get the second group passwords.
-
-Used hashcat with lists from danielmiessler to get the third group, specifically openwall.net-all.txt, darkc0de.txt, and alleged-gmail-passwords.txt.
-</pre>
-
-<pre>
-I separated the password list into two files depending on the hash method depicted by $1$ or $6$ and then ran both files with the command john so it would use the default wordlist for all 6 of the username password pairs that it was able to crack.
-
-bluebear:182365
-papabear:buggs
-brotherbear:200368
-pandabear:chudy
-sisterbear:jeremiah
-polarbear:Arthur1
-After using the default list, I also wanted to use this wordlist I got from SecLists on github under Common-credentials. These wordlists gave me three additional passwords:
-
-cozybear:eminem123
-fancybear:jeronimo
-grizzlybear:lovehurts
-</pre>
+> #### john crackme-fall2023.txt (default wordlist)
+> papabear:buggs
+> 
+> brotherbear:200368
+> 
+> pandabear:chudy
+> 
+> #### john --wordlist=SecLists/Passwords/xato-net-10-million-passwords.txt crackme-fall2023.txt
+> fancybear:jeronimo
+> 
+> grizzlybear:lovehurts
+> 
+> #### hashcat -m 1800 sha512.txt SecLists/Passwords/xato-net-10-million-passwords.txt -o cracked_sha512.txt
+> polarbear:Arthur1
+> 
+> #### hashcat -m 1800 sha512.txt SecLists/Passwords/openwall.net-all.txt -o cracked_sha512.txt
+> blackbear:procaccio
+> 
+> #### ./hashcat -m 1800 Other/sha512.txt Other/Passwords/Leaked-Databases/md5decryptor-uk.txt -o Other/cracked_sha512.txt
+> 
+> #### tried using the crazy hri lab computer
+> cozybear:eminem123
+> 
+> sisterbear:jeremiah
+> #### ./hashcat -m 1800 Other/sha512.txt Other/Passwords/Leaked-Databases/alleged-gmail-passwords.txt -o Other/cracked_sha512.txt
+> bluebear:182365
+> 
+> carebear:4n7id370n47in6
+> #### cat dblist.txt | xargs -I {} ./hashcat -m 1800 Other/sha512.txt {} -o Other/cracked_sha512.txt
+> #### with dblist.txt containing Other/Passwords/mssql-passwords-nansh0u-guardicore.txt
+> teddybear:1980-04-24
+> #### cat dblist.txt | xargs -I {} ./hashcat -m 500 Other/md5.txt {} -o Other/cracked_md5.txt
+> #### with dblist.txt containing Other/Passwords/scraped-JWT-secrets.txt
+> jackbear:Everyb0dyKnow$My$ecret
+<hr/>
+> Used John the Ripper with these password lists:
+> 
+> https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10-million-password-list-top-100000.txt
+> 
+> https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm
+> 
+> Used hashcat with the first list to get the second group passwords.
+> 
+> Used hashcat with lists from danielmiessler to get the third group, specifically openwall.net-all.txt, darkc0de.txt, and alleged-gmail-passwords.txt.
+<hr/>
+> I separated the password list into two files depending on the hash method depicted by $1$ or $6$ and then ran both files with the command john so it would use the default wordlist for all 6 of the username password pairs that it was able to crack.
+> 
+> bluebear:182365
+> 
+> papabear:buggs
+> 
+> brotherbear:200368
+> 
+> pandabear:chudy
+> 
+> sisterbear:jeremiah
+> 
+> polarbear:Arthur1
+> 
+> After using the default list, I also wanted to use this wordlist I got from SecLists on github under Common-credentials. These wordlists gave me three additional passwords:
+> 
+> cozybear:eminem123
+> 
+> fancybear:jeronimo
+> 
+> grizzlybear:lovehurts
