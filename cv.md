@@ -13,7 +13,9 @@ permalink: /cv/
 
 _Live Online Training (LOT) Instructor, January 2021 to present_
 
-* Designed and led Live Online Training session "Web Application Security Fundamentals".  First session on January 19, 2021 had 201 live attendees.
+* Designed and led Live Online Training sessions "Web Application Security Fundamentals".  First session on January 19, 2021 had 201 live attendees.
+* Designed and led Live Online Training sessions "Packet Analysis Using Wireshark".
+* Developed "Packet Analysis Fundamentals with Wireshark" on-demand course [https://learning.oreilly.com/course/packet-analysis-fundamentals/0636920959205/](https://learning.oreilly.com/course/packet-analysis-fundamentals/0636920959205/).
 
 **Tufts University, Medford, MA 02155**
 
