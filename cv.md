@@ -30,6 +30,7 @@ _Lecturer, September 2009 to August 2015_
 * [Awarded the 2022 Tufts Teaching with Technology Award](https://sites.tufts.edu/teaching/2022/06/21/congratulations-to-the-2022-teaching-with-technology-award-recipients/)
 * [Mentored runner-up team in inaugural Veracode Hacker Games](https://www.veracode.com/events/hacker-games)
 * [Led the establishment of the Cooperative Education program with the School of Engineering; created new ES 85 Cooperative Education course which launched in fall 2020](https://engineering.tufts.edu/undergraduate/coop-programs)
+* [Spearheaded the creation of the Massachusetts Cybersecurity Mentorship Program with MassCyberCenter; currently a member of the program's steering committee.](https://masscybercenter.org/news/2020-massachusetts-cybersecurity-forum-highlights-workforce-diversity-municipal-resiliency)
 * [Launched the CS + STS Co-Major](https://engineering.tufts.edu/cs/current-students/undergraduate/sts-comajor)
 * Awarded the 2017 Lerman-Neubauer Prize for Outstanding Teaching and Advising, awarded annually to a faculty member of Arts and Sciences or of Engineering who has had a profound intellectual impact on his or her students, both inside and outside the classroom.
 * Mentored Winnona DeSombre's paper "Getting Harder to Catch: Analyzing the Evolution of China's Cyber Espionage Campaigns against the United States through a Case Study of APT1" that was published in _2017 Journal of International Relations_ by the National Office of Sigma Iota Rho (SIR), the International Relations Honor Society. Poster presented at 2017 Women in Cyber Security (WiCyS) Conference in Chicago, IL.
@@ -103,6 +104,7 @@ _Lecturer_
 	* Hosted a colloquium entitled "Building Privacy-Aware Applications" with guest speaker JC Cannon from Microsoft for the Tufts Department of Computer Science.
 
 ## Presentations and Publications
+* _ChatGPT_. Tufts University AS&E Spring 2023 Faculty Forum, April 5, 2023.
 * _Lessons Not Learned in the Last Ten Years_. Tactical Edge Virtual Summit 2021, June 23, 2021.
 * _Packet Analysis Using Wireshark_. Intro Sec Con (@IntroSecCon), Virtual Conference, April 25, 2020.
 * _Lessons from an Undergraduate Course in Cybersecurity and Cyber Warfare - Is Our Children Securing?_ Presented with Matt Weinberg. Circle of HOPE, Hotel Pennsylvania, New York, NY, July 21, 2018.
