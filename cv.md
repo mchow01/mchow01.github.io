@@ -169,6 +169,8 @@ _Lecturer_
 * 2015: Lokesh Pidawekar
 * 2014: Caroline Hardin
 
+**Wall of Sheep / Packet Hacking Village at DEF CON member since 2007**
+
 ## Professional Experience
 
 **Harvard University Department of Environmental Health & Safety (EH&S), Cambridge, MA 02139**
