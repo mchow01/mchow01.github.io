@@ -100,6 +100,7 @@ Use of the Internet in Fraud Investigations
 * Greater Boston Chapter of the Association of Certified Fraud Examiners (ACFE), Boston, MA, September 21, 2007.
 
 ## Additional Media and Press
+* ["Tufts University Students Help Nonprofits With Cybersecurity"](https://www.govtech.com/education/higher-ed/tufts-university-students-help-nonprofits-with-cybersecurity){:target="_blank"}
 * ["These Students Work to Keep Nonprofits Safe From Hackers"](https://now.tufts.edu/2024/12/06/these-students-work-keep-nonprofits-safe-hackers){:target="_blank"}
 * ["Top Florida Law Official Describes 'Extremely Lax' Security At Hacked Water Plant"](https://news.wjct.org/post/top-florida-law-official-describes-extremely-lax-security-hacked-water-plant){:target="_blank"}
 * ["Veracode Hacker Games: The Results Are In!"](https://www.veracode.com/blog/secure-development/veracode-hacker-games-results-are-in){:target="_blank"}
