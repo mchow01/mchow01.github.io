@@ -185,6 +185,7 @@ _Lecturer_
 
 ## Professional Activities
 **Board Memberships**
+* [Middlesex Community College Information Technology Program Advisory Board](https://catalog.middlesex.mass.edu/content.php?catoid=34&navoid=3240#Inf_Tech), Spring 2024 - current
 * [Massachusetts Cybersecurity Mentorship Program Steering Committee](https://masscybercenter.org/news/2020-massachusetts-cybersecurity-forum-highlights-workforce-diversity-municipal-resiliency), Fall 2020 - current
 * UMass Dartmouth Cybersecurity Program (NSA CAE) Board of Advisors, current
 
