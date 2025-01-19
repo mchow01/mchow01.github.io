@@ -16,7 +16,7 @@ permalink: /talks/
 
 [Lessons from an Undergraduate Course in Cybersecurity and Cyber Warfare - Is Our Children Securing?](/docs/hope2018.pdf) Presented with Matt Weinberg. Circle of HOPE, Hotel Pennsylvania, New York, NY, July 21, 2018.
 
-<iframe id="ls_embed_1535422832" src="https://livestream.com/accounts/9198012/events/8286155/videos/178448367/player?width=640&height=360&enableInfo=true&defaultDrawer=&autoPlay=false&mute=false" width="640" height="360" scrolling="no" allowfullscreen> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4vp8b52FvWA" allowfullscreen></iframe>
 
 [Why Git and GitHub?](/docs/sigcse2018.pdf) on _GitHub Panel GitHub: Real-World Tools, Engaged Students_. ACM SIGCSE 2018, Baltimore, MD, February 22, 2018.
 
@@ -40,7 +40,7 @@ The Cyber Security Education Gap - What Do We Do Now? (Presented with Roy Wattan
 * [Advanced Cyber Security Center (ACSC) Cyber Tuesday Meeting](/docs/acsc-20161116.pdf), Federal Reserve Bank, Boston, MA, November 15, 2016.
 * 2016 ISSA International Conference, Hyatt Regency Dallas, Dallas, TX, November 1, 2016. (declined)
 * [The Eleventh HOPE](/docs/hope2016.pdf), Hotel Pennsylvania, New York, NY, July 23, 2016.
-* <iframe id="lsembed_1470786843" src="//livestream.com/accounts/9198012/events/5834263/videos/131672227/player?autoPlay=false&amp;height=360&amp;mute=false&amp;width=640" width="640" height="360" scrolling="no" allowfullscreen></iframe> 
+* <iframe width="560" height="315" src="https://www.youtube.com/embed/leZedygrR20" allowfullscreen></iframe>
 * [SOURCE Conference Boston 2016](/docs/source2016.pdf), Marriott Tremont, Boston, MA, May 18, 2016.
 * New England Security Day Spring 2016, Harvard University, Cambridge, MA, April 28, 2016.
 
