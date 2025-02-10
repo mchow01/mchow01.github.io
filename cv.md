@@ -106,6 +106,8 @@ _Lecturer_
 	* Hosted a colloquium entitled "Building Privacy-Aware Applications" with guest speaker JC Cannon from Microsoft for the Tufts Department of Computer Science.
 
 ## Presentations and Publications
+* _Panel: Curriculum Innovation & Design_.  Cybersecurity and Justice Pedagogy Conference at Bridgewater State University, November 1, 2024.
+* _AI in Academia and Curriculum Integration_. Computer Information Technology Programs at Benjamin Franklin Cummings Institute of Technology Faculty Meeting, April 5, 2024.
 * _ChatGPT_. Tufts University AS&E Spring 2023 Faculty Forum, April 5, 2023.
 * _Lessons Not Learned in the Last Ten Years_. Tactical Edge Virtual Summit 2021, June 23, 2021.
 * _Packet Analysis Using Wireshark_. Intro Sec Con (@IntroSecCon), Virtual Conference, April 25, 2020.
