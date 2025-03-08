@@ -5,7 +5,7 @@ date:   2025-03-08 15:00:00
 categories: education security
 ---
 
-Each time I teach my Security class, I give a month-long lab to crack as many passwords as possible.  For this spring's contest (opened on February 11th), I used two different hash types: MD5 and SHA-512.  The contest closed on March 7th at 11:59 PM PDT.  The password hashes (16 total):
+Each semester in my Security class, I give a month-long lab to crack as many passwords as possible.  For this spring's contest (opened on February 11th), I used two different hash types: MD5 and SHA-512.  The contest closed on March 7th at 11:59 PM PDT.  The password hashes (16 total):
 
 <pre>
 sisterbear:$1$ApfSxfFO$FknsTo4Mlv3nO82.ilT0q1:1001:1001:,,,:/home/sisterbear:/bin/bash
