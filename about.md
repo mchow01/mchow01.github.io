@@ -5,10 +5,10 @@ permalink: /about/
 ---
 
 ### Early Life and Education
-I was born in Boston, Massachusetts. I spent most of my childhood in Medford, MA and later moved to Saugus, MA.  I graduated from Saugus High School in 1998.
+I was born in Boston, Massachusetts. I spent first five years of my childhood in Medford, MA and later moved to Saugus, MA.  I graduated from Saugus High School in 1998.
 
 ### Short Professional Biography
-Ming Chow is a Teaching Professor at the Tufts University Department of Computer Science. His areas of interest are web and mobile security, and Computer Science education.   Ming has spoken at numerous organizations and conferences including the HTCIA, OWASP, InfoSec World, Design Automation Conference (DAC), DEF CON, Intel, SOURCE, HOPE, BSides, and ACM SIGCSE.  He has served as a mentor to a BSides Las Vegas Proving Ground track speaker since 2014, a track focused on helping new speakers in the information security and hacker communities acclimate to public speaking.  Ming was named the 2016 Henry and Madeline Fischer Award recipient at Tufts, awarded annually to a faculty member of the School of Engineering judged by graduating seniors of the School of Engineering to be "Engineering's Teacher of the Year."  He was named the 2017 Lerman-Neubauer Prize for Outstanding Teaching and Advising recipient at Tufts, awarded annually to a faculty member who has had a profound intellectual impact on his or her students, both inside and outside the classroom.
+Ming Chow is a Teaching Professor at Tufts University who has spoken at major conferences including DEF CON, HOPE, and BSides. He mentors new speakers in the cybersecurity community at BSides Las Vegas, serves on the Wall of Sheep team, and helped create the Massachusetts Cybersecurity Mentorship Program. Ming has received Tufts' top teaching awards, including the 2016 Henry and Madeline Fischer Award for "Engineering's Teacher of the Year" and the 2017 Lerman-Neubauer Prize for Outstanding Teaching and Advising.
 
 ### Hobbies
 I still play video games.  I don't bowl as much as I used to.  I haven't swung a golf club in over two years and counting.
