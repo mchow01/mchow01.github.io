@@ -108,7 +108,7 @@ permalink: /courses/
 
 ### Spring 2022
 
-* CS 28/ PS 188: Cyber Security and Cyber Warfare
+* CS 28 / PS 188: Cyber Security and Cyber Warfare
 	* Enrollment (number of students): 39
 	* Overall Course Rating (of 35 responses): 4.43 / 5.0
 	* Overall Performance of Instructor (of 35 responses): 4.63 / 5.0

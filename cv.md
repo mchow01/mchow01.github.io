@@ -47,9 +47,9 @@ _Lecturer, September 2009 to August 2015_
 #### Courses at Tufts University
 
 * _CS 116: Computer System Security_ (a.k.a., _Introduction to Security_)
-	* Taught in Spring 2011, Spring 2012, Fall 2013, Fall 2014, Fall 2015, Fall 2016, Summer 2017 (online), Fall 2017, Spring 2018, Summer 2018 (online), Fall 2018, Summer 2019 (online), Fall 2019, Spring 2020, Summer 2020, Fall 2020, Spring 2021, Summer 2021, Fall 2021, Spring 2022, Fall 2022, Spring 2023, Fall 2023
+	* Taught in Spring 2011, Spring 2012, Fall 2013, Fall 2014, Fall 2015, Fall 2016, Summer 2017 (online), Fall 2017, Spring 2018, Summer 2018 (online), Fall 2018, Summer 2019 (online), Fall 2019, Spring 2020, Summer 2020, Fall 2020, Spring 2021, Summer 2021, Fall 2021, Spring 2022, Fall 2022, Spring 2023, Fall 2023, Spring 2024, Fall 2024, Spring 2025
 * _CS 28 / PS 188: Cyber Security and Cyber Warfare_
-	* Taught in Spring 2017, Spring 2019, Spring 2020, Spring 2022
+	* Taught in Spring 2017, Spring 2019, Spring 2020, Spring 2022, Spring 2024, Spring 2025
 	* Cross-listed with Department of Political Science
 * _CS 120: Web Programming and Engineering_
 	* Taught in Spring 2010, Spring 2011, Fall 2011, Fall 2013, Spring 2015, Spring 2016, Spring 2017, Summer 2020 (online), Summer 2021 (online), Fall 2023 (online), Spring 2023 (onlne)
@@ -161,6 +161,7 @@ _Lecturer_
 * _What is Outstanding in Your Security and Compliance Practice?_ Northeast Regional Computing Program (NERCS) Workshop: Achieving Optimal Security and Compliance in Higher Education, University of Massachusetts Amherst, November 14, 2005.
 
 ## Media and Press
+* ["“Online Education Works”: Ming Chow, Tufts Computer Science Professor"](https://onlinesoe.tufts.edu/blog/ming-chow-explains-why-online-education-works/){:target="_blank"}
 * ["Tufts University Students Help Nonprofits With Cybersecurity"](https://www.govtech.com/education/higher-ed/tufts-university-students-help-nonprofits-with-cybersecurity){:target="_blank"}
 * ["These Students Work to Keep Nonprofits Safe From Hackers"](https://now.tufts.edu/2024/12/06/these-students-work-keep-nonprofits-safe-hackers){:target="_blank"}
 * ["Top Florida Law Official Describes 'Extremely Lax' Security At Hacked Water Plant"](https://news.wjct.org/post/top-florida-law-official-describes-extremely-lax-security-hacked-water-plant){:target="_blank"}
