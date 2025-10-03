@@ -24,3 +24,6 @@ I was a season ticket holder for Boston University Men's Ice Hockey for over a d
 
 ### Favorite Video Game
 Castlevania: Symphony of the Night
+
+### Favorite Boss Fight
+Mantis Lords in Hollow Knight
