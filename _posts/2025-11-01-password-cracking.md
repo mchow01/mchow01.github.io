@@ -66,7 +66,7 @@ Average number of passwords cracked: 9.218181818
 
 Median number of passwords cracked: 10
 
-How I created this spring's password cracking contest:
+How I created this fall's password cracking contest:
 * sisterbear's password => taken from `xato-net-10-million-passwords-10000.txt` in Daniel Miessler's SecLists
 * grizzlybear's password => taken from `darkc0de.txt` in Daniel Miessler's SecLists
 * jackbear's password => taken from `darkc0de.txt` in Daniel Miessler's SecLists
