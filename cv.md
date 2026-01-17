@@ -29,6 +29,8 @@ _Senior Lecturer, Department of Computer Science, September 2015 to August 2019_
 
 _Lecturer, September 2009 to August 2015_
 
+* Founder and Director of the Tufts Cybersecurity Clinic
+* Founding Faculty Advisor for the Tufts Chapter of Women in Cybersecurity (WiCyS)
 * [Awarded the 2022 Tufts Teaching with Technology Award](https://sites.tufts.edu/teaching/2022/06/21/congratulations-to-the-2022-teaching-with-technology-award-recipients/)
 * [Mentored runner-up team in inaugural Veracode Hacker Games](https://www.veracode.com/events/hacker-games)
 * [Led the establishment of the Cooperative Education program with the School of Engineering; created new ES 85 Cooperative Education course which launched in fall 2020](https://engineering.tufts.edu/undergraduate/coop-programs)
@@ -46,10 +48,11 @@ _Lecturer, September 2009 to August 2015_
 
 #### Courses at Tufts University
 
+* CS 195 and 196: Cybersecurity Clinic
 * _CS 116: Computer System Security_ (a.k.a., _Introduction to Security_)
-	* Taught in Spring 2011, Spring 2012, Fall 2013, Fall 2014, Fall 2015, Fall 2016, Summer 2017 (online), Fall 2017, Spring 2018, Summer 2018 (online), Fall 2018, Summer 2019 (online), Fall 2019, Spring 2020, Summer 2020, Fall 2020, Spring 2021, Summer 2021, Fall 2021, Spring 2022, Fall 2022, Spring 2023, Fall 2023, Spring 2024, Fall 2024, Spring 2025
+	* Taught in Spring 2011, Spring 2012, Fall 2013, Fall 2014, Fall 2015, Fall 2016, Summer 2017 (online), Fall 2017, Spring 2018, Summer 2018 (online), Fall 2018, Summer 2019 (online), Fall 2019, Spring 2020, Summer 2020, Fall 2020, Spring 2021, Summer 2021, Fall 2021, Spring 2022, Fall 2022, Spring 2023, Fall 2023, Spring 2024, Fall 2024, Spring 2025, Fall 2025, Spring 2026
 * _CS 28 / PS 188: Cyber Security and Cyber Warfare_
-	* Taught in Spring 2017, Spring 2019, Spring 2020, Spring 2022, Spring 2024, Spring 2025
+	* Taught in Spring 2017, Spring 2019, Spring 2020, Spring 2022, Spring 2024, Spring 2025, Spring 2026
 	* Cross-listed with Department of Political Science
 * _CS 120: Web Programming and Engineering_
 	* Taught in Spring 2010, Spring 2011, Fall 2011, Fall 2013, Spring 2015, Spring 2016, Spring 2017, Summer 2020 (online), Summer 2021 (online), Fall 2023 (online), Spring 2023 (onlne)
@@ -193,6 +196,7 @@ _Lecturer_
 * UMass Dartmouth Cybersecurity Program (NSA CAE) Board of Advisors, current
 
 **BSides Las Vegas Security Conference Proving Ground Track Mentor**
+* 2025: Raviteja
 * 2019: Joe O' Connell
 * 2018: Andrew Gish-Johnson
 * 2017: Nitha Suresh
