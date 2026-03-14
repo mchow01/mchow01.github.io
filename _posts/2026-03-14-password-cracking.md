@@ -124,3 +124,7 @@ Selected methodologies and hauls from students:
 > it as seclist_passwords.txt. Running hashcat -m 500 -a 0 targets_batch1.txt seclist_passwords.txt -O
 > against the remaining MD5-crypt hashes yielded the final password:
 > barneybear:7WaSEDR629.
+
+A note to self for the fall 2026 contest...
+
+![Fall 2026](/images/passwords.jpg "Fall 2026")
